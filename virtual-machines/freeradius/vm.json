@@ -47,7 +47,7 @@
           "1"
         ]
       ],
-      "vm_name": "freeradius-debian-7.4"
+      "vm_name": "{{ user `package` }}-debian-7.4"
     }
   ],
   "post-processors": [
@@ -57,7 +57,7 @@
       "only": [
         "virtualbox-iso"
       ],
-      "output": "freeradius.box",
+      "output": "{{ user `package` }}.box",
       "type": "vagrant"
     }
   ],
@@ -70,13 +70,14 @@
         "prereqs/sudo.sh",
         "prereqs/vagrant.sh",
         "prereqs/virtualbox.sh",
-        "prereqs/freeradius-mysql.sh",
+        "prereqs/{{ user `package`}}.sh",
         "prereqs/cleanup.sh"
       ],
       "type": "shell"
     }
   ],
   "variables": {
+    "package": "freeradius",
     "mirror": "http://cdimage.debian.org/cdimage/release"
   }
 }
