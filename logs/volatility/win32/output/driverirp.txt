@@ -1,0 +1,3069 @@
+--------------------------------------------------
+DriverName: usbhub
+DriverStart: 0xf9b2c000
+DriverSize: 0xe880
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9b2e59c usbhub.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9b2e59c usbhub.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9b2e59c usbhub.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9b2e59c usbhub.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9b2e59c usbhub.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9b2e59c usbhub.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9b2e59c usbhub.sys
+--------------------------------------------------
+DriverName: NDProxy
+DriverStart: 0xf9b0c000
+DriverSize: 0xa000
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9b0eb60 NDProxy.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9b0eb60 NDProxy.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9b0ee92 NDProxy.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9b0ebb6 NDProxy.SYS
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: Raspti
+DriverStart: 0xf9cdc000
+DriverSize: 0x4080
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf96e4e4e NDIS.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf96eb1f4 NDIS.sys
+   2 IRP_MJ_CLOSE                         0xf96e4d7f NDIS.sys
+   3 IRP_MJ_READ                          0xf96eb1f4 NDIS.sys
+   4 IRP_MJ_WRITE                         0xf96eb1f4 NDIS.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf96eb1f4 NDIS.sys
+   6 IRP_MJ_SET_INFORMATION               0xf96eb1f4 NDIS.sys
+   7 IRP_MJ_QUERY_EA                      0xf96eb1f4 NDIS.sys
+   8 IRP_MJ_SET_EA                        0xf96eb1f4 NDIS.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf96eb1f4 NDIS.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf96eb1f4 NDIS.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf96eb1f4 NDIS.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf96eb1f4 NDIS.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf96eb1f4 NDIS.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf96eb010 NDIS.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf96eb1f4 NDIS.sys
+  16 IRP_MJ_SHUTDOWN                      0xf96eb1f4 NDIS.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf96eb1f4 NDIS.sys
+  18 IRP_MJ_CLEANUP                       0xf96eb1f4 NDIS.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf96eb1f4 NDIS.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf96eb1f4 NDIS.sys
+  21 IRP_MJ_SET_SECURITY                  0xf96eb1f4 NDIS.sys
+  22 IRP_MJ_POWER                         0xf96f889a NDIS.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf96eb415 NDIS.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf96eb1f4 NDIS.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf96eb1f4 NDIS.sys
+  26 IRP_MJ_SET_QUOTA                     0xf96eb1f4 NDIS.sys
+  27 IRP_MJ_PNP                           0xf96edab9 NDIS.sys
+--------------------------------------------------
+DriverName: Ptilink
+DriverStart: 0xf9cd4000
+DriverSize: 0x4580
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9cd71f2 ptilink.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9cd6ac0 ptilink.sys
+   3 IRP_MJ_READ                          0xf9cd48c0 ptilink.sys
+   4 IRP_MJ_WRITE                         0xf9cd6cae ptilink.sys
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9cd49ac ptilink.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: Null
+DriverStart: 0xf9ffe000
+DriverSize: 0xb80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9ffe46e Null.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9ffe46e Null.SYS
+   3 IRP_MJ_READ                          0xf9ffe46e Null.SYS
+   4 IRP_MJ_WRITE                         0xf9ffe46e Null.SYS
+   5 IRP_MJ_QUERY_INFORMATION             0xf9ffe46e Null.SYS
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0xf9ffe46e Null.SYS
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: serenum
+DriverStart: 0xf9e50000
+DriverSize: 0x3d80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9e5093a serenum.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9e5081c serenum.sys
+   2 IRP_MJ_CLOSE                         0xf9e5093a serenum.sys
+   3 IRP_MJ_READ                          0xf9e5081c serenum.sys
+   4 IRP_MJ_WRITE                         0xf9e5081c serenum.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9e5081c serenum.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9e5081c serenum.sys
+   7 IRP_MJ_QUERY_EA                      0xf9e5081c serenum.sys
+   8 IRP_MJ_SET_EA                        0xf9e5081c serenum.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9e5081c serenum.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9e5081c serenum.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9e5081c serenum.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9e5081c serenum.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9e5081c serenum.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9e50a1e serenum.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9e50b34 serenum.sys
+  16 IRP_MJ_SHUTDOWN                      0xf9e5081c serenum.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf9e5081c serenum.sys
+  18 IRP_MJ_CLEANUP                       0xf9e5081c serenum.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9e5081c serenum.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf9e5081c serenum.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9e5081c serenum.sys
+  22 IRP_MJ_POWER                         0xf9e50d8a serenum.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9e5081c serenum.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf9e5081c serenum.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf9e5081c serenum.sys
+  26 IRP_MJ_SET_QUOTA                     0xf9e5081c serenum.sys
+  27 IRP_MJ_PNP                           0xf9e51a08 serenum.sys
+--------------------------------------------------
+DriverName: VMMEMCTL
+DriverStart: 0xf9f3e000
+DriverSize: 0x1e00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: VolSnap
+DriverStart: 0xf99bc000
+DriverSize: 0xcc80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf99be43e VolSnap.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf99bd76e VolSnap.sys
+   2 IRP_MJ_CLOSE                         0xf99bd76e VolSnap.sys
+   3 IRP_MJ_READ                          0xf99bc4f4 VolSnap.sys
+   4 IRP_MJ_WRITE                         0xf99bc9ec VolSnap.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf99bd76e VolSnap.sys
+   6 IRP_MJ_SET_INFORMATION               0xf99bd76e VolSnap.sys
+   7 IRP_MJ_QUERY_EA                      0xf99bd76e VolSnap.sys
+   8 IRP_MJ_SET_EA                        0xf99bd76e VolSnap.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf99bd76e VolSnap.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf99bd76e VolSnap.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf99bd76e VolSnap.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf99bd76e VolSnap.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf99bd76e VolSnap.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf99c4154 VolSnap.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf99bd76e VolSnap.sys
+  16 IRP_MJ_SHUTDOWN                      0xf99bd76e VolSnap.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf99bd76e VolSnap.sys
+  18 IRP_MJ_CLEANUP                       0xf99bc698 VolSnap.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf99bd76e VolSnap.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf99bd76e VolSnap.sys
+  21 IRP_MJ_SET_SECURITY                  0xf99bd76e VolSnap.sys
+  22 IRP_MJ_POWER                         0xf99bc492 VolSnap.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf99bd76e VolSnap.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf99bd76e VolSnap.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf99bd76e VolSnap.sys
+  26 IRP_MJ_SET_QUOTA                     0xf99bd76e VolSnap.sys
+  27 IRP_MJ_PNP                           0xf99c56f0 VolSnap.sys
+--------------------------------------------------
+DriverName: atapi
+DriverStart: 0xf97ff000
+DriverSize: 0x17900
+DriverStartIo: 0xf9806864
+   0 IRP_MJ_CREATE                        0xf98096f2 atapi.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf98096f2 atapi.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9809712 atapi.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9805852 atapi.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf980973c atapi.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9810336 atapi.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9810302 atapi.sys
+--------------------------------------------------
+DriverName: PCI
+DriverStart: 0xf985c000
+DriverSize: 0x10a80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf985d298 pci.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf985d298 pci.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf985d298 pci.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf985d298 pci.sys
+--------------------------------------------------
+DriverName: Wanarp
+DriverStart: 0xf9bac000
+DriverSize: 0x8700
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9bb2b16 wanarp.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9bb2b16 wanarp.sys
+   2 IRP_MJ_CLOSE                         0xf9bb2b16 wanarp.sys
+   3 IRP_MJ_READ                          0xf9bb2b16 wanarp.sys
+   4 IRP_MJ_WRITE                         0xf9bb2b16 wanarp.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9bb2b16 wanarp.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9bb2b16 wanarp.sys
+   7 IRP_MJ_QUERY_EA                      0xf9bb2b16 wanarp.sys
+   8 IRP_MJ_SET_EA                        0xf9bb2b16 wanarp.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9bb2b16 wanarp.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9bb2b16 wanarp.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9bb2b16 wanarp.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9bb2b16 wanarp.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9bb2b16 wanarp.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9bb2b16 wanarp.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9bb2b16 wanarp.sys
+  16 IRP_MJ_SHUTDOWN                      0xf9bb2b16 wanarp.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf9bb2b16 wanarp.sys
+  18 IRP_MJ_CLEANUP                       0xf9bb2b16 wanarp.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9bb2b16 wanarp.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf9bb2b16 wanarp.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9bb2b16 wanarp.sys
+  22 IRP_MJ_POWER                         0xf9bb2b16 wanarp.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9bb2b16 wanarp.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf9bb2b16 wanarp.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf9bb2b16 wanarp.sys
+  26 IRP_MJ_SET_QUOTA                     0xf9bb2b16 wanarp.sys
+  27 IRP_MJ_PNP                           0xf9bb2b16 wanarp.sys
+--------------------------------------------------
+DriverName: TermDD
+DriverStart: 0xf9afc000
+DriverSize: 0x9f00
+DriverStartIo: 0xf9b02960
+   0 IRP_MJ_CREATE                        0xf9afee50 termdd.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9afee50 termdd.sys
+   2 IRP_MJ_CLOSE                         0xf9afee50 termdd.sys
+   3 IRP_MJ_READ                          0xf9afee50 termdd.sys
+   4 IRP_MJ_WRITE                         0xf9afee50 termdd.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9afee50 termdd.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9afee50 termdd.sys
+   7 IRP_MJ_QUERY_EA                      0xf9afee50 termdd.sys
+   8 IRP_MJ_SET_EA                        0xf9afee50 termdd.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9afee50 termdd.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9afee50 termdd.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9afee50 termdd.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9afee50 termdd.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9afee50 termdd.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9afee50 termdd.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9afee50 termdd.sys
+  16 IRP_MJ_SHUTDOWN                      0xf9afee50 termdd.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf9afee50 termdd.sys
+  18 IRP_MJ_CLEANUP                       0xf9afee50 termdd.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9afee50 termdd.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf9afee50 termdd.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9afee50 termdd.sys
+  22 IRP_MJ_POWER                         0xf9afee50 termdd.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9afee50 termdd.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf9afee50 termdd.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf9afee50 termdd.sys
+  26 IRP_MJ_SET_QUOTA                     0xf9afee50 termdd.sys
+  27 IRP_MJ_PNP                           0xf9afee50 termdd.sys
+--------------------------------------------------
+DriverName: vmci
+DriverStart: 0xf9a9c000
+DriverSize: 0xd780
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9a9c622 vmci.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9a9c6f2 vmci.sys
+   3 IRP_MJ_READ                          0xf9a9c8c0 vmci.sys
+   4 IRP_MJ_WRITE                         0xf9a9c8c0 vmci.sys
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9a9c746 vmci.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9a9c692 vmci.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9a9d034 vmci.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9a9c898 vmci.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9a9cd62 vmci.sys
+--------------------------------------------------
+DriverName: Srv
+DriverStart: 0xf0850000
+DriverSize: 0x57380
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf0865a2f srv.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf0865a2f srv.sys
+   2 IRP_MJ_CLOSE                         0xf0865a2f srv.sys
+   3 IRP_MJ_READ                          0xf0865a2f srv.sys
+   4 IRP_MJ_WRITE                         0xf0865a2f srv.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf0865a2f srv.sys
+   6 IRP_MJ_SET_INFORMATION               0xf0865a2f srv.sys
+   7 IRP_MJ_QUERY_EA                      0xf0865a2f srv.sys
+   8 IRP_MJ_SET_EA                        0xf0865a2f srv.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf0865a2f srv.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf0865a2f srv.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf0865a2f srv.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf0865a2f srv.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf0865a2f srv.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf0865a2f srv.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf0865a2f srv.sys
+  16 IRP_MJ_SHUTDOWN                      0xf0865a2f srv.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf0865a2f srv.sys
+  18 IRP_MJ_CLEANUP                       0xf0865a2f srv.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf0865a2f srv.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf0865a2f srv.sys
+  21 IRP_MJ_SET_SECURITY                  0xf0865a2f srv.sys
+  22 IRP_MJ_POWER                         0xf0865a2f srv.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf0865a2f srv.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf0865a2f srv.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf0865a2f srv.sys
+  26 IRP_MJ_SET_QUOTA                     0xf0865a2f srv.sys
+  27 IRP_MJ_PNP                           0xf0865a2f srv.sys
+--------------------------------------------------
+DriverName: MRxSmb
+DriverStart: 0xf0edb000
+DriverSize: 0x6f400
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf0eff309 mrxsmb.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf0eff309 mrxsmb.sys
+   2 IRP_MJ_CLOSE                         0xf0eff309 mrxsmb.sys
+   3 IRP_MJ_READ                          0xf0eff309 mrxsmb.sys
+   4 IRP_MJ_WRITE                         0xf0eff309 mrxsmb.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf0eff309 mrxsmb.sys
+   6 IRP_MJ_SET_INFORMATION               0xf0eff309 mrxsmb.sys
+   7 IRP_MJ_QUERY_EA                      0xf0eff309 mrxsmb.sys
+   8 IRP_MJ_SET_EA                        0xf0eff309 mrxsmb.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf0eff309 mrxsmb.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf0eff309 mrxsmb.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf0eff309 mrxsmb.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf0eff309 mrxsmb.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf0eff309 mrxsmb.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf0eff309 mrxsmb.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf0eff309 mrxsmb.sys
+  16 IRP_MJ_SHUTDOWN                      0xf0eff309 mrxsmb.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf0eff309 mrxsmb.sys
+  18 IRP_MJ_CLEANUP                       0xf0eff309 mrxsmb.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf0eff309 mrxsmb.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf0eff309 mrxsmb.sys
+  21 IRP_MJ_SET_SECURITY                  0xf0eff309 mrxsmb.sys
+  22 IRP_MJ_POWER                         0xf0eff309 mrxsmb.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf0eff309 mrxsmb.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf0eff309 mrxsmb.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf0eff309 mrxsmb.sys
+  26 IRP_MJ_SET_QUOTA                     0xf0eff309 mrxsmb.sys
+  27 IRP_MJ_PNP                           0xf0eff309 mrxsmb.sys
+--------------------------------------------------
+DriverName: Fips
+DriverStart: 0xf9b7c000
+DriverSize: 0xae00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9b7cd3e Fips.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9b7cd3e Fips.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9b7cd62 Fips.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: Rdbss
+DriverStart: 0xf0f73000
+DriverSize: 0x2ae80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf0f7dc29 rdbss.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf0f7dc29 rdbss.sys
+   2 IRP_MJ_CLOSE                         0xf0f7dc29 rdbss.sys
+   3 IRP_MJ_READ                          0xf0f7dc29 rdbss.sys
+   4 IRP_MJ_WRITE                         0xf0f7dc29 rdbss.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf0f7dc29 rdbss.sys
+   6 IRP_MJ_SET_INFORMATION               0xf0f7dc29 rdbss.sys
+   7 IRP_MJ_QUERY_EA                      0xf0f7dc29 rdbss.sys
+   8 IRP_MJ_SET_EA                        0xf0f7dc29 rdbss.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf0f7dc29 rdbss.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf0f7dc29 rdbss.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf0f7dc29 rdbss.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf0f7dc29 rdbss.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf0f7dc29 rdbss.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf0f7dc29 rdbss.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf0f7dc29 rdbss.sys
+  16 IRP_MJ_SHUTDOWN                      0xf0f7dc29 rdbss.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf0f7dc29 rdbss.sys
+  18 IRP_MJ_CLEANUP                       0xf0f7dc29 rdbss.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf0f7dc29 rdbss.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf0f7dc29 rdbss.sys
+  21 IRP_MJ_SET_SECURITY                  0xf0f7dc29 rdbss.sys
+  22 IRP_MJ_POWER                         0xf0f7dc29 rdbss.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf0f7dc29 rdbss.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf0f7dc29 rdbss.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf0f7dc29 rdbss.sys
+  26 IRP_MJ_SET_QUOTA                     0xf0f7dc29 rdbss.sys
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: RDPCDD
+DriverStart: 0xf9ec0000
+DriverSize: 0x1080
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf94ecc6a VIDEOPRT.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf94ecc6a VIDEOPRT.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf94ecc6a VIDEOPRT.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0xf94ecc6a VIDEOPRT.SYS
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: dmio
+DriverStart: 0xf9817000
+DriverSize: 0x25700
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9819f6a dmio.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf981a020 dmio.sys
+   3 IRP_MJ_READ                          0xf981bd0e dmio.sys
+   4 IRP_MJ_WRITE                         0xf981bd74 dmio.sys
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf981c4e0 dmio.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf981bdee dmio.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf981d64e dmio.sys
+  16 IRP_MJ_SHUTDOWN                      0xf981c4e0 dmio.sys
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf981aa4c dmio.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf981b8fe dmio.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf981c5fc dmio.sys
+--------------------------------------------------
+DriverName: PartMgr
+DriverStart: 0xf9c24000
+DriverSize: 0x4d00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9c24306 PartMgr.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9c24306 PartMgr.sys
+   2 IRP_MJ_CLOSE                         0xf9c24306 PartMgr.sys
+   3 IRP_MJ_READ                          0xf9c2488c PartMgr.sys
+   4 IRP_MJ_WRITE                         0xf9c2488c PartMgr.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9c24306 PartMgr.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9c24306 PartMgr.sys
+   7 IRP_MJ_QUERY_EA                      0xf9c24306 PartMgr.sys
+   8 IRP_MJ_SET_EA                        0xf9c24306 PartMgr.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9c24306 PartMgr.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9c24306 PartMgr.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9c24306 PartMgr.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9c24306 PartMgr.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9c24306 PartMgr.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9c26878 PartMgr.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9c24306 PartMgr.sys
+  16 IRP_MJ_SHUTDOWN                      0xf9c24306 PartMgr.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf9c24306 PartMgr.sys
+  18 IRP_MJ_CLEANUP                       0xf9c24306 PartMgr.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9c24306 PartMgr.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf9c24306 PartMgr.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9c24306 PartMgr.sys
+  22 IRP_MJ_POWER                         0xf9c24656 PartMgr.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9c25e3c PartMgr.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf9c24306 PartMgr.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf9c24306 PartMgr.sys
+  26 IRP_MJ_SET_QUOTA                     0xf9c24306 PartMgr.sys
+  27 IRP_MJ_PNP                           0xf9c2716e PartMgr.sys
+--------------------------------------------------
+DriverName: mssmbios
+DriverStart: 0xf9e84000
+DriverSize: 0x3c80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9e8448a mssmbios.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9e8457a mssmbios.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9e845fc mssmbios.sys
+--------------------------------------------------
+DriverName: Update
+DriverStart: 0xf93dd000
+DriverSize: 0x5df00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf93ddb7c update.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf93ded16 update.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf93ded70 update.sys
+--------------------------------------------------
+DriverName: swenum
+DriverStart: 0xf9eae000
+DriverSize: 0x1100
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9eae768 swenum.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9eae828 swenum.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9eae7d2 swenum.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9eae396 swenum.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9eae332 swenum.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9eae690 swenum.sys
+--------------------------------------------------
+DriverName: vmxnet
+DriverStart: 0xf9cbc000
+DriverSize: 0x7600
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf96e4e4e NDIS.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf96eb1f4 NDIS.sys
+   2 IRP_MJ_CLOSE                         0xf96e4d7f NDIS.sys
+   3 IRP_MJ_READ                          0xf96eb1f4 NDIS.sys
+   4 IRP_MJ_WRITE                         0xf96eb1f4 NDIS.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf96eb1f4 NDIS.sys
+   6 IRP_MJ_SET_INFORMATION               0xf96eb1f4 NDIS.sys
+   7 IRP_MJ_QUERY_EA                      0xf96eb1f4 NDIS.sys
+   8 IRP_MJ_SET_EA                        0xf96eb1f4 NDIS.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf96eb1f4 NDIS.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf96eb1f4 NDIS.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf96eb1f4 NDIS.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf96eb1f4 NDIS.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf96eb1f4 NDIS.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf96eb010 NDIS.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf96eb1f4 NDIS.sys
+  16 IRP_MJ_SHUTDOWN                      0xf96eb1f4 NDIS.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf96eb1f4 NDIS.sys
+  18 IRP_MJ_CLEANUP                       0xf96eb1f4 NDIS.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf96eb1f4 NDIS.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf96eb1f4 NDIS.sys
+  21 IRP_MJ_SET_SECURITY                  0xf96eb1f4 NDIS.sys
+  22 IRP_MJ_POWER                         0xf96f889a NDIS.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf96eb415 NDIS.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf96eb1f4 NDIS.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf96eb1f4 NDIS.sys
+  26 IRP_MJ_SET_QUOTA                     0xf96eb1f4 NDIS.sys
+  27 IRP_MJ_PNP                           0xf96edab9 NDIS.sys
+--------------------------------------------------
+DriverName: Npfs
+DriverStart: 0xf9d14000
+DriverSize: 0x7880
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9d156da Npfs.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9d15c42 Npfs.SYS
+   2 IRP_MJ_CLOSE                         0xf9d15182 Npfs.SYS
+   3 IRP_MJ_READ                          0xf9d1876a Npfs.SYS
+   4 IRP_MJ_WRITE                         0xf9d19d88 Npfs.SYS
+   5 IRP_MJ_QUERY_INFORMATION             0xf9d16c46 Npfs.SYS
+   6 IRP_MJ_SET_INFORMATION               0xf9d16caa Npfs.SYS
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9d16ea6 Npfs.SYS
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9d19b10 Npfs.SYS
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9d165a6 Npfs.SYS
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9d183ba Npfs.SYS
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9d1508e Npfs.SYS
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0xf9d18d92 Npfs.SYS
+  21 IRP_MJ_SET_SECURITY                  0xf9d18df6 Npfs.SYS
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: MRxDAV
+DriverStart: 0xf0a10000
+DriverSize: 0x2c180
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf0a1adb2 mrxdav.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf0a1adb2 mrxdav.sys
+   2 IRP_MJ_CLOSE                         0xf0a1adb2 mrxdav.sys
+   3 IRP_MJ_READ                          0xf0a1adb2 mrxdav.sys
+   4 IRP_MJ_WRITE                         0xf0a1adb2 mrxdav.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf0a1adb2 mrxdav.sys
+   6 IRP_MJ_SET_INFORMATION               0xf0a1adb2 mrxdav.sys
+   7 IRP_MJ_QUERY_EA                      0xf0a1adb2 mrxdav.sys
+   8 IRP_MJ_SET_EA                        0xf0a1adb2 mrxdav.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf0a1adb2 mrxdav.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf0a1adb2 mrxdav.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf0a1adb2 mrxdav.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf0a1adb2 mrxdav.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf0a1adb2 mrxdav.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf0a1adb2 mrxdav.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf0a1adb2 mrxdav.sys
+  16 IRP_MJ_SHUTDOWN                      0xf0a1adb2 mrxdav.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf0a1adb2 mrxdav.sys
+  18 IRP_MJ_CLEANUP                       0xf0a1adb2 mrxdav.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf0a1adb2 mrxdav.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf0a1adb2 mrxdav.sys
+  21 IRP_MJ_SET_SECURITY                  0xf0a1adb2 mrxdav.sys
+  22 IRP_MJ_POWER                         0xf0a1adb2 mrxdav.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf0a1adb2 mrxdav.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf0a1adb2 mrxdav.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf0a1adb2 mrxdav.sys
+  26 IRP_MJ_SET_QUOTA                     0xf0a1adb2 mrxdav.sys
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: Fs_Rec
+DriverStart: 0xf9eba000
+DriverSize: 0x1f00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9eba512 Fs_Rec.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9eba500 Fs_Rec.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9eba544 Fs_Rec.SYS
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0xf9eba5be Fs_Rec.SYS
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9eba500 Fs_Rec.SYS
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: RasPppoe
+DriverStart: 0xf9acc000
+DriverSize: 0xa200
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf96e4e4e NDIS.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf96eb1f4 NDIS.sys
+   2 IRP_MJ_CLOSE                         0xf96e4d7f NDIS.sys
+   3 IRP_MJ_READ                          0xf96eb1f4 NDIS.sys
+   4 IRP_MJ_WRITE                         0xf96eb1f4 NDIS.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf96eb1f4 NDIS.sys
+   6 IRP_MJ_SET_INFORMATION               0xf96eb1f4 NDIS.sys
+   7 IRP_MJ_QUERY_EA                      0xf96eb1f4 NDIS.sys
+   8 IRP_MJ_SET_EA                        0xf96eb1f4 NDIS.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf96eb1f4 NDIS.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf96eb1f4 NDIS.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf96eb1f4 NDIS.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf96eb1f4 NDIS.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf96eb1f4 NDIS.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf96eb010 NDIS.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf96eb1f4 NDIS.sys
+  16 IRP_MJ_SHUTDOWN                      0xf96eb1f4 NDIS.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf96eb1f4 NDIS.sys
+  18 IRP_MJ_CLEANUP                       0xf96eb1f4 NDIS.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf96eb1f4 NDIS.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf96eb1f4 NDIS.sys
+  21 IRP_MJ_SET_SECURITY                  0xf96eb1f4 NDIS.sys
+  22 IRP_MJ_POWER                         0xf96f889a NDIS.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf96eb415 NDIS.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf96eb1f4 NDIS.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf96eb1f4 NDIS.sys
+  26 IRP_MJ_SET_QUOTA                     0xf96eb1f4 NDIS.sys
+  27 IRP_MJ_PNP                           0xf96edab9 NDIS.sys
+--------------------------------------------------
+DriverName: usbccgp
+DriverStart: 0xf9d24000
+DriverSize: 0x7d80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9d24450 usbccgp.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9d24450 usbccgp.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9d24450 usbccgp.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9d24450 usbccgp.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9d24450 usbccgp.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9d24450 usbccgp.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9d24450 usbccgp.sys
+--------------------------------------------------
+DriverName: ParVdm
+DriverStart: 0xf9f3c000
+DriverSize: 0x1a80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9f3c4be ParVdm.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9f3c588 ParVdm.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9f3c5f4 ParVdm.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: IpNat
+DriverStart: 0xf0e9d000
+DriverSize: 0x25500
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf0e9e436 ipnat.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf0e9e436 ipnat.sys
+   2 IRP_MJ_CLOSE                         0xf0e9e436 ipnat.sys
+   3 IRP_MJ_READ                          0xf0e9e436 ipnat.sys
+   4 IRP_MJ_WRITE                         0xf0e9e436 ipnat.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf0e9e436 ipnat.sys
+   6 IRP_MJ_SET_INFORMATION               0xf0e9e436 ipnat.sys
+   7 IRP_MJ_QUERY_EA                      0xf0e9e436 ipnat.sys
+   8 IRP_MJ_SET_EA                        0xf0e9e436 ipnat.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf0e9e436 ipnat.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf0e9e436 ipnat.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf0e9e436 ipnat.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf0e9e436 ipnat.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf0e9e436 ipnat.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf0e9e436 ipnat.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf0e9e436 ipnat.sys
+  16 IRP_MJ_SHUTDOWN                      0xf0e9e436 ipnat.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf0e9e436 ipnat.sys
+  18 IRP_MJ_CLEANUP                       0xf0e9e436 ipnat.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf0e9e436 ipnat.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf0e9e436 ipnat.sys
+  21 IRP_MJ_SET_SECURITY                  0xf0e9e436 ipnat.sys
+  22 IRP_MJ_POWER                         0xf0e9e436 ipnat.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf0e9e436 ipnat.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf0e9e436 ipnat.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf0e9e436 ipnat.sys
+  26 IRP_MJ_SET_QUOTA                     0xf0e9e436 ipnat.sys
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: HTTP
+DriverStart: 0xf0387000
+DriverSize: 0x40e00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf03ab39e HTTP.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf03ab01e HTTP.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf038a4a0 HTTP.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf0389d20 HTTP.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0xf03b99a6 HTTP.sys
+  21 IRP_MJ_SET_SECURITY                  0xf03b9946 HTTP.sys
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0xf03bd7f2 HTTP.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: rdpdr
+DriverStart: 0xf943b000
+DriverSize: 0x2fe80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf943d984 rdpdr.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf943d984 rdpdr.sys
+   2 IRP_MJ_CLOSE                         0xf943d984 rdpdr.sys
+   3 IRP_MJ_READ                          0xf943d984 rdpdr.sys
+   4 IRP_MJ_WRITE                         0xf943d984 rdpdr.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf943d984 rdpdr.sys
+   6 IRP_MJ_SET_INFORMATION               0xf943d984 rdpdr.sys
+   7 IRP_MJ_QUERY_EA                      0xf943d984 rdpdr.sys
+   8 IRP_MJ_SET_EA                        0xf943d984 rdpdr.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf943d984 rdpdr.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf943d984 rdpdr.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf943d984 rdpdr.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf943d984 rdpdr.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf943d984 rdpdr.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf943d984 rdpdr.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf943d984 rdpdr.sys
+  16 IRP_MJ_SHUTDOWN                      0xf943d984 rdpdr.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf943d984 rdpdr.sys
+  18 IRP_MJ_CLEANUP                       0xf943d984 rdpdr.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf943d984 rdpdr.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf943d984 rdpdr.sys
+  21 IRP_MJ_SET_SECURITY                  0xf943d984 rdpdr.sys
+  22 IRP_MJ_POWER                         0xf943d984 rdpdr.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf943d984 rdpdr.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf943d984 rdpdr.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf943d984 rdpdr.sys
+  26 IRP_MJ_SET_QUOTA                     0xf943d984 rdpdr.sys
+  27 IRP_MJ_PNP                           0xf943d984 rdpdr.sys
+--------------------------------------------------
+DriverName: PptpMiniport
+DriverStart: 0xf9adc000
+DriverSize: 0xbd00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf96e4e4e NDIS.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf96eb1f4 NDIS.sys
+   2 IRP_MJ_CLOSE                         0xf96e4d7f NDIS.sys
+   3 IRP_MJ_READ                          0xf96eb1f4 NDIS.sys
+   4 IRP_MJ_WRITE                         0xf96eb1f4 NDIS.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf96eb1f4 NDIS.sys
+   6 IRP_MJ_SET_INFORMATION               0xf96eb1f4 NDIS.sys
+   7 IRP_MJ_QUERY_EA                      0xf96eb1f4 NDIS.sys
+   8 IRP_MJ_SET_EA                        0xf96eb1f4 NDIS.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf96eb1f4 NDIS.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf96eb1f4 NDIS.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf96eb1f4 NDIS.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf96eb1f4 NDIS.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf96eb1f4 NDIS.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf96eb010 NDIS.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf96eb1f4 NDIS.sys
+  16 IRP_MJ_SHUTDOWN                      0xf96eb1f4 NDIS.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf96eb1f4 NDIS.sys
+  18 IRP_MJ_CLEANUP                       0xf96eb1f4 NDIS.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf96eb1f4 NDIS.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf96eb1f4 NDIS.sys
+  21 IRP_MJ_SET_SECURITY                  0xf96eb1f4 NDIS.sys
+  22 IRP_MJ_POWER                         0xf96f889a NDIS.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf96eb415 NDIS.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf96eb1f4 NDIS.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf96eb1f4 NDIS.sys
+  26 IRP_MJ_SET_QUOTA                     0xf96eb1f4 NDIS.sys
+  27 IRP_MJ_PNP                           0xf96edab9 NDIS.sys
+--------------------------------------------------
+DriverName: Ndisuio
+DriverStart: 0xf0d65000
+DriverSize: 0x3900
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf0d67774 ndisuio.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf0d677a0 ndisuio.sys
+   3 IRP_MJ_READ                          0xf0d66d5c ndisuio.sys
+   4 IRP_MJ_WRITE                         0xf0d6721e ndisuio.sys
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf0d677e4 ndisuio.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf0d65306 ndisuio.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: vmx_svga
+DriverStart: 0xf9cac000
+DriverSize: 0x5380
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf94ecc6a VIDEOPRT.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf94ecc6a VIDEOPRT.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf94ecc6a VIDEOPRT.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0xf94ecc6a VIDEOPRT.SYS
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf94e91c4 VIDEOPRT.SYS
+  23 IRP_MJ_SYSTEM_CONTROL                0xf94e0888 VIDEOPRT.SYS
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf94e8594 VIDEOPRT.SYS
+--------------------------------------------------
+DriverName: Cdrom
+DriverStart: 0xf9a7c000
+DriverSize: 0xf600
+DriverStartIo: 0xf99dd487
+   0 IRP_MJ_CREATE                        0xf99e2bb0 CLASSPNP.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf99e2bb0 CLASSPNP.SYS
+   3 IRP_MJ_READ                          0xf99dcd1f CLASSPNP.SYS
+   4 IRP_MJ_WRITE                         0xf99dcd1f CLASSPNP.SYS
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf99dd2e2 CLASSPNP.SYS
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf99dd3bb CLASSPNP.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf99e0f28 CLASSPNP.SYS
+  16 IRP_MJ_SHUTDOWN                      0xf99dd2e2 CLASSPNP.SYS
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf99dec82 CLASSPNP.SYS
+  23 IRP_MJ_SYSTEM_CONTROL                0xf99e399e CLASSPNP.SYS
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf99e2c93 CLASSPNP.SYS
+--------------------------------------------------
+DriverName: RasAcd
+DriverStart: 0xf9671000
+DriverSize: 0x2280
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9671f60 rasacd.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9671f60 rasacd.sys
+   2 IRP_MJ_CLOSE                         0xf9671f60 rasacd.sys
+   3 IRP_MJ_READ                          0xf9671f60 rasacd.sys
+   4 IRP_MJ_WRITE                         0xf9671f60 rasacd.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9671f60 rasacd.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9671f60 rasacd.sys
+   7 IRP_MJ_QUERY_EA                      0xf9671f60 rasacd.sys
+   8 IRP_MJ_SET_EA                        0xf9671f60 rasacd.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9671f60 rasacd.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9671f60 rasacd.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9671f60 rasacd.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9671f60 rasacd.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9671f60 rasacd.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9671f60 rasacd.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9671f60 rasacd.sys
+  16 IRP_MJ_SHUTDOWN                      0xf9671f60 rasacd.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf9671f60 rasacd.sys
+  18 IRP_MJ_CLEANUP                       0xf9671f60 rasacd.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9671f60 rasacd.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf9671f60 rasacd.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9671f60 rasacd.sys
+  22 IRP_MJ_POWER                         0xf9671f60 rasacd.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9671f60 rasacd.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf9671f60 rasacd.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf9671f60 rasacd.sys
+  26 IRP_MJ_SET_QUOTA                     0xf9671f60 rasacd.sys
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: FltMgr
+DriverStart: 0xf97c7000
+DriverSize: 0x1fb00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf97d74ea fltmgr.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf97d74ea fltmgr.sys
+   2 IRP_MJ_CLOSE                         0xf97caf4c fltmgr.sys
+   3 IRP_MJ_READ                          0xf97caf4c fltmgr.sys
+   4 IRP_MJ_WRITE                         0xf97caf4c fltmgr.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf97caf4c fltmgr.sys
+   6 IRP_MJ_SET_INFORMATION               0xf97caf4c fltmgr.sys
+   7 IRP_MJ_QUERY_EA                      0xf97caf4c fltmgr.sys
+   8 IRP_MJ_SET_EA                        0xf97caf4c fltmgr.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf97caf4c fltmgr.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf97caf4c fltmgr.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf97caf4c fltmgr.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf97caf4c fltmgr.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf97d7760 fltmgr.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf97caf4c fltmgr.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf97caf4c fltmgr.sys
+  16 IRP_MJ_SHUTDOWN                      0xf97caf4c fltmgr.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf97caf4c fltmgr.sys
+  18 IRP_MJ_CLEANUP                       0xf97caf4c fltmgr.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf97d74ea fltmgr.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf97caf4c fltmgr.sys
+  21 IRP_MJ_SET_SECURITY                  0xf97caf4c fltmgr.sys
+  22 IRP_MJ_POWER                         0xf97caf4c fltmgr.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf97caf4c fltmgr.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf97caf4c fltmgr.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf97caf4c fltmgr.sys
+  26 IRP_MJ_SET_QUOTA                     0xf97caf4c fltmgr.sys
+  27 IRP_MJ_PNP                           0xf97caf4c fltmgr.sys
+--------------------------------------------------
+DriverName: NDIS
+DriverStart: 0xf96e4000
+DriverSize: 0x2c980
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf96ec984 NDIS.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf96ec984 NDIS.sys
+   2 IRP_MJ_CLOSE                         0xf96ec984 NDIS.sys
+   3 IRP_MJ_READ                          0xf96ec984 NDIS.sys
+   4 IRP_MJ_WRITE                         0xf96ec984 NDIS.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf96ec984 NDIS.sys
+   6 IRP_MJ_SET_INFORMATION               0xf96ec984 NDIS.sys
+   7 IRP_MJ_QUERY_EA                      0xf96ec984 NDIS.sys
+   8 IRP_MJ_SET_EA                        0xf96ec984 NDIS.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf96ec984 NDIS.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf96ec984 NDIS.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf96ec984 NDIS.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf96ec984 NDIS.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf96ec984 NDIS.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf96ec984 NDIS.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf96ec984 NDIS.sys
+  16 IRP_MJ_SHUTDOWN                      0xf96ec984 NDIS.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf96ec984 NDIS.sys
+  18 IRP_MJ_CLEANUP                       0xf96ec984 NDIS.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf96ec984 NDIS.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf96ec984 NDIS.sys
+  21 IRP_MJ_SET_SECURITY                  0xf96ec984 NDIS.sys
+  22 IRP_MJ_POWER                         0xf96ec984 NDIS.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf96ec984 NDIS.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf96ec984 NDIS.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf96ec984 NDIS.sys
+  26 IRP_MJ_SET_QUOTA                     0xf96ec984 NDIS.sys
+  27 IRP_MJ_PNP                           0xf96ec984 NDIS.sys
+--------------------------------------------------
+DriverName: Ntfs
+DriverStart: 0xf9711000
+DriverSize: 0x8c600
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9736e01 Ntfs.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf97362ea Ntfs.sys
+   3 IRP_MJ_READ                          0xf9713f2f Ntfs.sys
+   4 IRP_MJ_WRITE                         0xf9712b4b Ntfs.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf97374b9 Ntfs.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9714abb Ntfs.sys
+   7 IRP_MJ_QUERY_EA                      0xf97374b9 Ntfs.sys
+   8 IRP_MJ_SET_EA                        0xf97374b9 Ntfs.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf97510e5 Ntfs.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9737604 Ntfs.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9737604 Ntfs.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf97391bd Ntfs.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf973b958 Ntfs.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9737604 Ntfs.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0xf97257f2 Ntfs.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf978ace9 Ntfs.sys
+  18 IRP_MJ_CLEANUP                       0xf9736cb8 Ntfs.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0xf9737604 Ntfs.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9737604 Ntfs.sys
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0xf97374b9 Ntfs.sys
+  26 IRP_MJ_SET_QUOTA                     0xf97374b9 Ntfs.sys
+  27 IRP_MJ_PNP                           0xf9753a0e Ntfs.sys
+--------------------------------------------------
+DriverName: KSecDD
+DriverStart: 0xf979e000
+DriverSize: 0x16b00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf97a4dfe KSecDD.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf97a4dfe KSecDD.sys
+   3 IRP_MJ_READ                          0xf97a4dfe KSecDD.sys
+   4 IRP_MJ_WRITE                         0xf97a4dfe KSecDD.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf97a4dfe KSecDD.sys
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf97a4dfe KSecDD.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf97a4dfe KSecDD.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: sr
+DriverStart: 0xf97b5000
+DriverSize: 0x11f00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf97ba726 sr.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf97b5428 sr.sys
+   2 IRP_MJ_CLOSE                         0xf97b5428 sr.sys
+   3 IRP_MJ_READ                          0xf97b5428 sr.sys
+   4 IRP_MJ_WRITE                         0xf97b5320 sr.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf97b5428 sr.sys
+   6 IRP_MJ_SET_INFORMATION               0xf97c2dcc sr.sys
+   7 IRP_MJ_QUERY_EA                      0xf97b5428 sr.sys
+   8 IRP_MJ_SET_EA                        0xf97b5428 sr.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf97b5428 sr.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf97b5428 sr.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf97b5428 sr.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf97b5428 sr.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf97badc4 sr.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf97b5428 sr.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf97b5428 sr.sys
+  16 IRP_MJ_SHUTDOWN                      0xf97ba5a2 sr.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf97b5428 sr.sys
+  18 IRP_MJ_CLEANUP                       0xf97b9b0c sr.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf97b5428 sr.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf97b5428 sr.sys
+  21 IRP_MJ_SET_SECURITY                  0xf97b9bca sr.sys
+  22 IRP_MJ_POWER                         0xf97b5428 sr.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf97b5428 sr.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf97b5428 sr.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf97b5428 sr.sys
+  26 IRP_MJ_SET_QUOTA                     0xf97b5428 sr.sys
+  27 IRP_MJ_PNP                           0xf97b9d52 sr.sys
+--------------------------------------------------
+DriverName: Disk
+DriverStart: 0xf99cc000
+DriverSize: 0x8e00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf99e2bb0 CLASSPNP.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf99e2bb0 CLASSPNP.SYS
+   3 IRP_MJ_READ                          0xf99dcd1f CLASSPNP.SYS
+   4 IRP_MJ_WRITE                         0xf99dcd1f CLASSPNP.SYS
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf99dd2e2 CLASSPNP.SYS
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf99dd3bb CLASSPNP.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf99e0f28 CLASSPNP.SYS
+  16 IRP_MJ_SHUTDOWN                      0xf99dd2e2 CLASSPNP.SYS
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf99dec82 CLASSPNP.SYS
+  23 IRP_MJ_SYSTEM_CONTROL                0xf99e399e CLASSPNP.SYS
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf99e2c93 CLASSPNP.SYS
+--------------------------------------------------
+DriverName: vmscsi
+DriverStart: 0xf9db8000
+DriverSize: 0x2c00
+DriverStartIo: 0xf97ea40e
+   0 IRP_MJ_CREATE                        0xf97e744c SCSIPORT.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf97e744c SCSIPORT.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf97e744c SCSIPORT.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf97e744c SCSIPORT.SYS
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf97e744c SCSIPORT.SYS
+  23 IRP_MJ_SYSTEM_CONTROL                0xf97e744c SCSIPORT.SYS
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf97e744c SCSIPORT.SYS
+--------------------------------------------------
+DriverName: AFD
+DriverStart: 0xf1000000
+DriverSize: 0x21d00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf100bd50 afd.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf100bd50 afd.sys
+   2 IRP_MJ_CLOSE                         0xf100bd50 afd.sys
+   3 IRP_MJ_READ                          0xf100bd50 afd.sys
+   4 IRP_MJ_WRITE                         0xf100bd50 afd.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf100bd50 afd.sys
+   6 IRP_MJ_SET_INFORMATION               0xf100bd50 afd.sys
+   7 IRP_MJ_QUERY_EA                      0xf100bd50 afd.sys
+   8 IRP_MJ_SET_EA                        0xf100bd50 afd.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf100bd50 afd.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf100bd50 afd.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf100bd50 afd.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf100bd50 afd.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf100bd50 afd.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf100b290 afd.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf100bd50 afd.sys
+  16 IRP_MJ_SHUTDOWN                      0xf100bd50 afd.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf100bd50 afd.sys
+  18 IRP_MJ_CLEANUP                       0xf100bd50 afd.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf100bd50 afd.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf100bd50 afd.sys
+  21 IRP_MJ_SET_SECURITY                  0xf100bd50 afd.sys
+  22 IRP_MJ_POWER                         0xf100bd50 afd.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf100bd50 afd.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf100bd50 afd.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf100bd50 afd.sys
+  26 IRP_MJ_SET_QUOTA                     0xf100bd50 afd.sys
+  27 IRP_MJ_PNP                           0xf100bd50 afd.sys
+--------------------------------------------------
+DriverName: Compbatt
+DriverStart: 0xf9db0000
+DriverSize: 0x2800
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9db0306 compbatt.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9db0306 compbatt.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9db1006 compbatt.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9db0920 compbatt.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9db032a compbatt.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9db0b8e compbatt.sys
+--------------------------------------------------
+DriverName: Flpydisk
+DriverStart: 0xf9ce4000
+DriverSize: 0x5000
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9ce539a flpydisk.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9ce539a flpydisk.sys
+   3 IRP_MJ_READ                          0xf9ce7f24 flpydisk.sys
+   4 IRP_MJ_WRITE                         0xf9ce7f24 flpydisk.sys
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9ce7730 flpydisk.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9ce53c0 flpydisk.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9ce5206 flpydisk.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9ce7c28 flpydisk.sys
+--------------------------------------------------
+DriverName: Rasl2tp
+DriverStart: 0xf9abc000
+DriverSize: 0xc880
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf96e4e4e NDIS.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf96eb1f4 NDIS.sys
+   2 IRP_MJ_CLOSE                         0xf96e4d7f NDIS.sys
+   3 IRP_MJ_READ                          0xf96eb1f4 NDIS.sys
+   4 IRP_MJ_WRITE                         0xf96eb1f4 NDIS.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf96eb1f4 NDIS.sys
+   6 IRP_MJ_SET_INFORMATION               0xf96eb1f4 NDIS.sys
+   7 IRP_MJ_QUERY_EA                      0xf96eb1f4 NDIS.sys
+   8 IRP_MJ_SET_EA                        0xf96eb1f4 NDIS.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf96eb1f4 NDIS.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf96eb1f4 NDIS.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf96eb1f4 NDIS.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf96eb1f4 NDIS.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf96eb1f4 NDIS.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf96eb010 NDIS.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf96eb1f4 NDIS.sys
+  16 IRP_MJ_SHUTDOWN                      0xf96eb1f4 NDIS.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf96eb1f4 NDIS.sys
+  18 IRP_MJ_CLEANUP                       0xf96eb1f4 NDIS.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf96eb1f4 NDIS.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf96eb1f4 NDIS.sys
+  21 IRP_MJ_SET_SECURITY                  0xf96eb1f4 NDIS.sys
+  22 IRP_MJ_POWER                         0xf96f889a NDIS.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf96eb415 NDIS.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf96eb1f4 NDIS.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf96eb1f4 NDIS.sys
+  26 IRP_MJ_SET_QUOTA                     0xf96eb1f4 NDIS.sys
+  27 IRP_MJ_PNP                           0xf96edab9 NDIS.sys
+--------------------------------------------------
+DriverName: NdisWan
+DriverStart: 0xf94a4000
+DriverSize: 0x16580
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf96e4e4e NDIS.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf96eb1f4 NDIS.sys
+   2 IRP_MJ_CLOSE                         0xf96e4d7f NDIS.sys
+   3 IRP_MJ_READ                          0xf96eb1f4 NDIS.sys
+   4 IRP_MJ_WRITE                         0xf96eb1f4 NDIS.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf96eb1f4 NDIS.sys
+   6 IRP_MJ_SET_INFORMATION               0xf96eb1f4 NDIS.sys
+   7 IRP_MJ_QUERY_EA                      0xf96eb1f4 NDIS.sys
+   8 IRP_MJ_SET_EA                        0xf96eb1f4 NDIS.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf96eb1f4 NDIS.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf96eb1f4 NDIS.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf96eb1f4 NDIS.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf96eb1f4 NDIS.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf96eb1f4 NDIS.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf96eb010 NDIS.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf96eb1f4 NDIS.sys
+  16 IRP_MJ_SHUTDOWN                      0xf96eb1f4 NDIS.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf96eb1f4 NDIS.sys
+  18 IRP_MJ_CLEANUP                       0xf96eb1f4 NDIS.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf96eb1f4 NDIS.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf96eb1f4 NDIS.sys
+  21 IRP_MJ_SET_SECURITY                  0xf96eb1f4 NDIS.sys
+  22 IRP_MJ_POWER                         0xf96f889a NDIS.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf96eb415 NDIS.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf96eb1f4 NDIS.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf96eb1f4 NDIS.sys
+  26 IRP_MJ_SET_QUOTA                     0xf96eb1f4 NDIS.sys
+  27 IRP_MJ_PNP                           0xf96edab9 NDIS.sys
+--------------------------------------------------
+DriverName: NdisTapi
+DriverStart: 0xf9e5c000
+DriverSize: 0x2780
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9e5d69e ndistapi.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9e5d69e ndistapi.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9e5d69e ndistapi.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9e5c430 ndistapi.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: usbuhci
+DriverStart: 0xf9cb4000
+DriverSize: 0x5080
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf94bd28a USBPORT.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf94bd28a USBPORT.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf94bd28a USBPORT.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf94bd28a USBPORT.SYS
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf94bd28a USBPORT.SYS
+  23 IRP_MJ_SYSTEM_CONTROL                0xf94bd28a USBPORT.SYS
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf94bd28a USBPORT.SYS
+--------------------------------------------------
+DriverName: audstub
+DriverStart: 0xfa0ce000
+DriverSize: 0xc00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xfa0ce4ce audstub.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xfa0ce300 audstub.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xfa0ce454 audstub.sys
+--------------------------------------------------
+DriverName: intelppm
+DriverStart: 0xf9aac000
+DriverSize: 0x8e00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9aaf2da intelppm.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9ab1860 intelppm.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9ab085c intelppm.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9aaf486 intelppm.sys
+--------------------------------------------------
+DriverName: Tcpip
+DriverStart: 0xf104a000
+DriverSize: 0x58480
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf10504f9 tcpip.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf10504f9 tcpip.sys
+   2 IRP_MJ_CLOSE                         0xf10504f9 tcpip.sys
+   3 IRP_MJ_READ                          0xf10504f9 tcpip.sys
+   4 IRP_MJ_WRITE                         0xf10504f9 tcpip.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf10504f9 tcpip.sys
+   6 IRP_MJ_SET_INFORMATION               0xf10504f9 tcpip.sys
+   7 IRP_MJ_QUERY_EA                      0xf10504f9 tcpip.sys
+   8 IRP_MJ_SET_EA                        0xf10504f9 tcpip.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf10504f9 tcpip.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf10504f9 tcpip.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf10504f9 tcpip.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf10504f9 tcpip.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf10504f9 tcpip.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf10504f9 tcpip.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf1050718 tcpip.sys
+  16 IRP_MJ_SHUTDOWN                      0xf10504f9 tcpip.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf10504f9 tcpip.sys
+  18 IRP_MJ_CLEANUP                       0xf10504f9 tcpip.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf10504f9 tcpip.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf10504f9 tcpip.sys
+  21 IRP_MJ_SET_SECURITY                  0xf10504f9 tcpip.sys
+  22 IRP_MJ_POWER                         0xf10504f9 tcpip.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf10504f9 tcpip.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf10504f9 tcpip.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf10504f9 tcpip.sys
+  26 IRP_MJ_SET_QUOTA                     0xf10504f9 tcpip.sys
+  27 IRP_MJ_PNP                           0xf10504f9 tcpip.sys
+--------------------------------------------------
+DriverName: NetBT
+DriverStart: 0xf1022000
+DriverSize: 0x27c00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf103da85 netbt.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf103db32 netbt.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf103dd56 netbt.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf10229ee netbt.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf103db96 netbt.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf103adfe netbt.sys
+--------------------------------------------------
+DriverName: i8042prt
+DriverStart: 0xf9a5c000
+DriverSize: 0xcd00
+DriverStartIo: 0xf9a5c910
+   0 IRP_MJ_CREATE                        0xf9a5faa6 i8042prt.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9a62e18 i8042prt.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9a5e1f9 i8042prt.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9a62e4b i8042prt.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9a5c836 i8042prt.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9a637ea i8042prt.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9a5fa59 i8042prt.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9a5f990 i8042prt.sys
+--------------------------------------------------
+DriverName: vmmouse
+DriverStart: 0xf9eac000
+DriverSize: 0x1280
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9eac486 vmmouse.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9eac486 vmmouse.sys
+   2 IRP_MJ_CLOSE                         0xf9eac486 vmmouse.sys
+   3 IRP_MJ_READ                          0xf9eac486 vmmouse.sys
+   4 IRP_MJ_WRITE                         0xf9eac486 vmmouse.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9eac486 vmmouse.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9eac486 vmmouse.sys
+   7 IRP_MJ_QUERY_EA                      0xf9eac486 vmmouse.sys
+   8 IRP_MJ_SET_EA                        0xf9eac486 vmmouse.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9eac486 vmmouse.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9eac486 vmmouse.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9eac486 vmmouse.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9eac486 vmmouse.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9eac486 vmmouse.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9eac486 vmmouse.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9eacb1a vmmouse.sys
+  16 IRP_MJ_SHUTDOWN                      0xf9eac486 vmmouse.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf9eac486 vmmouse.sys
+  18 IRP_MJ_CLEANUP                       0xf9eac486 vmmouse.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9eac486 vmmouse.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf9eac486 vmmouse.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9eac486 vmmouse.sys
+  22 IRP_MJ_POWER                         0xf9eacaa6 vmmouse.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9eac486 vmmouse.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf9eac486 vmmouse.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf9eac486 vmmouse.sys
+  26 IRP_MJ_SET_QUOTA                     0xf9eac486 vmmouse.sys
+  27 IRP_MJ_PNP                           0xf9eac486 vmmouse.sys
+--------------------------------------------------
+DriverName: mnmdd
+DriverStart: 0xf9ebe000
+DriverSize: 0x1080
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf94ecc6a VIDEOPRT.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf94ecc6a VIDEOPRT.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf94ecc6a VIDEOPRT.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0xf94ecc6a VIDEOPRT.SYS
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: Mouclass
+DriverStart: 0xf9c9c000
+DriverSize: 0x5a00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9c9cb78 mouclass.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9c9cd86 mouclass.sys
+   3 IRP_MJ_READ                          0xf9c9d98c mouclass.sys
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9c9caf2 mouclass.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9c9e2c6 mouclass.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9c9e086 mouclass.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9c9caae mouclass.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9c9ecc6 mouclass.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9c9e78c mouclass.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9c9d542 mouclass.sys
+--------------------------------------------------
+DriverName: mouhid
+DriverStart: 0xf947c000
+DriverSize: 0x2f80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf947ce46 mouhid.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf947cfc6 mouhid.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf947c3ca mouhid.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf947c332 mouhid.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf947c484 mouhid.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf947c7c3 mouhid.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf947db98 mouhid.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf947d98f mouhid.sys
+--------------------------------------------------
+DriverName: Win32k
+DriverStart: 0x0
+DriverSize: 0x0
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: vmhgfs
+DriverStart: 0xf0fe2000
+DriverSize: 0x1df00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf0fe2c7e vmhgfs.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf0fe3df0 vmhgfs.sys
+   3 IRP_MJ_READ                          0xf0fe2fb6 vmhgfs.sys
+   4 IRP_MJ_WRITE                         0xf0fe33ec vmhgfs.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf0fe34f0 vmhgfs.sys
+   6 IRP_MJ_SET_INFORMATION               0xf0fe35c6 vmhgfs.sys
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf0fe67d6 vmhgfs.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf0fe659a vmhgfs.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf0fe64c6 vmhgfs.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf0fe3b56 vmhgfs.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf0ffcf8e vmhgfs.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf0fe3732 vmhgfs.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0xf0fe6908 vmhgfs.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf0fe612e vmhgfs.sys
+  18 IRP_MJ_CLEANUP                       0xf0fe3eda vmhgfs.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: IPSec
+DriverStart: 0xf10a3000
+DriverSize: 0x12600
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf10a377f ipsec.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf10a377f ipsec.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf10a377f ipsec.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf10a377f ipsec.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf10a377f ipsec.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: Mup
+DriverStart: 0xf96ca000
+DriverSize: 0x19b80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf96cf790 Mup.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf96cf790 Mup.sys
+   2 IRP_MJ_CLOSE                         0xf96d4260 Mup.sys
+   3 IRP_MJ_READ                          0xf96cc5cf Mup.sys
+   4 IRP_MJ_WRITE                         0xf96d0c34 Mup.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf96dc13c Mup.sys
+   6 IRP_MJ_SET_INFORMATION               0xf96dc3a6 Mup.sys
+   7 IRP_MJ_QUERY_EA                      0xf96cc5cf Mup.sys
+   8 IRP_MJ_SET_EA                        0xf96cc5cf Mup.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf96cc5cf Mup.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf96e0a97 Mup.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf96e0b8a Mup.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf96cc5cf Mup.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf96d3dbc Mup.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf96cc5cf Mup.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf96cc5cf Mup.sys
+  16 IRP_MJ_SHUTDOWN                      0xf96db8f1 Mup.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf96cc5cf Mup.sys
+  18 IRP_MJ_CLEANUP                       0xf96d42a3 Mup.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf96cf790 Mup.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf96cc5cf Mup.sys
+  21 IRP_MJ_SET_SECURITY                  0xf96cc5cf Mup.sys
+  22 IRP_MJ_POWER                         0xf96cc5cf Mup.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf96cb18b Mup.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf96cc5cf Mup.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf96cc5cf Mup.sys
+  26 IRP_MJ_SET_QUOTA                     0xf96cc5cf Mup.sys
+  27 IRP_MJ_PNP                           0xf96cc5cf Mup.sys
+--------------------------------------------------
+DriverName: Gpc
+DriverStart: 0xf9aec000
+DriverSize: 0x8900
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9af3886 msgpc.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9af3886 msgpc.sys
+   2 IRP_MJ_CLOSE                         0xf9af3886 msgpc.sys
+   3 IRP_MJ_READ                          0xf9af3886 msgpc.sys
+   4 IRP_MJ_WRITE                         0xf9af3886 msgpc.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9af3886 msgpc.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9af3886 msgpc.sys
+   7 IRP_MJ_QUERY_EA                      0xf9af3886 msgpc.sys
+   8 IRP_MJ_SET_EA                        0xf9af3886 msgpc.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9af3886 msgpc.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9af3886 msgpc.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9af3886 msgpc.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9af3886 msgpc.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9af3886 msgpc.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9af3886 msgpc.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9af3886 msgpc.sys
+  16 IRP_MJ_SHUTDOWN                      0xf9af3886 msgpc.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf9af3886 msgpc.sys
+  18 IRP_MJ_CLEANUP                       0xf9af3886 msgpc.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9af3886 msgpc.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf9af3886 msgpc.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9af3886 msgpc.sys
+  22 IRP_MJ_POWER                         0xf9af3886 msgpc.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9af3886 msgpc.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf9af3886 msgpc.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf9af3886 msgpc.sys
+  26 IRP_MJ_SET_QUOTA                     0xf9af3886 msgpc.sys
+  27 IRP_MJ_PNP                           0xf9af3886 msgpc.sys
+--------------------------------------------------
+DriverName: PSched
+DriverStart: 0xf946b000
+DriverSize: 0x10e00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf96e4e4e NDIS.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf96eb1f4 NDIS.sys
+   2 IRP_MJ_CLOSE                         0xf96e4d7f NDIS.sys
+   3 IRP_MJ_READ                          0xf96eb1f4 NDIS.sys
+   4 IRP_MJ_WRITE                         0xf96eb1f4 NDIS.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf96eb1f4 NDIS.sys
+   6 IRP_MJ_SET_INFORMATION               0xf96eb1f4 NDIS.sys
+   7 IRP_MJ_QUERY_EA                      0xf96eb1f4 NDIS.sys
+   8 IRP_MJ_SET_EA                        0xf96eb1f4 NDIS.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf96eb1f4 NDIS.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf96eb1f4 NDIS.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf96eb1f4 NDIS.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf96eb1f4 NDIS.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf96eb1f4 NDIS.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf96eb010 NDIS.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf96eb1f4 NDIS.sys
+  16 IRP_MJ_SHUTDOWN                      0xf96eb1f4 NDIS.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf96eb1f4 NDIS.sys
+  18 IRP_MJ_CLEANUP                       0xf96eb1f4 NDIS.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf96eb1f4 NDIS.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf96eb1f4 NDIS.sys
+  21 IRP_MJ_SET_SECURITY                  0xf96eb1f4 NDIS.sys
+  22 IRP_MJ_POWER                         0xf96f889a NDIS.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf96eb415 NDIS.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf96eb1f4 NDIS.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf96eb1f4 NDIS.sys
+  26 IRP_MJ_SET_QUOTA                     0xf96eb1f4 NDIS.sys
+  27 IRP_MJ_PNP                           0xf96edab9 NDIS.sys
+--------------------------------------------------
+DriverName: CmBatt
+DriverStart: 0xf9e58000
+DriverSize: 0x3680
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9e59ac0 CmBatt.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9e59ac0 CmBatt.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9e59b2c CmBatt.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9e58d54 CmBatt.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9e5a456 CmBatt.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9e59008 CmBatt.sys
+--------------------------------------------------
+DriverName: usbehci
+DriverStart: 0xf9cc4000
+DriverSize: 0x7600
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf94bd28a USBPORT.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf94bd28a USBPORT.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf94bd28a USBPORT.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf94bd28a USBPORT.SYS
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf94bd28a USBPORT.SYS
+  23 IRP_MJ_SYSTEM_CONTROL                0xf94bd28a USBPORT.SYS
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf94bd28a USBPORT.SYS
+--------------------------------------------------
+DriverName: Kbdclass
+DriverStart: 0xf9c94000
+DriverSize: 0x6000
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9c94dd0 kbdclass.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9c94fe0 kbdclass.sys
+   3 IRP_MJ_READ                          0xf9c95c72 kbdclass.sys
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9c94d4a kbdclass.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9c96a38 kbdclass.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9c96386 kbdclass.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9c94d06 kbdclass.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9c97180 kbdclass.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9c96842 kbdclass.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9c9578a kbdclass.sys
+--------------------------------------------------
+DriverName: Parport
+DriverStart: 0xf9516000
+DriverSize: 0x13900
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf95189ee parport.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9518a18 parport.sys
+   3 IRP_MJ_READ                          0xf9518a6c parport.sys
+   4 IRP_MJ_WRITE                         0xf9518a6c parport.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9518aea parport.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9518b14 parport.sys
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9518a96 parport.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9518ac0 parport.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9518a42 parport.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf95189c4 parport.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9518b3e parport.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf951899a parport.sys
+--------------------------------------------------
+DriverName: NetBIOS
+DriverStart: 0xf9b4c000
+DriverSize: 0x8780
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9b52cd6 netbios.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9b52cd6 netbios.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9b52cd6 netbios.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9b52cd6 netbios.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: MpFilter
+DriverStart: 0xf10d6000
+DriverSize: 0x23000
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: agp440
+DriverStart: 0xf99ec000
+DriverSize: 0xa580
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf99f437c agp440.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf99ee52c agp440.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf99f43c2 agp440.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf99f4d36 agp440.sys
+--------------------------------------------------
+DriverName: redbook
+DriverStart: 0xf9a8c000
+DriverSize: 0xe100
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9a8c9d0 redbook.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9a8c9d0 redbook.sys
+   2 IRP_MJ_CLOSE                         0xf9a8c9d0 redbook.sys
+   3 IRP_MJ_READ                          0xf9a8d4b0 redbook.sys
+   4 IRP_MJ_WRITE                         0xf9a8d4b0 redbook.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9a8c9d0 redbook.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9a8c9d0 redbook.sys
+   7 IRP_MJ_QUERY_EA                      0xf9a8c9d0 redbook.sys
+   8 IRP_MJ_SET_EA                        0xf9a8c9d0 redbook.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9a8c9d0 redbook.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9a8c9d0 redbook.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9a8c9d0 redbook.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9a8c9d0 redbook.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9a8c9d0 redbook.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9a8d700 redbook.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9a8c9d0 redbook.sys
+  16 IRP_MJ_SHUTDOWN                      0xf9a8c9d0 redbook.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf9a8c9d0 redbook.sys
+  18 IRP_MJ_CLEANUP                       0xf9a8c9d0 redbook.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9a8c9d0 redbook.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf9a8c9d0 redbook.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9a8c9d0 redbook.sys
+  22 IRP_MJ_POWER                         0xf9a8d680 redbook.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9a91cf0 redbook.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf9a8c9d0 redbook.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf9a8c9d0 redbook.sys
+  26 IRP_MJ_SET_QUOTA                     0xf9a8c9d0 redbook.sys
+  27 IRP_MJ_PNP                           0xf9a90170 redbook.sys
+--------------------------------------------------
+DriverName: VgaSave
+DriverStart: 0xf9d04000
+DriverSize: 0x5200
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf94ecc6a VIDEOPRT.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf94ecc6a VIDEOPRT.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf94ecc6a VIDEOPRT.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0xf94ecc6a VIDEOPRT.SYS
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: Serial
+DriverStart: 0xf9a6c000
+DriverSize: 0xfc00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9a6fdae serial.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9a7372f serial.sys
+   3 IRP_MJ_READ                          0xf9a74674 serial.sys
+   4 IRP_MJ_WRITE                         0xf9a76b25 serial.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9a72c1e serial.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9a72cde serial.sys
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9a729d6 serial.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9a739b0 serial.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9a73538 serial.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9a736e0 serial.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9a6fbb0 serial.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9a702f5 serial.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9a6f605 serial.sys
+--------------------------------------------------
+DriverName: Fdc
+DriverStart: 0xf9ca4000
+DriverSize: 0x6b00
+DriverStartIo: 0xf9ca6f34
+   0 IRP_MJ_CREATE                        0xf9ca4af0 fdc.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9ca4af0 fdc.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9ca4b56 fdc.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9ca8608 fdc.sys
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9ca83bc fdc.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9ca4b16 fdc.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9ca8632 fdc.sys
+--------------------------------------------------
+DriverName: Cdfs
+DriverStart: 0xf9b9c000
+DriverSize: 0xf900
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9b9c400 Cdfs.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9b9c400 Cdfs.SYS
+   3 IRP_MJ_READ                          0xf9b9c400 Cdfs.SYS
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0xf9b9c400 Cdfs.SYS
+   6 IRP_MJ_SET_INFORMATION               0xf9b9c400 Cdfs.SYS
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9b9c400 Cdfs.SYS
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9b9c400 Cdfs.SYS
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9b9c400 Cdfs.SYS
+  14 IRP_MJ_DEVICE_CONTROL                0xf9b9c400 Cdfs.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0xf9b9fc74 Cdfs.SYS
+  17 IRP_MJ_LOCK_CONTROL                  0xf9b9c400 Cdfs.SYS
+  18 IRP_MJ_CLEANUP                       0xf9b9c400 Cdfs.SYS
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9b9c400 Cdfs.SYS
+--------------------------------------------------
+DriverName: hidusb
+DriverStart: 0xf9480000
+DriverSize: 0x2880
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9bbd902 HIDCLASS.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9bbd902 HIDCLASS.SYS
+   3 IRP_MJ_READ                          0xf9bbd902 HIDCLASS.SYS
+   4 IRP_MJ_WRITE                         0xf9bbd902 HIDCLASS.SYS
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9bbd902 HIDCLASS.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9bbd902 HIDCLASS.SYS
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9bbd902 HIDCLASS.SYS
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9bbd902 HIDCLASS.SYS
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9bbd902 HIDCLASS.SYS
+--------------------------------------------------
+DriverName: Beep
+DriverStart: 0xf9ebc000
+DriverSize: 0x1080
+DriverStartIo: 0xf9ebc51a
+   0 IRP_MJ_CREATE                        0xf9ebc46a Beep.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9ebc4b8 Beep.SYS
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9ebc400 Beep.SYS
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9ebc354 Beep.SYS
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: WS2IFSL
+DriverStart: 0xf9e3c000
+DriverSize: 0x2f00
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9e3ce10 ws2ifsl.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9e3cef0 ws2ifsl.sys
+   3 IRP_MJ_READ                          0xf9e3cf40 ws2ifsl.sys
+   4 IRP_MJ_WRITE                         0xf9e3cf40 ws2ifsl.sys
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9e3cf92 ws2ifsl.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9e3ce96 ws2ifsl.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9e3c300 ws2ifsl.sys
+--------------------------------------------------
+DriverName: Msfs
+DriverStart: 0xf9d0c000
+DriverSize: 0x4a80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9d0d2b0 Msfs.SYS
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9d0dd74 Msfs.SYS
+   3 IRP_MJ_READ                          0xf9d0ce62 Msfs.SYS
+   4 IRP_MJ_WRITE                         0xf9d0d0b4 Msfs.SYS
+   5 IRP_MJ_QUERY_INFORMATION             0xf9d0df06 Msfs.SYS
+   6 IRP_MJ_SET_INFORMATION               0xf9d0ea02 Msfs.SYS
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9d0e39c Msfs.SYS
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9d0e588 Msfs.SYS
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9d0ecca Msfs.SYS
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf9d0db04 Msfs.SYS
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9d0d726 Msfs.SYS
+  20 IRP_MJ_QUERY_SECURITY                0xf9d0eb22 Msfs.SYS
+  21 IRP_MJ_SET_SECURITY                  0xf9d0eb4e Msfs.SYS
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: ACPI_HAL
+DriverStart: 0x0
+DriverSize: 0x0
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x806e492a hal.dll
+  23 IRP_MJ_SYSTEM_CONTROL                0x806e815a hal.dll
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x806e865e hal.dll
+--------------------------------------------------
+DriverName: PnpManager
+DriverStart: 0x0
+DriverSize: 0x0
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f63ac ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x80591c88 ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x80592502 ntoskrnl.exe
+--------------------------------------------------
+DriverName: isapnp
+DriverStart: 0xf999c000
+DriverSize: 0x9180
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf999ee34 isapnp.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf999ee34 isapnp.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf999edf2 isapnp.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf999e648 isapnp.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf999edf2 isapnp.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf999ee50 isapnp.sys
+--------------------------------------------------
+DriverName: dmload
+DriverStart: 0xf9ea2000
+DriverSize: 0x1700
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9ea2300 dmload.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf9ea2300 dmload.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9ea2418 dmload.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: Ftdisk
+DriverStart: 0xf983d000
+DriverSize: 0x1e880
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf983d636 ftdisk.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0xf983e032 ftdisk.sys
+   4 IRP_MJ_WRITE                         0xf983e032 ftdisk.sys
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf983e2be ftdisk.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf9849fb2 ftdisk.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf983e4ce ftdisk.sys
+  16 IRP_MJ_SHUTDOWN                      0xf983e2be ftdisk.sys
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf983dc52 ftdisk.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf983d6b2 ftdisk.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf98462be ftdisk.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9849748 ftdisk.sys
+--------------------------------------------------
+DriverName: MountMgr
+DriverStart: 0xf99ac000
+DriverSize: 0xa580
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf99afc54 MountMgr.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0xf99afc54 MountMgr.sys
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0xf99b4dce MountMgr.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0xf99ac73a MountMgr.sys
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0xf99ac6a2 MountMgr.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe
+--------------------------------------------------
+DriverName: IntelIde
+DriverStart: 0xf9ea0000
+DriverSize: 0x1580
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x804f355a ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x804f355a ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x804f355a ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9c204f2 PCIIDEX.SYS
+  16 IRP_MJ_SHUTDOWN                      0x804f355a ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x804f355a ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0xf9c1c692 PCIIDEX.SYS
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9c2046e PCIIDEX.SYS
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0xf9c2043a PCIIDEX.SYS
+--------------------------------------------------
+DriverName: ACPI
+DriverStart: 0xf986d000
+DriverSize: 0x2dd80
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0xf9873cb8 ACPI.sys
+   1 IRP_MJ_CREATE_NAMED_PIPE             0xf9873cb8 ACPI.sys
+   2 IRP_MJ_CLOSE                         0xf9873cb8 ACPI.sys
+   3 IRP_MJ_READ                          0xf9873cb8 ACPI.sys
+   4 IRP_MJ_WRITE                         0xf9873cb8 ACPI.sys
+   5 IRP_MJ_QUERY_INFORMATION             0xf9873cb8 ACPI.sys
+   6 IRP_MJ_SET_INFORMATION               0xf9873cb8 ACPI.sys
+   7 IRP_MJ_QUERY_EA                      0xf9873cb8 ACPI.sys
+   8 IRP_MJ_SET_EA                        0xf9873cb8 ACPI.sys
+   9 IRP_MJ_FLUSH_BUFFERS                 0xf9873cb8 ACPI.sys
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0xf9873cb8 ACPI.sys
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0xf9873cb8 ACPI.sys
+  12 IRP_MJ_DIRECTORY_CONTROL             0xf9873cb8 ACPI.sys
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0xf9873cb8 ACPI.sys
+  14 IRP_MJ_DEVICE_CONTROL                0xf9873cb8 ACPI.sys
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0xf9873cb8 ACPI.sys
+  16 IRP_MJ_SHUTDOWN                      0xf9873cb8 ACPI.sys
+  17 IRP_MJ_LOCK_CONTROL                  0xf9873cb8 ACPI.sys
+  18 IRP_MJ_CLEANUP                       0xf9873cb8 ACPI.sys
+  19 IRP_MJ_CREATE_MAILSLOT               0xf9873cb8 ACPI.sys
+  20 IRP_MJ_QUERY_SECURITY                0xf9873cb8 ACPI.sys
+  21 IRP_MJ_SET_SECURITY                  0xf9873cb8 ACPI.sys
+  22 IRP_MJ_POWER                         0xf9873cb8 ACPI.sys
+  23 IRP_MJ_SYSTEM_CONTROL                0xf9873cb8 ACPI.sys
+  24 IRP_MJ_DEVICE_CHANGE                 0xf9873cb8 ACPI.sys
+  25 IRP_MJ_QUERY_QUOTA                   0xf9873cb8 ACPI.sys
+  26 IRP_MJ_SET_QUOTA                     0xf9873cb8 ACPI.sys
+  27 IRP_MJ_PNP                           0xf9873cb8 ACPI.sys
+--------------------------------------------------
+DriverName: RAW
+DriverStart: 0x0
+DriverSize: 0x0
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x805cdffe ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x805cdffe ntoskrnl.exe
+   3 IRP_MJ_READ                          0x805cdffe ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x805cdffe ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x805cdffe ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x805cdffe ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x805cdffe ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x805cdffe ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x805cdffe ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x805cdf74 ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x805cdffe ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x804f355a ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x805cdffe ntoskrnl.exe
+--------------------------------------------------
+DriverName: WMIxWDM
+DriverStart: 0x0
+DriverSize: 0x0
+DriverStartIo: 0x0
+   0 IRP_MJ_CREATE                        0x805faf2e ntoskrnl.exe
+   1 IRP_MJ_CREATE_NAMED_PIPE             0x804f355a ntoskrnl.exe
+   2 IRP_MJ_CLOSE                         0x805faf2e ntoskrnl.exe
+   3 IRP_MJ_READ                          0x804f355a ntoskrnl.exe
+   4 IRP_MJ_WRITE                         0x804f355a ntoskrnl.exe
+   5 IRP_MJ_QUERY_INFORMATION             0x804f355a ntoskrnl.exe
+   6 IRP_MJ_SET_INFORMATION               0x804f355a ntoskrnl.exe
+   7 IRP_MJ_QUERY_EA                      0x804f355a ntoskrnl.exe
+   8 IRP_MJ_SET_EA                        0x804f355a ntoskrnl.exe
+   9 IRP_MJ_FLUSH_BUFFERS                 0x804f355a ntoskrnl.exe
+  10 IRP_MJ_QUERY_VOLUME_INFORMATION      0x804f355a ntoskrnl.exe
+  11 IRP_MJ_SET_VOLUME_INFORMATION        0x804f355a ntoskrnl.exe
+  12 IRP_MJ_DIRECTORY_CONTROL             0x804f355a ntoskrnl.exe
+  13 IRP_MJ_FILE_SYSTEM_CONTROL           0x804f355a ntoskrnl.exe
+  14 IRP_MJ_DEVICE_CONTROL                0x805fb942 ntoskrnl.exe
+  15 IRP_MJ_INTERNAL_DEVICE_CONTROL       0x804f355a ntoskrnl.exe
+  16 IRP_MJ_SHUTDOWN                      0x805f5e20 ntoskrnl.exe
+  17 IRP_MJ_LOCK_CONTROL                  0x804f355a ntoskrnl.exe
+  18 IRP_MJ_CLEANUP                       0x805faf2e ntoskrnl.exe
+  19 IRP_MJ_CREATE_MAILSLOT               0x804f355a ntoskrnl.exe
+  20 IRP_MJ_QUERY_SECURITY                0x804f355a ntoskrnl.exe
+  21 IRP_MJ_SET_SECURITY                  0x804f355a ntoskrnl.exe
+  22 IRP_MJ_POWER                         0x804f355a ntoskrnl.exe
+  23 IRP_MJ_SYSTEM_CONTROL                0x805faf82 ntoskrnl.exe
+  24 IRP_MJ_DEVICE_CHANGE                 0x804f355a ntoskrnl.exe
+  25 IRP_MJ_QUERY_QUOTA                   0x804f355a ntoskrnl.exe
+  26 IRP_MJ_SET_QUOTA                     0x804f355a ntoskrnl.exe
+  27 IRP_MJ_PNP                           0x804f355a ntoskrnl.exe

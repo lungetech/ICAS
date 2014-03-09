@@ -1,0 +1,21 @@
+ Sess      Handle Object     Thread   Process                     nID Rate(ms)   Countdown(ms) Func      
+------ ---------- ---------- -------- -------------------- ---------- ---------- ------------- ----------
+  0       0x20033 0xe1794ad0      648 csrss.exe:612            0x7ffe       1000           375 0xbf8012fb
+  0      0x13004f 0xe15f7400      648 csrss.exe:612            0x7ffd      35000         34672 0xbf8f42b7
+  0     0x27e0075 0xe17dcdd0     1832 explorer.exe:1752           0x8         70            24 0x00000000
+  0       0x3007d 0xe1df8530     1832 explorer.exe:1752           0xe   43200000      42657875 0x00000000
+  0       0x10085 0xe1f5c008     1496 svchost.exe:1076         0x7ffc      60000         50375 0x74f51070
+  0       0x10095 0xe1596818     1832 explorer.exe:1752          0x15      60000         57500 0x00000000
+  0       0x10097 0xe1de0c48     1832 explorer.exe:1752          0x19   86400000      85857454 0x00000000
+  0       0x300b3 0xe1d4fb90     1832 explorer.exe:1752           0x0      60000         30000 0x00000000
+  0       0x200b7 0xe17e7658     1880 VMwareTray.exe:1876         0x0       5000          4375 0x00000000
+  0       0x100cb 0xe178c2b0      652 csrss.exe:612            0xfff5        100           100 0xbf80a556
+  0       0x100eb 0xe180a4b0     1880 VMwareTray.exe:1876        0x11      60000         59313 0x00000000
+  0       0x400f2 0xe1f22d18     1904 msseces.exe:1900           0x32   86400000      85860454 0x00000000
+  0       0x100f4 0xe1c507a8     1904 msseces.exe:1900           0x5a   86400000      85860454 0x00000000
+  0       0x200f8 0xe1d22a40     1904 msseces.exe:1900           0x65     900000        360500 0x00000000
+  0       0x10148 0xe17dce08     1136 svchost.exe:1076            0x0     300000         63594 0x77532d57
+  0       0x401b9 0xe1570418      616 explorer.exe:1752        0x7fe9       1000           250 0x7645e0eb
+  0      0x290281 0xe1e36740     1852 explorer.exe:1752           0x2      10000          9922 0x00000000
+  0      0x140293 0xe19ec3a8     1832 explorer.exe:1752           0x4        100            22 0x00000000
+  0       0x802a3 0xe1d13050     1832 explorer.exe:1752         0x3e8       5000          4907 0x00000000

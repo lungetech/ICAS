@@ -1,0 +1,98 @@
+Last Modified                  Last Update                    Path
+------------------------------ ------------------------------ ----
+2009-12-07 22:36:14 UTC+0000   2011-09-26 01:32:03 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\TPAutoConnect.exe
+2008-04-14 00:12:38 UTC+0000   2011-09-26 01:32:20 UTC+0000   \??\C:\WINDOWS\system32\verclsid.exe
+2010-02-22 14:23:06 UTC+0000   2011-02-08 01:47:29 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\84b4d4a812b6609f4743b50cc13b603a\update\update.exe
+2010-12-09 02:34:06 UTC+0000   2011-02-08 01:47:54 UTC+0000   \??\c:\162fdfe5069484dd046db636e69b55\mrtstub.exe
+2011-05-21 20:59:32 UTC+0000   2011-09-26 01:31:52 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\vmwaretray.exe
+2011-05-21 20:59:34 UTC+0000   2011-09-26 01:31:52 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\VMwareUser.exe
+2010-02-22 14:23:06 UTC+0000   2010-11-25 02:22:36 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\804d59d22f111acd320f8c790519d1d6\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2010-12-08 01:35:40 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\c86138b508e29791909bf87cca82fe28\update\update.exe
+2009-10-29 05:38:22 UTC+0000   2011-09-26 01:31:54 UTC+0000   \??\C:\WINDOWS\system32\shdocvw.dll
+2008-04-14 00:11:51 UTC+0000   2011-09-26 01:31:51 UTC+0000   \??\C:\WINDOWS\System32\cscui.dll
+2010-02-22 14:23:32 UTC+0000   2010-12-08 01:35:04 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\bfb3f53a374032f58b8d9df10c040976\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2010-11-25 02:24:22 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\2b52bc6035fc3c733d90838ad0452d71\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2010-11-25 02:24:32 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\02c5090fc98111d641c9edac71d78f04\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2010-12-08 01:32:43 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\e79028ac4f02e201b61b2c632cb0fc5e\update\update.exe
+2009-03-11 03:18:14 UTC+0000   2011-09-26 01:31:49 UTC+0000   \??\C:\WINDOWS\system32\WgaTray.exe
+2009-05-26 09:01:12 UTC+0000   2010-12-08 01:35:34 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\21cbd3f70584651805685eba1753505f\update\update.exe
+2009-05-26 11:40:52 UTC+0000   2010-11-25 02:24:40 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\9460002f6d8231358fc1eb590f9b1dce\update\update.exe
+2010-09-11 00:47:53 UTC+0000   2010-11-25 02:23:02 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\windows-kb890830-v3.11-delta.exe
+2007-02-26 06:01:00 UTC+0000   2010-12-08 01:34:47 UTC+0000   \??\c:\Program Files\Common Files\Microsoft Shared\DW\DW20.EXE
+2009-05-26 11:40:52 UTC+0000   2010-11-25 02:24:16 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\906245b7f0992255b054322b77475594\update\update.exe
+2007-07-28 03:11:48 UTC+0000   2010-11-25 02:24:50 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\2d850e530591fbbe5d8441efc417b486\update\update.exe
+2009-05-26 09:01:12 UTC+0000   2010-11-25 02:24:58 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\bd1d5ebe9b6891a1291ee9847ca974e7\update\update.exe
+2009-05-26 11:40:52 UTC+0000   2010-11-25 02:35:35 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\9bf014a550088c334c7e0d4ab81a0f70\update\update.exe
+2009-05-26 11:40:52 UTC+0000   2010-12-08 01:33:10 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\3b9a24c8602d832283340e99d108cb2a\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2010-11-25 02:36:25 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\7743918b8e2a2422f95d7c0e8f069be8\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2010-11-25 02:36:35 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\73c53bc9363e2e6052da2282e21dc353\update\update.exe
+2010-07-05 13:15:53 UTC+0000   2010-11-25 02:36:37 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\a68c3384979889bdeede2ca0a92739be\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2010-12-16 20:27:13 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\225c50fa0efb3d400ad5b853ddbaa231\update\update.exe
+1970-01-01 00:00:00 UTC+0000   2011-09-26 01:32:57 UTC+0000   C:\WINDOWS\system32\msctfime.ime
+2011-05-21 20:59:08 UTC+0000   2011-09-26 01:31:42 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\vmacthlp.exe
+2010-02-22 14:23:32 UTC+0000   2010-11-25 02:22:51 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\26c0cc584913871cc178e586c4df75c5\update\update.exe
+2011-05-21 20:59:18 UTC+0000   2011-09-26 01:31:54 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\vmtoolsd.exe
+2011-05-21 20:59:44 UTC+0000   2011-09-26 01:31:57 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\VMUpgradeHelper.exe
+2009-12-07 22:37:56 UTC+0000   2011-09-26 01:29:19 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\poweron-vm-default.bat
+2010-02-22 14:23:32 UTC+0000   2010-12-08 01:33:22 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\2014573de7d8912535b413123071c375\update\update.exe
+2009-12-07 22:36:14 UTC+0000   2011-09-26 01:31:59 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe
+2008-04-14 00:12:41 UTC+0000   2011-09-26 01:32:58 UTC+0000   \??\C:\WINDOWS\system32\wscntfy.exe
+2010-08-05 12:32:04 UTC+0000   2011-02-08 03:16:42 UTC+0000   \??\C:\Program Files\Mozilla Firefox\firefox.exe
+2010-09-10 19:34:28 UTC+0000   2010-11-25 02:23:04 UTC+0000   \??\c:\78a5ea2ef4afadcab4\mrtstub.exe
+2007-07-28 04:11:38 UTC+0000   2010-12-08 02:41:09 UTC+0000   \??\C:\WINDOWS\system32\spupdsvc.exe
+2009-05-26 11:40:52 UTC+0000   2010-12-08 01:33:03 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\e104dcd29adf1c6c473a5efad2d509be\update\update.exe
+2010-11-05 22:39:16 UTC+0000   2010-12-08 01:33:31 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\windows-kb890830-v3.13.exe
+2010-11-02 21:47:12 UTC+0000   2010-12-08 01:33:34 UTC+0000   \??\c:\66ee8c20c9ea5aa8149b1de8ac0ebe\mrtstub.exe
+2007-07-28 04:11:48 UTC+0000   2010-12-08 01:34:33 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\18f6b4c16b6e97c0405341fa27c62ee8\update\update.exe
+2008-04-14 00:12:38 UTC+0000   2010-12-08 01:34:40 UTC+0000   \??\C:\WINDOWS\inf\unregmp2.exe
+2010-10-06 07:31:49 UTC+0000   2010-12-08 01:34:43 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\MSSEUpdateInstall-x86fre-EN-US-xp.exe
+2010-07-05 13:15:53 UTC+0000   2010-12-08 01:35:50 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\fc48aa12dfaacbd2c0ec4d7ae8b39c50\update\update.exe
+2010-09-16 21:15:13 UTC+0000   2010-10-07 00:21:14 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\AM_Engine_Patch1.exe
+2010-09-16 21:15:51 UTC+0000   2010-10-07 00:21:15 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\AM_Base_Patch1.exe
+2010-02-22 14:23:32 UTC+0000   2010-12-16 20:29:19 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\7297fc7391d8451be0b7f57b430620e6\update\update.exe
+2010-03-26 01:39:02 UTC+0000   2010-12-16 20:28:24 UTC+0000   \??\c:\PROGRA~1\MICROS~2\MpOAv.dll
+2010-07-05 13:15:53 UTC+0000   2010-12-16 20:28:09 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\b91377d1d56820d9d699c0c2dc7c8e80\update\update.exe
+2011-05-21 20:55:52 UTC+0000   2011-09-26 01:30:34 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\TPVCGateway.exe
+2009-05-26 11:40:52 UTC+0000   2010-12-16 20:29:35 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\a67e3615843b712332147ac7fb88c252\update\update.exe
+2007-02-08 17:56:32 UTC+0000   2010-12-16 20:30:59 UTC+0000   \??\C:\Program Files\Citrix\ICA Client\wfica32.exe
+2009-05-26 11:40:52 UTC+0000   2010-12-16 20:28:00 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\f0fea42f69058000617da24986c3b109\update\update.exe
+2008-04-14 00:12:43 UTC+0000   2010-10-07 00:30:52 UTC+0000   \??\C:\WINDOWS\system32\logon.scr
+2009-05-26 11:40:52 UTC+0000   2010-12-16 20:29:41 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\3d3bedc0d35911ba016e4375b453268f\update\update.exe
+2010-10-07 00:11:07 UTC+0000   2011-02-08 01:49:35 UTC+0000   \??\C:\Documents and Settings\Administrator\Desktop\ShowMyPC3055.exe
+2010-02-22 14:23:32 UTC+0000   2010-12-16 20:29:39 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\579f7e73158ef4e9217d1b0603316b41\update\update.exe
+2010-10-19 20:51:33 UTC+0000   2010-12-16 20:38:37 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\MpSigStub.exe
+2010-11-17 01:43:31 UTC+0000   2010-12-16 20:38:37 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\AM_Engine.exe
+2010-11-17 01:43:58 UTC+0000   2010-12-16 20:38:41 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\AM_Base.exe
+2011-09-26 01:21:18 UTC+0000   2011-09-26 01:21:19 UTC+0000   \??\C:\WINDOWS\system32\MRT.exe
+2010-12-09 19:56:13 UTC+0000   2011-02-08 01:47:52 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\windows-kb890830-v3.14-delta.exe
+2010-11-06 00:34:11 UTC+0000   2011-09-26 01:31:57 UTC+0000   \??\C:\WINDOWS\system32\ieframe.dll
+2010-02-22 14:23:32 UTC+0000   2011-02-08 01:48:54 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\f7844954521574e63d89c4a93af63252\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2011-02-08 01:49:52 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\38fc70a533186c95218e9632f89864a0\update\update.exe
+2009-05-26 11:40:52 UTC+0000   2011-02-08 01:50:40 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\e5c5fc9bd7a4957f0a45c6db2957c5c9\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2011-02-08 01:50:47 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\6482b73e551a94e4c78c8d847c4bb10c\update\update.exe
+2009-05-26 11:40:52 UTC+0000   2011-02-08 01:50:52 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\b3e2b981cbf5eb9576dda59d70b8957f\update\update.exe
+2008-04-14 00:12:01 UTC+0000   2011-02-08 02:01:40 UTC+0000   \??\C:\WINDOWS\system32\mydocs.dll
+2010-02-22 14:23:32 UTC+0000   2011-05-24 01:35:13 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\e8252bbfa91fcf5afb38775b18691074\update\update.exe
+2011-01-06 19:40:31 UTC+0000   2011-09-26 01:21:15 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\windows-kb890830-v3.15-delta.exe
+2010-02-22 14:23:06 UTC+0000   2011-02-08 01:50:24 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\834e1dc3631bc51ff79c0b62ec3e2ba7\update\update.exe
+2009-05-26 11:40:52 UTC+0000   2011-02-08 01:50:29 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\21a3e2112d908724f259ac8570ee5ae9\update\update.exe
+2011-01-04 21:20:12 UTC+0000   2011-09-26 01:21:17 UTC+0000   \??\c:\765211b49bbfaf433cbb0f01488bbe\mrtstub.exe
+2009-05-26 11:40:52 UTC+0000   2011-02-08 01:50:36 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\a42ddcfeecc05b004b4bec0f90709c0a\update\update.exe
+2008-04-14 00:12:11 UTC+0000   2011-09-26 01:31:55 UTC+0000   \??\C:\WINDOWS\system32\zipfldr.dll
+2011-05-21 21:02:00 UTC+0000   2011-09-26 01:30:27 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\unzip.exe
+2010-12-16 13:33:25 UTC+0000   2010-12-16 20:38:48 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\Install\AM_Delta.exe
+2010-10-19 20:51:33 UTC+0000   2010-12-16 20:38:48 UTC+0000   \??\C:\WINDOWS\system32\MpSigStub.exe
+2008-04-14 00:11:52 UTC+0000   2011-09-26 01:32:15 UTC+0000   \??\C:\WINDOWS\system32\dsquery.dll
+2009-08-07 00:24:10 UTC+0000   2011-09-26 01:32:20 UTC+0000   \??\C:\WINDOWS\system32\wuaucpl.cpl
+2008-04-14 00:12:04 UTC+0000   2011-09-26 01:32:20 UTC+0000   \??\C:\WINDOWS\system32\remotepg.dll
+2010-02-22 14:23:32 UTC+0000   2010-10-07 00:14:32 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\035528df83114b75b8c2079edacaa319\update\update.exe
+2009-05-26 11:40:52 UTC+0000   2010-10-07 00:14:35 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\6bfdd3e98c4463f29fd65075ada4739c\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2010-10-07 00:14:37 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\65a31f11fa5f81db710d761ac52829ca\update\update.exe
+2010-02-22 14:23:32 UTC+0000   2010-10-07 00:14:39 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\e6e08b7e69174f02428e62ed65bdc722\update\update.exe
+2010-03-26 01:40:42 UTC+0000   2011-09-26 01:31:53 UTC+0000   \??\c:\Program Files\Microsoft Security Essentials\MpCmdRun.exe
+2010-03-26 01:40:44 UTC+0000   2011-09-26 01:31:43 UTC+0000   \??\c:\Program Files\Microsoft Security Essentials\MsMpEng.exe
+2010-09-15 09:34:02 UTC+0000   2011-09-26 01:31:52 UTC+0000   \??\C:\Program Files\Microsoft Security Essentials\msseces.exe
+2009-05-26 11:40:52 UTC+0000   2010-10-07 00:14:41 UTC+0000   \??\C:\WINDOWS\SoftwareDistribution\Download\fff729731cd7795c1d0f7a71d85c0fd1\update\update.exe
+2009-12-27 01:40:36 UTC+0000   2011-05-24 01:35:12 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\suspend-vm-default.bat
+2009-12-07 22:38:24 UTC+0000   2011-09-26 01:21:05 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\VMip.exe
+2009-12-27 01:40:36 UTC+0000   2011-09-26 01:21:05 UTC+0000   \??\C:\Program Files\VMware\VMware Tools\resume-vm-default.bat

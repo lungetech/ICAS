@@ -1,0 +1,322 @@
+**************************************************
+Process: 868 svchost.exe
+Cache type "URL " at 0x1ea4000
+Record length: 0x100
+Location: http://windowsupdate.microsoft.com/
+Last modified: 2003-11-07 22:20:40 UTC+0000
+Last accessed: 2009-12-27 02:57:29 UTC+0000
+File Offset: 0x100, Data Offset: 0x8c, Data Length: 0xac
+File: windowsupdate.microsoft[1].htm
+Data: HTTP/1.1 200 OK
+Content-Length: 3191
+Content-Type: text/html
+
+
+**************************************************
+Process: 868 svchost.exe
+Cache type "URL " at 0x1ea4100
+Record length: 0x100
+Location: http://windowsupdate.microsoft.com/redirect.js
+Last modified: 2008-07-18 18:01:53 UTC+0000
+Last accessed: 2009-12-27 02:57:30 UTC+0000
+File Offset: 0x100, Data Offset: 0x98, Data Length: 0xa8
+File: redirect[1].js
+Data: HTTP/1.1 200 OK
+Content-Length: 43986
+Content-Type: application/x-javascript
+
+
+**************************************************
+Process: 868 svchost.exe
+Cache type "URL " at 0x1ea4380
+Record length: 0x100
+Location: http://update.microsoft.com/windowsupdate/v6/default.aspx
+Last modified: 2009-12-27 02:56:32 UTC+0000
+Last accessed: 2009-12-27 02:57:31 UTC+0000
+File Offset: 0x100, Data Offset: 0xa4, Data Length: 0xb4
+File: default[1].htm
+Data: HTTP/1.1 200 OK
+Content-Length: 1932
+Content-Type: text/html
+
+?????LEAK
+**************************************************
+Process: 868 svchost.exe
+Cache type "URL " at 0x1ea4600
+Record length: 0x180
+Location: http://update.microsoft.com/windowsupdate/v6/default.aspx?ln=en-us
+Last modified: 2009-12-27 02:56:57 UTC+0000
+Last accessed: 2009-12-27 02:57:32 UTC+0000
+File Offset: 0x180, Data Offset: 0xac, Data Length: 0xbc
+File: default[3].htm
+Data: HTTP/1.1 200 OK
+Content-Length: 15250
+Content-Type: text/html
+
+????????????????????????????????????????????????????????????????LEAK
+**************************************************
+Process: 868 svchost.exe
+Cache type "URL " at 0x1ea4900
+Record length: 0x180
+Location: http://update.microsoft.com/windowsupdate/v6/shared/js/tgar.js?633974461313924825
+Last modified: 2009-09-04 23:28:10 UTC+0000
+Last accessed: 2009-12-27 01:43:05 UTC+0000
+File Offset: 0x180, Data Offset: 0xbc, Data Length: 0xc8
+File: tgar[2].js
+Data: HTTP/1.1 200 OK
+Content-Length: 2241
+Content-Type: application/x-javascript
+
+
+**************************************************
+Process: 868 svchost.exe
+Cache type "URL " at 0x1ea4c80
+Record length: 0x180
+Location: http://update.microsoft.com/windowsupdate/v6/shared/js/redirect.js?633974461313924825
+Last modified: 2009-08-18 03:27:05 UTC+0000
+Last accessed: 2009-12-27 01:43:05 UTC+0000
+File Offset: 0x180, Data Offset: 0xc0, Data Length: 0xd0
+File: redirect[2].js
+Data: HTTP/1.1 200 OK
+Content-Length: 19709
+Content-Type: application/x-javascript
+
+
+**************************************************
+Process: 868 svchost.exe
+Cache type "URL " at 0x1ea4f80
+Record length: 0x180
+Location: http://update.microsoft.??
+Last modified: 2009-09-04 23:28:08 UTC+0000
+Last accessed: 2009-12-27 01:43:05 UTC+0000
+File Offset: 0x180, Data Offset: 0xc0, Data Length: 0xd0
+File: P??
+Data: 
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935000
+Record length: 0x100
+Location: Visited: Administrator@https://assured.showmypc.com/service/readpclist.php?task=pclstgoog&ci=&dt=2/7/2011-9:02:53 PM&pv=3055
+Last modified: 2011-02-08 02:02:56 UTC+0000
+Last accessed: 2011-02-08 02:02:56 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xe8
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935100
+Record length: 0x100
+Location: Visited: Administrator@about:Home
+Last modified: 2009-12-27 01:39:03 UTC+0000
+Last accessed: 2009-12-27 01:39:03 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0x8c
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935200
+Record length: 0x200
+Location: Visited: Administrator@https://assured.showmypc.com/service/readpclist.php?task=pclstgoog&ci=&dt=2/7/2011-9:02:53%20PM&pv=3055
+Last modified: 2011-02-08 02:02:56 UTC+0000
+Last accessed: 2011-02-08 02:02:56 UTC+0000
+File Offset: 0x200, Data Offset: 0x0, Data Length: 0xe8
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935400
+Record length: 0x100
+Location: Visited: Administrator@https://assured.showmypc.com/service/readpclist.php?task=pclstgoog&ci=&dt=12/7/2010-9:20:43 PM&pv=3055
+Last modified: 2010-12-08 02:20:46 UTC+0000
+Last accessed: 2010-12-08 02:20:46 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xe8
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935500
+Record length: 0x100
+Location: Visited: Administrator@http://download3.showmypc.com/app/appheader.html?version=3055&lang=ENG
+Last modified: 2011-02-08 01:49:50 UTC+0000
+Last accessed: 2011-02-08 01:49:50 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xc8
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935600
+Record length: 0x200
+Location: Visited: Administrator@https://assured.showmypc.com/service/readpclist.php?task=pclstgoog&ci=&dt=12/7/2010-9:20:43%20PM&pv=3055
+Last modified: 2010-12-08 02:20:46 UTC+0000
+Last accessed: 2010-12-08 02:20:46 UTC+0000
+File Offset: 0x200, Data Offset: 0x0, Data Length: 0xe8
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935800
+Record length: 0x100
+Location: Visited: Administrator@http://download3.showmypc.com/app/appheader.html?version=3055&lang=ENG
+Last modified: 2011-02-08 01:49:42 UTC+0000
+Last accessed: 2011-02-08 01:49:42 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xc8
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935900
+Record length: 0x100
+Location: Visited: Administrator@http://www.bing.com/search?q=syncback&src=IE-SearchBox&format=rss
+Last modified: 2010-10-07 00:11:16 UTC+0000
+Last accessed: 2010-10-07 00:11:16 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xc4
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935a00
+Record length: 0x180
+Location: Visited: Administrator@http://www.2brightsparks.com/downloads.html
+Last modified: 2010-10-07 00:11:24 UTC+0000
+Last accessed: 2010-10-07 00:11:24 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xac
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935b80
+Record length: 0x100
+Location: Visited: Administrator@http://www.2brightsparks.com/assets/software/assets/software/SyncBack_Setup.zip
+Last modified: 2010-10-07 00:11:35 UTC+0000
+Last accessed: 2010-10-07 00:11:35 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xd0
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935c80
+Record length: 0x100
+Location: Visited: Administrator@http://2brightsparks.com/bb/rss.php
+Last modified: 2010-10-07 00:11:36 UTC+0000
+Last accessed: 2010-10-07 00:11:36 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xa4
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935d80
+Record length: 0x100
+Location: Visited: Administrator@http://www.2brightsparks.com/assets/software/SyncBack_Setup.zip
+Last modified: 2010-10-07 00:11:42 UTC+0000
+Last accessed: 2010-10-07 00:11:42 UTC+0000
+File Offset: 0x100, Data Offset: 0x0, Data Length: 0xc0
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1935e80
+Record length: 0x180
+Location: Visited: Administrator@mk:@MSITStore:C:\Program%20Files\2BrightSparks\SyncBack\SYNCBACK.chm::/FirstRun.htm
+Last modified: 2010-10-07 00:15:23 UTC+0000
+Last accessed: 2010-10-07 00:15:23 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xd4
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1936000
+Record length: 0x200
+Location: Visited: Administrator@http://download3.showmypc.com/app/about-us.html?lang=ENG&version=3055&seq=2/7/20118:49:42%20PM
+Last modified: 2011-02-08 01:49:56 UTC+0000
+Last accessed: 2011-02-08 01:49:56 UTC+0000
+File Offset: 0x200, Data Offset: 0x0, Data Length: 0xe0
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1936200
+Record length: 0x200
+Location: Visited: Administrator@http://download3.showmypc.com/app/about-us.html?lang=ENG&version=3055&seq=12/7/20109:20:36%20PM
+Last modified: 2010-12-08 02:20:39 UTC+0000
+Last accessed: 2010-12-08 02:20:39 UTC+0000
+File Offset: 0x200, Data Offset: 0x0, Data Length: 0xe0
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1936600
+Record length: 0x180
+Location: Visited: Administrator@https://nfuse.constellation.com/citrix/metaframe/site/logout.aspx?NFuse_Timeout=On
+Last modified: 2010-08-06 01:13:26 UTC+0000
+Last accessed: 2010-08-06 01:13:26 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xd4
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1936780
+Record length: 0x180
+Location: Visited: Administrator@https://nfuse.constellation.com/citrix/metaframe/site/launch.ica?NFuse_UID=1146065825&NFuse_Application=Citrix.MPS.App.CEG+Citrix+Farm.Secure+Remote+Desktop+-+Full+Screen
+Last modified: 2010-08-06 00:30:51 UTC+0000
+Last accessed: 2010-08-06 00:30:51 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0x12c
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x1936900
+Record length: 0x180
+Location: Visited: Administrator@https://nfuse.constellation.com/citrix/metaframe/site/logout.aspx?NFuse_Timeout=On
+Last modified: 2010-08-06 01:13:26 UTC+0000
+Last accessed: 2010-08-06 01:13:26 UTC+0000
+File Offset: 0x180, Data Offset: 0x0, Data Length: 0xd4
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x7cfc4000
+Record length: 0x100
+Location: http://update.microsoft.com/windowsupdate/v6/toc.aspx?ln=en-us
+Last modified: 2009-12-27 01:43:06 UTC+0000
+Last accessed: 2009-12-27 01:43:06 UTC+0000
+File Offset: 0x100, Data Offset: 0xa8, Data Length: 0xb4
+File: toc[1].htm
+Data: HTTP/1.1 200 OK
+Content-Length: 5028
+Content-Type: text/html
+
+?????LEAK
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x7cfc4280
+Record length: 0x180
+Location: http://update.microsoft.com/windowsupdate/v6/splash.aspx?page=0&ln=en-us
+Last modified: 2009-12-27 01:42:12 UTC+0000
+Last accessed: 2009-12-27 01:43:05 UTC+0000
+File Offset: 0x180, Data Offset: 0xb4, Data Length: 0xc4
+File: splash[1].htm
+Data: HTTP/1.1 200 OK
+Content-Length: 2451
+Content-Type: text/html
+
+
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x7cfc4580
+Record length: 0x180
+Location: http://update.microsoft.com/windowsupdate/v6/footer.aspx?ln=en-us
+Last modified: 2009-12-27 01:42:34 UTC+0000
+Last accessed: 2009-12-27 01:43:06 UTC+0000
+File Offset: 0x180, Data Offset: 0xac, Data Length: 0xbc
+File: footer[1].htm
+Data: HTTP/1.1 200 OK
+Content-Length: 4897
+Content-Type: text/html
+
+?????????????????????????????????????????????????????????????????LEAK
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x7cfc4880
+Record length: 0x180
+Location: http://update.microsoft.com/library/toolbar/3.0/css.aspx?c=/windowsupdate/v6/Config/en/WU/shell.config
+Last modified: 1970-01-01 00:00:00 UTC+0000
+Last accessed: 2009-12-27 01:43:06 UTC+0000
+File Offset: 0x180, Data Offset: 0xd0, Data Length: 0xdc
+File: css[1].css
+Data: HTTP/1.1 200 OK
+Content-Length: 2652
+Content-Type: text/css
+
+
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x7cfc4b80
+Record length: 0x180
+Location: http://update.microsoft.com/windowsupdate/v6/shared/js/tgar.js?633974461449454998
+Last modified: 2009-09-04 23:28:10 UTC+0000
+Last accessed: 2009-12-27 01:42:24 UTC+0000
+File Offset: 0x180, Data Offset: 0xbc, Data Length: 0xc8
+File: tgar[3].js
+Data: HTTP/1.1 200 OK
+Content-Length: 2241
+Content-Type: application/x-javascript
+
+
+**************************************************
+Process: 1752 explorer.exe
+Cache type "URL " at 0x7cfc4e80
+Record length: 0x180
+Location: http://update.microsoft.com/windowsupdate/v6/shared/js/tgar.js?633974461324064955
+Last modified: 2009-09-04 23:28:10 UTC+0000
+Last accessed: 2009-12-27 01:43:05 UTC+0000
+File Offset: 0x180, Data Offset: 0xbc, Data Length: 0xc8
+File: tgar[1].js
+Data: HTTP/1.1 200 OK
+Content-Length: 2241
+Content-Type: application/x-javascript
+
+

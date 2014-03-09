@@ -1,0 +1,40 @@
+**************************************************
+WindowStation: 0x17530e8, Name: Service-0x0-3e5$, Next: 0x81683de0
+SessionId: 0, AtomTable: 0xe1e4eda8, Interactive: False
+Desktops: Default
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
+**************************************************
+WindowStation: 0x1883de0, Name: SAWinSta, Next: 0x0
+SessionId: 0, AtomTable: 0xe1f577d0, Interactive: False
+Desktops: SADesktop
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
+**************************************************
+WindowStation: 0x197eed0, Name: WinSta0, Next: 0x818edb48
+SessionId: 0, AtomTable: 0xe16dd7f0, Interactive: True
+Desktops: Default, Disconnect, Winlogon
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
+**************************************************
+WindowStation: 0x1aedb48, Name: Service-0x0-3e7$, Next: 0x818b5720
+SessionId: 0, AtomTable: 0xe17435b8, Interactive: False
+Desktops: Default
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 
+**************************************************
+WindowStation: 0x1ab5720, Name: Service-0x0-3e4$, Next: 0x815530e8
+SessionId: 0, AtomTable: 0xe19d79e0, Interactive: False
+Desktops: Default
+ptiDrawingClipboard: pid - tid -
+spwndClipOpen: 0x0, spwndClipViewer: 0x0  
+cNumClipFormats: 0, iClipSerialNumber: 0
+pClipBase: 0x0, Formats: 

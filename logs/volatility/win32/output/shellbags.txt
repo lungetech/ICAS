@@ -1,0 +1,131 @@
+Scanning for registries....
+Gathering shellbag items and building path tree...
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\Shell\Bags\1\Desktop
+Last updated: 2011-09-26 01:35:57 UTC+0000
+Value                     File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Unicode Name
+------------------------- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ------------
+ItemPos1114x627(1)        SHYLOC~1       2011-09-26 01:34:12 UTC+0000   2011-09-26 01:34:08 UTC+0000   2011-09-26 01:34:12 UTC+0000   DIR                       Shylock4FDA5E7E8E682870E993F97AD26BA6B2 
+ItemPos1114x627(1)        SHYLOC~1.ZIP   2011-09-26 01:23:58 UTC+0000   2011-09-26 01:33:56 UTC+0000   2011-09-26 01:33:56 UTC+0000   ARC                       Shylock4FDA5E7E8E682870E993F97AD26BA6B2.zip 
+ItemPos840x668(1)         MOZILL~1.LNK   2009-12-27 01:47:36 UTC+0000   2009-12-27 01:47:36 UTC+0000   2009-12-27 01:47:36 UTC+0000   ARC                       Mozilla Firefox.lnk 
+ItemPos840x668(1)         TRUECR~1.LNK   2009-12-27 02:00:48 UTC+0000   2009-12-27 02:00:48 UTC+0000   2009-12-27 02:00:48 UTC+0000   ARC                       TrueCrypt.lnk 
+ItemPos840x668(1)         Dropbox.lnk    2009-12-27 01:54:24 UTC+0000   2009-12-27 01:54:24 UTC+0000   2009-12-27 01:54:24 UTC+0000   ARC                       Dropbox.lnk 
+ItemPos840x668(1)         QUICKE~1.EXE   2008-11-18 21:30:46 UTC+0000   2009-12-27 02:05:54 UTC+0000   2009-12-27 02:06:10 UTC+0000   ARC                       Quicken_Home_Business_2008.exe 
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU
+Last updated: 2011-09-26 01:34:13 UTC+0000
+Value   Mru   Entry Type     GUID                                     GUID Description     Folder IDs
+------- ----- -------------- ---------------------------------------- -------------------- ----------
+1       2     Folder Entry   450d8fba-ad25-11d0-98a8-0800361b1103     My Documents         EXPLORER, MY_DOCUMENTS 
+0       3     Folder Entry   871c5380-42a0-1069-a2ea-08002b30309d     Internet Explorer (Homepage) EXPLORER 
+
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+3       1     SYNCBA~1       2010-10-07 00:11:56 UTC+0000   2010-10-07 00:11:56 UTC+0000   2010-10-07 00:11:56 UTC+0000   DIR                       SyncBack_Setup
+
+Value   Mru   Entry Type     GUID                                     GUID Description     Folder IDs
+------- ----- -------------- ---------------------------------------- -------------------- ----------
+2       0     Folder Entry   20d04fe0-3aea-1069-a2d8-08002b30309d     My Computer          EXPLORER, MY_COMPUTER 
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\1
+Last updated: 2010-06-29 00:32:08 UTC+0000
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+1       0     DOWNLO~1       2009-12-27 02:50:02 UTC+0000   2009-12-27 01:52:16 UTC+0000   2009-12-27 02:50:02 UTC+0000   DIR                       Downloads
+0       1     My Dropbox     1970-01-01 00:00:00 UTC+0000   1970-01-01 00:00:00 UTC+0000   1970-01-01 00:00:00 UTC+0000   RO, DIR                   My Dropbox
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\2
+Last updated: 2011-09-30 00:24:35 UTC+0000
+Value   Mru   Entry Type     Path
+------- ----- -------------- ----
+1       0     Volume Name    C:\ 
+0       2     Volume Name    O:\ 
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\1\0
+Last updated: 2009-12-27 02:04:41 UTC+0000
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+1       0     CarlTC         2009-12-27 01:58:02 UTC+0000   2009-12-27 01:54:32 UTC+0000   2009-12-27 01:58:02 UTC+0000   DIR                       My Dropbox\CarlTC
+0       1     Photos         2009-12-27 01:55:16 UTC+0000   2009-12-27 01:54:24 UTC+0000   2009-12-27 01:55:16 UTC+0000   RO, DIR                   My Dropbox\Photos
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\2\0
+Last updated: 2009-12-29 02:13:13 UTC+0000
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+1       0     KEEPASS        2009-10-02 01:50:56 UTC+0000   2009-10-02 01:50:56 UTC+0000   2009-11-16 05:00:00 UTC+0000   DIR                       O:\Keepass
+0       1     QUICKEN        2009-10-02 03:20:08 UTC+0000   2009-10-02 03:20:08 UTC+0000   2009-12-12 05:00:00 UTC+0000   DIR                       O:\Quicken
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\2\1
+Last updated: 2010-10-07 00:11:58 UTC+0000
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+0       0     DOCUME~1       2009-12-27 01:38:42 UTC+0000   2009-12-26 20:24:38 UTC+0000   2010-10-07 00:08:04 UTC+0000   DIR                       C:\Documents and Settings
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\2\2
+Last updated: 2010-06-29 00:34:23 UTC+0000
+Value   Mru   Entry Type     GUID                                     GUID Description     Folder IDs
+------- ----- -------------- ---------------------------------------- -------------------- ----------
+0       0     Control Panel  7007acc7-3202-11d1-aad2-00805fc1270e     Unknown GUID         EXPLORER, MY_GAMES 
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\2\0\0
+Last updated: 2009-12-29 02:12:56 UTC+0000
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+1       0     BACKUP         2009-10-02 03:21:38 UTC+0000   2009-10-02 03:21:38 UTC+0000   2009-12-12 05:00:00 UTC+0000   DIR                       O:\Quicken\BACKUP
+0       2     VALIDATE       2009-10-02 03:21:30 UTC+0000   2009-10-02 03:21:30 UTC+0000   2009-10-01 05:00:00 UTC+0000   DIR                       O:\Quicken\VALIDATE
+2       1     NEWBAC~1       2009-12-29 02:12:18 UTC+0000   2009-12-29 02:12:18 UTC+0000   2009-12-28 05:00:00 UTC+0000   DIR                       O:\Quicken\NEWBACKUP
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\2\1\0
+Last updated: 2010-10-07 00:11:58 UTC+0000
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+0       0     ADMINI~1       2009-12-27 01:42:22 UTC+0000   2009-12-27 01:38:42 UTC+0000   2010-10-07 00:08:06 UTC+0000   DIR                       C:\Documents and Settings\Administrator
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\2\1\0\0
+Last updated: 2010-10-07 00:11:58 UTC+0000
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+0       0     Desktop        2010-10-07 00:11:56 UTC+0000   2009-12-27 01:38:42 UTC+0000   2010-10-07 00:11:56 UTC+0000   DIR                       C:\Documents and Settings\Administrator\Desktop
+***************************************************************************
+
+***************************************************************************
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT 
+Key: Software\Microsoft\Windows\ShellNoRoam\BagMRU\2\1\0\0\0
+Last updated: 2011-09-26 01:34:13 UTC+0000
+Value   Mru   File Name      Modified Date                  Create Date                    Access Date                    File Attr                 Path
+------- ----- -------------- ------------------------------ ------------------------------ ------------------------------ ------------------------- ----
+1       0     SHYLOC~1       2011-09-26 01:34:12 UTC+0000   2011-09-26 01:34:08 UTC+0000   2011-09-26 01:34:12 UTC+0000   DIR                       C:\Documents and Settings\Administrator\Desktop\Shylock4FDA5E7E8E682870E993F97AD26BA6B2
+0       1     SYNCBA~1       2010-10-07 00:11:56 UTC+0000   2010-10-07 00:11:56 UTC+0000   2010-10-07 00:11:56 UTC+0000   DIR                       C:\Documents and Settings\Administrator\Desktop\SyncBack_Setup
+***************************************************************************
+

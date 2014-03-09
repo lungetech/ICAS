@@ -1,0 +1,130 @@
+**************************************************
+Desktop: 0x1aa9db8, Name: Service-0x0-3e5$\Default, Next: 0x0
+SessionId: 0, DesktopInfo: 0xbc230650, fsHooks: 0
+spwnd: 0xbc2306e8, Windows: 17
+Heap: 0xbc230000, Size: 0x80000, Base: 0xbc230000, Limit: 0xbc2b0000
+ 2324 (alg.exe 2272 parent 680)
+ 2276 (alg.exe 2272 parent 680)
+ 1816 (svchost.exe 1812 parent 680)
+ 1340 (svchost.exe 1336 parent 680)
+**************************************************
+Desktop: 0x15872e0, Name: SAWinSta\SADesktop, Next: 0x0
+SessionId: 0, DesktopInfo: 0xbc570650, fsHooks: 0
+spwnd: 0xbc5706e8, Windows: 20
+Heap: 0xbc570000, Size: 0x80000, Base: 0xbc570000, Limit: 0xbc5f0000
+**************************************************
+Desktop: 0x1b21408, Name: WinSta0\Default, Next: 0x81613160
+SessionId: 0, DesktopInfo: 0xbbe30650, fsHooks: 2128
+spwnd: 0xbbe306e8, Windows: 147
+Heap: 0xbbe30000, Size: 0x300000, Base: 0xbbe30000, Limit: 0xbc130000
+ 3280 (explorer.exe 1752 parent 1696)
+ 532 (vmtoolsd.exe 200 parent 680)
+ 2340 (spoolsv.exe 1516 parent 680)
+ 3760 (cmd.exe 3756 parent 1752)
+ 1528 (spoolsv.exe 1516 parent 680)
+ 3712 (explorer.exe 1752 parent 1696)
+ 1532 (spoolsv.exe 1516 parent 680)
+ 3424 (spoolsv.exe 1516 parent 680)
+ 3384 (spoolsv.exe 1516 parent 680)
+ 3376 (TPAutoConnect.e 3372 parent 2068)
+ 2080 (explorer.exe 1752 parent 1696)
+ 2108 (VMwareUser.exe 1888 parent 1752)
+ 2084 (VMwareUser.exe 1888 parent 1752)
+ 2052 (VMwareUser.exe 1888 parent 1752)
+ 1824 (explorer.exe 1752 parent 1696)
+ 1112 (explorer.exe 1752 parent 1696)
+ 2032 (wscntfy.exe 2028 parent 1076)
+ 616 (explorer.exe 1752 parent 1696)
+ 560 (msseces.exe 1900 parent 1752)
+ 516 (csrss.exe 612 parent 384)
+ 492 (msseces.exe 1900 parent 1752)
+ 392 (VMwareUser.exe 1888 parent 1752)
+ 240 (vmtoolsd.exe 200 parent 680)
+ 272 (VMwareUser.exe 1888 parent 1752)
+ 180 (vmtoolsd.exe 200 parent 680)
+ 1880 (VMwareTray.exe 1876 parent 1752)
+ 1904 (msseces.exe 1900 parent 1752)
+ 1892 (VMwareUser.exe 1888 parent 1752)
+ 1916 (ctfmon.exe 1912 parent 1752)
+ 652 (csrss.exe 612 parent 384)
+ 648 (csrss.exe 612 parent 384)
+ 1840 (explorer.exe 1752 parent 1696)
+ 1852 (explorer.exe 1752 parent 1696)
+ 1832 (explorer.exe 1752 parent 1696)
+ 1756 (explorer.exe 1752 parent 1696)
+ 1540 (spoolsv.exe 1516 parent 680)
+ 1524 (spoolsv.exe 1516 parent 680)
+ 1520 (spoolsv.exe 1516 parent 680)
+**************************************************
+Desktop: 0x1813160, Name: WinSta0\Disconnect, Next: 0x8191cea8
+SessionId: 0, DesktopInfo: 0xbbe20650, fsHooks: 0
+spwnd: 0xbbe206e8, Windows: 1
+Heap: 0xbbe20000, Size: 0x10000, Base: 0xbbe20000, Limit: 0xbbe30000
+**************************************************
+Desktop: 0x1b1cea8, Name: WinSta0\Winlogon, Next: 0x0
+SessionId: 0, DesktopInfo: 0xbbe00650, fsHooks: 0
+spwnd: 0xbbe006e8, Windows: 6
+Heap: 0xbbe00000, Size: 0x20000, Base: 0xbbe00000, Limit: 0xbbe20000
+ 688 (winlogon.exe 636 parent 384)
+ 660 (winlogon.exe 636 parent 384)
+ 640 (winlogon.exe 636 parent 384)
+**************************************************
+Desktop: 0x1a198f0, Name: Service-0x0-3e7$\Default, Next: 0x0
+SessionId: 0, DesktopInfo: 0xbc130650, fsHooks: 0
+spwnd: 0xbc1306e8, Windows: 11
+Heap: 0xbc130000, Size: 0x80000, Base: 0xbc130000, Limit: 0xbc1b0000
+ 888 (VMUpgradeHelper 424 parent 680)
+ 2156 (svchost.exe 1076 parent 680)
+ 148 (svchost.exe 1076 parent 680)
+ 1088 (MsMpEng.exe 1040 parent 680)
+ 3764 (svchost.exe 1076 parent 680)
+ 1884 (svchost.exe 1076 parent 680)
+ 1596 (svchost.exe 1076 parent 680)
+ 208 (svchost.exe 1076 parent 680)
+ 2508 (msiexec.exe 2396 parent 680)
+ 2412 (msiexec.exe 2396 parent 680)
+ 2432 (msiexec.exe 2396 parent 680)
+ 2408 (msiexec.exe 2396 parent 680)
+ 2400 (msiexec.exe 2396 parent 680)
+ 252 (svchost.exe 1076 parent 680)
+ 2600 (TPAutoConnSvc.e 2068 parent 680)
+ 2588 (TPAutoConnSvc.e 2068 parent 680)
+ 2112 (TPAutoConnSvc.e 2068 parent 680)
+ 2536 (svchost.exe 1076 parent 680)
+ 2512 (svchost.exe 1076 parent 680)
+ 2448 (svchost.exe 1076 parent 680)
+ 2428 (svchost.exe 1076 parent 680)
+ 2072 (TPAutoConnSvc.e 2068 parent 680)
+ 1664 (svchost.exe 1076 parent 680)
+ 1848 (svchost.exe 1076 parent 680)
+ 1164 (services.exe 680 parent 636)
+ 1672 (svchost.exe 1076 parent 680)
+ 1392 (svchost.exe 1076 parent 680)
+ 1632 (svchost.exe 1076 parent 680)
+ 1860 (svchost.exe 1076 parent 680)
+ 988 (svchost.exe 1076 parent 680)
+ 1136 (svchost.exe 1076 parent 680)
+ 1016 (csrss.exe 612 parent 384)
+ 1508 (svchost.exe 1076 parent 680)
+ 816 (VMUpgradeHelper 424 parent 680)
+ 428 (VMUpgradeHelper 424 parent 680)
+ 248 (svchost.exe 1076 parent 680)
+ 1956 (svchost.exe 1076 parent 680)
+ 192 (svchost.exe 2000 parent 680)
+ 2004 (svchost.exe 2000 parent 680)
+ 1472 (svchost.exe 1076 parent 680)
+ 1496 (svchost.exe 1076 parent 680)
+ 1480 (svchost.exe 1076 parent 680)
+ 764 (lsass.exe 692 parent 636)
+ 1080 (svchost.exe 1076 parent 680)
+ 1044 (MsMpEng.exe 1040 parent 680)
+ 872 (svchost.exe 868 parent 680)
+ 856 (vmacthlp.exe 852 parent 680)
+ 700 (csrss.exe 612 parent 384)
+**************************************************
+Desktop: 0x19a0998, Name: Service-0x0-3e4$\Default, Next: 0x0
+SessionId: 0, DesktopInfo: 0xbc1b0650, fsHooks: 0
+spwnd: 0xbc1b06e8, Windows: 14
+Heap: 0xbc1b0000, Size: 0x80000, Base: 0xbc1b0000, Limit: 0xbc230000
+ 1204 (svchost.exe 1200 parent 680)
+ 948 (svchost.exe 944 parent 680)

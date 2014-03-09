@@ -1,0 +1,7 @@
+Name                 StartAddress EndAddress Time
+-------------------- ------------ ---------- ----
+Sfloppy.SYS          0x00f9679000 0xf967c000 2011-09-26 01:33:32 
+Cdaudio.SYS          0x00f9cfc000 0xf9d01000 2011-09-26 01:33:32 
+imapi.sys            0x00f9b6c000 0xf9b77000 2011-09-26 01:33:32 
+vmdebug.sys          0x00f9b5c000 0xf9b65000 2011-09-26 01:34:02 
+truecrypt.sys        0x00f0f9e000 0xf0fd2000 2011-09-26 01:35:56 

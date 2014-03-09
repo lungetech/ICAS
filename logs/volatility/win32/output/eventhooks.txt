@@ -1,0 +1,7 @@
+Handle: 0x10109, Object: 0xe18060f0, Session: 0
+Type: TYPE_WINEVENTHOOK, Flags: 0, Thread: 492, Process: 1900
+eventMin: 0xa EVENT_SYSTEM_MOVESIZESTART
+eventMax: 0xb EVENT_SYSTEM_MOVESIZEEND
+Flags: , offPfn: 0x4ecf8221, idProcess: 0, idThread: 0
+ihmod: -1
+

@@ -1,0 +1,34 @@
+**************************************************
+Session(V): f9ec4000 ID: 0 Processes: 27
+PagedPoolStart: bb800000 PagedPoolEnd bbbfffff
+ Process: 612 csrss.exe 2011-09-26 01:33:35 UTC+0000
+ Process: 636 winlogon.exe 2011-09-26 01:33:35 UTC+0000
+ Process: 680 services.exe 2011-09-26 01:33:35 UTC+0000
+ Process: 692 lsass.exe 2011-09-26 01:33:35 UTC+0000
+ Process: 852 vmacthlp.exe 2011-09-26 01:33:35 UTC+0000
+ Process: 868 svchost.exe 2011-09-26 01:33:35 UTC+0000
+ Process: 944 svchost.exe 2011-09-26 01:33:36 UTC+0000
+ Process: 1040 MsMpEng.exe 2011-09-26 01:33:36 UTC+0000
+ Process: 1076 svchost.exe 2011-09-26 01:33:36 UTC+0000
+ Process: 1200 svchost.exe 2011-09-26 01:33:37 UTC+0000
+ Process: 1336 svchost.exe 2011-09-26 01:33:37 UTC+0000
+ Process: 1516 spoolsv.exe 2011-09-26 01:33:39 UTC+0000
+ Process: 1752 explorer.exe 2011-09-26 01:33:45 UTC+0000
+ Process: 1812 svchost.exe 2011-09-26 01:33:46 UTC+0000
+ Process: 1876 VMwareTray.exe 2011-09-26 01:33:46 UTC+0000
+ Process: 1888 VMwareUser.exe 2011-09-26 01:33:47 UTC+0000
+ Process: 1900 msseces.exe 2011-09-26 01:33:47 UTC+0000
+ Process: 1912 ctfmon.exe 2011-09-26 01:33:47 UTC+0000
+ Process: 2000 svchost.exe 2011-09-26 01:33:47 UTC+0000
+ Process: 200 vmtoolsd.exe 2011-09-26 01:33:47 UTC+0000
+ Process: 424 VMUpgradeHelper 2011-09-26 01:33:48 UTC+0000
+ Process: 2028 wscntfy.exe 2011-09-26 01:33:55 UTC+0000
+ Process: 2068 TPAutoConnSvc.e 2011-09-26 01:33:55 UTC+0000
+ Process: 2272 alg.exe 2011-09-26 01:33:55 UTC+0000
+ Process: 3372 TPAutoConnect.e 2011-09-26 01:33:59 UTC+0000
+ Process: 2396 msiexec.exe 2011-09-26 01:34:45 UTC+0000
+ Process: 3756 cmd.exe 2011-09-30 00:20:44 UTC+0000
+ Image: 0x81608990, Address bf800000, Name: win32k.sys
+ Image: 0x81644ce0, Address bf000000, Name: dxg.sys
+ Image: 0x81669fa0, Address bf012000, Name: vmx_fb.dll
+ Image: 0xbeff009c, Address c07cf620, Name: 

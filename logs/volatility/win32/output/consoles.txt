@@ -1,0 +1,175 @@
+**************************************************
+ConsoleProcess: csrss.exe Pid: 612
+Console: 0x4f23b0 CommandHistorySize: 50
+HistoryBufferCount: 1 HistoryBufferMax: 4
+OriginalTitle: C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe
+Title: C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe
+AttachedProcess: TPAutoConnect.e Pid: 3372 Handle: 0x520
+----
+CommandHistory: 0x10586f8 Application: TPAutoConnect.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x520
+----
+Screen 0x4f2ab0 X:80 Y:25
+Dump:
+TPAutoConnect User Agent, Copyright (c) 1999-2009 ThinPrint AG, 7.17.512.1      
+**************************************************
+ConsoleProcess: csrss.exe Pid: 612
+Console: 0x10587f0 CommandHistorySize: 50
+HistoryBufferCount: 3 HistoryBufferMax: 4
+OriginalTitle: %SystemRoot%\system32\cmd.exe
+Title: C:\WINDOWS\system32\cmd.exe
+AttachedProcess: cmd.exe Pid: 3756 Handle: 0x6fc
+----
+CommandHistory: 0x4f4378 Application: ipconfig.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x4f3868 Application: ping.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x4f44a8 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 7 LastAdded: 6 LastDisplayed: 6
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x6fc
+Cmd #0 at 0x1058fe8: ipconfig
+Cmd #1 at 0x1058bd0: ipconfig /rnew
+Cmd #2 at 0x4f1e90: ipconfig /renew
+Cmd #3 at 0x4f2ef8: ping 4.2.2.2
+Cmd #4 at 0x1068b98: ipconfig
+Cmd #5 at 0x1068bb8: ipconfig /release
+Cmd #6 at 0x4f3840: ipconfig /renew
+----
+Screen 0x4f2fe8 X:80 Y:300
+Dump:
+Microsoft Windows XP [Version 5.1.2600]                                         
+(C) Copyright 1985-2001 Microsoft Corp.                                         
+                                                                                
+C:\Documents and Settings\Administrator>ipconfig                                
+                                                                                
+Windows IP Configuration                                                        
+                                                                                
+                                                                                
+Ethernet adapter Local Area Connection:                                         
+                                                                                
+        Connection-specific DNS Suffix  . : localdomain                         
+        IP Address. . . . . . . . . . . . : 172.16.138.130                      
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0                       
+        Default Gateway . . . . . . . . . :                                     
+                                                                                
+C:\Documents and Settings\Administrator>ipconfig /rnew                          
+                                                                                
+Error: unrecongnized or incomplete command line.                                
+                                                                                
+USAGE:                                                                          
+    ipconfig [/? | /all | /renew [adapter] | /release [adapter] |               
+              /flushdns | /displaydns | /registerdns |                          
+              /showclassid adapter |                                            
+              /setclassid adapter [classid] ]                                   
+                                                                                
+where                                                                           
+    adapter         Connection name                                             
+                   (wildcard characters * and ? allowed, see examples)          
+                                                                                
+    Options:                                                                    
+       /?           Display this help message                                   
+       /all         Display full configuration information.                     
+       /release     Release the IP address for the specified adapter.           
+       /renew       Renew the IP address for the specified adapter.             
+       /flushdns    Purges the DNS Resolver cache.                              
+       /registerdns Refreshes all DHCP leases and re-registers DNS names        
+       /displaydns  Display the contents of the DNS Resolver Cache.             
+       /showclassid Displays all the dhcp class IDs allowed for adapter.        
+       /setclassid  Modifies the dhcp class id.                                 
+                                                                                
+The default is to display only the IP address, subnet mask and                  
+default gateway for each adapter bound to TCP/IP.                               
+                                                                                
+For Release and Renew, if no adapter name is specified, then the IP address     
+leases for all adapters bound to TCP/IP will be released or renewed.            
+                                                                                
+For Setclassid, if no ClassId is specified, then the ClassId is removed.        
+                                                                                
+Examples:                                                                       
+    > ipconfig                   ... Show information.                          
+    > ipconfig /all              ... Show detailed information                  
+    > ipconfig /renew            ... renew all adapters                         
+    > ipconfig /renew EL*        ... renew any connection that has its          
+                                     name starting with EL                      
+    > ipconfig /release *Con*    ... release all matching connections,          
+                                     eg. "Local Area Connection 1" or           
+                                         "Local Area Connection 2"              
+                                                                                
+C:\Documents and Settings\Administrator>ipconfig /renew                         
+                                                                                
+Windows IP Configuration                                                        
+                                                                                
+An error occurred while renewing interface Local Area Connection : unable to con
+tact your DHCP server. Request has timed out.                                   
+                                                                                
+C:\Documents and Settings\Administrator>ipconfig /renew                         
+                                                                                
+Windows IP Configuration                                                        
+                                                                                
+An error occurred while renewing interface Local Area Connection : unable to con
+tact your DHCP server. Request has timed out.                                   
+                                                                                
+C:\Documents and Settings\Administrator>ipconfig /renew                         
+^C                                                                              
+C:\Documents and Settings\Administrator>ping 4.2.2.2                            
+                                                                                
+Pinging 4.2.2.2 with 32 bytes of data:                                          
+                                                                                
+Destination host unreachable.                                                   
+                                                                                
+Ping statistics for 4.2.2.2:                                                    
+    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),                      
+Control-C                                                                       
+^C                                                                              
+C:\Documents and Settings\Administrator>ipconfig                                
+                                                                                
+Windows IP Configuration                                                        
+                                                                                
+                                                                                
+Ethernet adapter Local Area Connection:                                         
+                                                                                
+        Connection-specific DNS Suffix  . : localdomain                         
+        IP Address. . . . . . . . . . . . : 172.16.138.130                      
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0                       
+        Default Gateway . . . . . . . . . :                                     
+                                                                                
+C:\Documents and Settings\Administrator>ipconfig /release                       
+                                                                                
+Windows IP Configuration                                                        
+                                                                                
+                                                                                
+Ethernet adapter Local Area Connection:                                         
+                                                                                
+        Connection-specific DNS Suffix  . :                                     
+        IP Address. . . . . . . . . . . . : 0.0.0.0                             
+        Subnet Mask . . . . . . . . . . . : 0.0.0.0                             
+        Default Gateway . . . . . . . . . :                                     
+                                                                                
+C:\Documents and Settings\Administrator>ipconfig /renew                         
+                                                                                
+Windows IP Configuration                                                        
+                                                                                
+                                                                                
+Ethernet adapter Local Area Connection:                                         
+                                                                                
+        Connection-specific DNS Suffix  . : home                                
+        IP Address. . . . . . . . . . . . : 10.0.0.109                          
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0                       
+        Default Gateway . . . . . . . . . : 10.0.0.1                            
+                                                                                
+C:\Documents and Settings\Administrator>                                        
+**************************************************
+ConsoleProcess: csrss.exe Pid: 612
+Console: 0x1068c78 CommandHistorySize: 50
+HistoryBufferCount: 2 HistoryBufferMax: 4
+OriginalTitle: ??ystemRoot%\system32\cmd.exe
+Title: 

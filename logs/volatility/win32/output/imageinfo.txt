@@ -1,0 +1,14 @@
+Determining profile based on KDBG search...
+
+          Suggested Profile(s) : WinXPSP2x86, WinXPSP3x86 (Instantiated with WinXPSP2x86)
+                     AS Layer1 : IA32PagedMemoryPae (Kernel AS)
+                     AS Layer2 : FileAddressSpace (/tmp/Windows XP Professional.vmem)
+                      PAE type : PAE
+                           DTB : 0x319000L
+                          KDBG : 0x80545b60
+          Number of Processors : 1
+     Image Type (Service Pack) : 3
+                KPCR for CPU 0 : 0xffdff000
+             KUSER_SHARED_DATA : 0xffdf0000
+           Image date and time : 2011-09-30 00:26:30 UTC+0000
+     Image local date and time : 2011-09-29 20:26:30 -0400

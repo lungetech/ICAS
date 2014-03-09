@@ -1,0 +1,93 @@
+apihooks
+atoms
+atomscan
+bioskbd
+callbacks
+clipboard
+cmdscan
+connections
+connscan
+consoles
+# crashinfo
+deskscan
+devicetree
+dlldump -D dlldump
+dlllist
+driverirp
+driverscan
+dumpcerts --dump-dir dumpcerts
+dumpfiles --dump-dir dumpfiles
+envars
+eventhooks
+evtlogs --dump-dir evtlogs
+filescan
+gahti
+gditimers
+gdt
+getservicesids
+getsids
+handles
+hashdump
+hibinfo
+hivedump
+hivelist
+hivescan
+# hpakextract
+# hpakinfo
+idt
+iehistory
+# imagecopy
+imageinfo
+impscan
+kdbgscan
+kpcrscan
+ldrmodules
+lsadump
+# machoinfo
+malfind
+mbrparser
+memdump --dump-dir memdump
+memmap
+messagehooks
+mftparser
+moddump --dump-dir moddump
+modscan
+modules
+mutantscan
+# patcher
+printkey
+privs
+procexedump --dump-dir procexedump
+procmemdump --dump-dir procmemdump
+pslist
+psscan
+pstree
+psxview
+# raw2dmp
+screenshot --dump-dir screenshot
+sessions
+shellbags
+shimcache
+sockets
+sockscan
+ssdt
+# strings
+svcscan
+symlinkscan
+thrdscan
+threads
+timeliner
+timers
+unloadedmodules
+userassist
+userhandles
+vaddump --dump-dir vaddump
+vadinfo
+vadtree
+vadwalk
+# vboxinfo
+# vmwareinfo
+windows
+wintree
+wndscan
+# yarascan

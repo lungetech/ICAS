@@ -1,0 +1,22 @@
+Session  Type                 Tag      fnDestroy  Flags
+-------- -------------------- -------- ---------- -----
+       0 TYPE_FREE                     0x00000000 
+       0 TYPE_WINDOW          Uswd     0xbf8b96f0 OCF_DESKTOPHEAP, OCF_THREADOWNED, OCF_USEPOOLIFNODESKTOP, OCF_USEPOOLQUOTA
+       0 TYPE_MENU                     0xbf88b9c5 OCF_DESKTOPHEAP, OCF_PROCESSOWNED
+       0 TYPE_CURSOR          Uscu     0xbf8ba75a OCF_MARKPROCESS, OCF_PROCESSOWNED, OCF_USEPOOLQUOTA
+       0 TYPE_SETWINDOWPOS    Ussw     0xbf879fc4 OCF_THREADOWNED, OCF_USEPOOLQUOTA
+       0 TYPE_HOOK                     0xbf870463 OCF_DESKTOPHEAP, OCF_THREADOWNED
+       0 TYPE_CLIPDATA        Uscb     0xbf91b4fa 
+       0 TYPE_CALLPROC                 0xbf89effa OCF_DESKTOPHEAP, OCF_PROCESSOWNED
+       0 TYPE_ACCELTABLE      Usac     0xbf89effa OCF_PROCESSOWNED, OCF_USEPOOLQUOTA
+       0 TYPE_DDEACCESS       Usd9     0xbf91b4fa OCF_THREADOWNED, OCF_USEPOOLQUOTA
+       0 TYPE_DDECONV         UsdA     0xbf921335 OCF_THREADOWNED, OCF_USEPOOLQUOTA
+       0 TYPE_DDEXACT         UsdB     0xbf92127c OCF_THREADOWNED, OCF_USEPOOLQUOTA
+       0 TYPE_MONITOR         Usdi     0xbf92f31e OCF_SHAREDHEAP
+       0 TYPE_KBDLAYOUT       Uskb     0xbf911ed5 
+       0 TYPE_KBDFILE         Uskf     0xbf927fd5 
+       0 TYPE_WINEVENTHOOK    Uswe     0xbf8f9948 OCF_THREADOWNED
+       0 TYPE_TIMER           Ustm     0xbf80e86f 
+       0 TYPE_INPUTCONTEXT    Usim     0xbf9286e4 OCF_DESKTOPHEAP, OCF_THREADOWNED
+       0 TYPE_HIDDATA         Usha     0xbf92fe3b OCF_THREADOWNED
+       0 TYPE_DEVICEINFO      UsDI     0xbf853fa4 

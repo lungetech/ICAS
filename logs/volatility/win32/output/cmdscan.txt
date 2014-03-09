@@ -1,0 +1,19 @@
+**************************************************
+CommandProcess: csrss.exe Pid: 612
+CommandHistory: 0x4f44a8 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 7 LastAdded: 6 LastDisplayed: 6
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x6fc
+Cmd #0 @ 0x1058fe8: ipconfig
+Cmd #1 @ 0x1058bd0: ipconfig /rnew
+Cmd #2 @ 0x4f1e90: ipconfig /renew
+Cmd #3 @ 0x4f2ef8: ping 4.2.2.2
+Cmd #4 @ 0x1068b98: ipconfig
+Cmd #5 @ 0x1068bb8: ipconfig /release
+Cmd #6 @ 0x4f3840: ipconfig /renew
+**************************************************
+CommandProcess: csrss.exe Pid: 612
+CommandHistory: 0x10586f8 Application: TPAutoConnect.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x520

@@ -1,0 +1,7 @@
+Wrote screenshot/session_0.Service-0x0-3e5$.Default.png
+Wrote screenshot/session_0.SAWinSta.SADesktop.png
+Wrote screenshot/session_0.WinSta0.Default.png
+Wrote screenshot/session_0.WinSta0.Disconnect.png
+Wrote screenshot/session_0.WinSta0.Winlogon.png
+Wrote screenshot/session_0.Service-0x0-3e7$.Default.png
+Wrote screenshot/session_0.Service-0x0-3e4$.Default.png

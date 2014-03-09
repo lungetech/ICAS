@@ -1,0 +1,198 @@
+Legend: (S) = Stable   (V) = Volatile
+
+----------------------------
+Registry: \Device\HarddiskVolume1\WINDOWS\system32\config\software
+Key name: $$$PROTO.HIV (S)
+Last updated: 2011-09-26 01:35:08 UTC+0000
+
+Subkeys:
+  (S) C07ft5Y
+  (S) Citrix
+  (S) Classes
+  (S) Clients
+  (S) Gemplus
+  (S) Macromedia
+  (S) Microsoft
+  (S) Mozilla
+  (S) mozilla.org
+  (S) ODBC
+  (S) ORL
+  (S) PocketSoft
+  (S) Policies
+  (S) Program Groups
+  (S) RegisteredApplications
+  (S) Schlumberger
+  (S) Secure
+  (S) ThinPrint
+  (S) VMware, Inc.
+  (S) Windows 3.1 Migration Status
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+Key name: S-1-5-19_Classes (S)
+Last updated: 2009-12-27 01:38:25 UTC+0000
+
+Subkeys:
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+Key name: S-1-5-21-1957994488-1326574676-839522115-500_Classes (S)
+Last updated: 2010-10-07 00:12:33 UTC+0000
+
+Subkeys:
+  (S) *
+  (S) .htm
+  (S) .html
+  (S) .shtml
+  (S) .sps
+  (S) .xht
+  (S) .xhtml
+  (S) CLSID
+  (S) Directory
+  (S) FirefoxHTML
+  (S) FirefoxURL
+  (S) ftp
+  (S) http
+  (S) https
+  (S) Software
+  (S) spsfile
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY
+Key name: SECURITY (S)
+Last updated: 2011-09-26 01:33:35 UTC+0000
+
+Subkeys:
+  (S) Cache
+  (S) Policy
+  (S) RXACT
+  (V) SAM
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\WINDOWS\system32\config\default
+Key name: $$$PROTO.HIV (S)
+Last updated: 2009-12-27 01:33:10 UTC+0000
+
+Subkeys:
+  (S) AppEvents
+  (S) Console
+  (S) Control Panel
+  (S) Environment
+  (S) Identities
+  (S) Keyboard Layout
+  (S) Printers
+  (S) Software
+  (S) UNICODE Program Groups
+
+Values:
+----------------------------
+Registry: [no name]
+Key name: REGISTRY (S)
+Last updated: 2011-09-26 01:33:26 UTC+0000
+
+Subkeys:
+  (S) MACHINE
+  (S) USER
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\WINDOWS\system32\config\SAM
+Key name: SAM (S)
+Last updated: 2009-12-26 20:24:40 UTC+0000
+
+Subkeys:
+  (S) SAM
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\Documents and Settings\LocalService\NTUSER.DAT
+Key name: $$$PROTO.HIV (S)
+Last updated: 2009-12-27 01:38:24 UTC+0000
+
+Subkeys:
+  (S) AppEvents
+  (S) Console
+  (S) Control Panel
+  (S) Environment
+  (S) Identities
+  (S) Keyboard Layout
+  (S) Printers
+  (S) Software
+  (S) UNICODE Program Groups
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT
+Key name: $$$PROTO.HIV (S)
+Last updated: 2011-09-26 01:34:01 UTC+0000
+
+Subkeys:
+  (S) AppEvents
+  (S) Console
+  (S) Control Panel
+  (S) Environment
+  (S) Identities
+  (S) Keyboard Layout
+  (S) Printers
+  (S) Software
+  (S) UNICODE Program Groups
+  (V) SessionInformation
+  (V) Volatile Environment
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\WINDOWS\system32\config\system
+Key name: $$$PROTO.HIV (S)
+Last updated: 2011-09-26 01:33:26 UTC+0000
+
+Subkeys:
+  (S) ControlSet001
+  (S) ControlSet003
+  (S) LastKnownGoodRecovery
+  (S) MountedDevices
+  (S) Select
+  (S) Setup
+  (S) WPA
+  (V) CurrentControlSet
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\Documents and Settings\NetworkService\NTUSER.DAT
+Key name: $$$PROTO.HIV (S)
+Last updated: 2009-12-27 01:38:21 UTC+0000
+
+Subkeys:
+  (S) AppEvents
+  (S) Console
+  (S) Control Panel
+  (S) Environment
+  (S) Identities
+  (S) Keyboard Layout
+  (S) Printers
+  (S) Software
+  (S) UNICODE Program Groups
+
+Values:
+----------------------------
+Registry: \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+Key name: S-1-5-20_Classes (S)
+Last updated: 2009-12-27 01:38:22 UTC+0000
+
+Subkeys:
+
+Values:
+----------------------------
+Registry: [no name]
+Key name: HARDWARE (S)
+Last updated: 2011-09-26 01:33:26 UTC+0000
+
+Subkeys:
+  (S) ACPI
+  (S) DESCRIPTION
+  (S) DEVICEMAP
+
+Values:

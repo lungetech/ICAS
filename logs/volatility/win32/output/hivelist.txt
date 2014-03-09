@@ -1,0 +1,15 @@
+Virtual    Physical   Name
+---------- ---------- ----
+0xe19d9a48 0x0e97ca48 \Device\HarddiskVolume1\Documents and Settings\NetworkService\NTUSER.DAT
+0xe1610008 0x0c7d0008 \Device\HarddiskVolume1\WINDOWS\system32\config\software
+0xe160e4c0 0x0c8424c0 \Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY
+0xe1610b60 0x0c7d0b60 \Device\HarddiskVolume1\WINDOWS\system32\config\SAM
+0xe1618008 0x0c7da008 \Device\HarddiskVolume1\WINDOWS\system32\config\default
+0xe13c4570 0x0246f570 [no name]
+0xe1018388 0x02200388 \Device\HarddiskVolume1\WINDOWS\system32\config\system
+0xe1008b60 0x020c4b60 [no name]
+0xe17cf008 0x045e1008 \Device\HarddiskVolume1\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0xe17a1520 0x04572520 \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT
+0xe1e292a0 0x007d52a0 \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0xe1e25b60 0x007d1b60 \Device\HarddiskVolume1\Documents and Settings\LocalService\NTUSER.DAT
+0xe19e0008 0x0e90a008 \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat

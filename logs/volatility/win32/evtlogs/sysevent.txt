@@ -1,0 +1,22 @@
+2009-12-26 20:24:40 UTC+0000|sysevent.evt|MACHINENAME|N/A|EventLog|6009|Info|5.01.;2600;Service Pack 2;Uniprocessor Free
+2009-12-26 20:24:40 UTC+0000|sysevent.evt|MACHINENAME|N/A|EventLog|6005|Info|N/A
+2009-12-26 20:25:02 UTC+0000|sysevent.evt|MACHINENAME|N/A|Serial|2|Info|\Device\Serial0;\Device\Serial0
+2009-12-26 20:25:02 UTC+0000|sysevent.evt|MACHINENAME|N/A|Serial|2|Info|\Device\Serial1;\Device\Serial1
+2009-12-27 01:28:03 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|EventLog|6011|Info|MACHINENAME;CH-D5FC5408B47B
+2009-12-27 01:28:37 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|Workstation|3260|Info|workgroup;WORKGROUP
+2009-12-27 01:32:56 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|HTTP|15007|Info|;http://*:2869/
+2009-12-27 01:37:48 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|Setup|60054|Info|2600
+2009-12-27 01:38:24 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|EventLog|6009|Info|5.01.;2600;Service Pack 2;Uniprocessor Free
+2009-12-27 01:38:24 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|EventLog|6005|Info|N/A
+2009-12-27 01:38:35 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|SRService|115|Info|N/A
+2009-12-27 01:38:38 UTC+0000|sysevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|Service Control Manager|7035|Info|DCOM Server Process Launcher;start
+2009-12-27 01:38:38 UTC+0000|sysevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|Service Control Manager|7035|Info|Telephony;start
+2009-12-27 01:38:38 UTC+0000|sysevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|Service Control Manager|7035|Info|Network Location Awareness (NLA);start
+2009-12-27 01:38:38 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|Service Control Manager|7036|Info|Network Location Awareness (NLA);running
+2009-12-27 01:38:39 UTC+0000|sysevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|Service Control Manager|7035|Info|Application Layer Gateway Service;start
+2009-12-27 01:38:39 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|Service Control Manager|7036|Info|Application Layer Gateway Service;running
+2009-12-27 01:38:40 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|Service Control Manager|7036|Info|Computer Browser;stopped
+2009-12-27 01:38:43 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|Service Control Manager|7036|Info|Terminal Services;running
+2009-12-27 01:38:43 UTC+0000|sysevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|Service Control Manager|7035|Info|Fast User Switching Compatibility;start
+2009-12-27 01:38:43 UTC+0000|sysevent.evt|CH-D5FC5408B47B|N/A|Service Control Manager|7036|Info|Fast User Switching Compatibility;running
+2009-12-27 01:38:51 UTC+0000|sysevent.evt||N/A|W3|35|Info|

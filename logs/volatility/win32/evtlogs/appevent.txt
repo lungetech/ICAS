@@ -1,0 +1,23 @@
+2009-12-27 01:28:04 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|RSVP;QoS RSVP
+2009-12-27 01:28:18 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|PSched;PSched
+2009-12-27 01:28:21 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|RemoteAccess;Routing and Remote Access
+2009-12-27 01:30:16 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|TermService;Terminal Services
+2009-12-27 01:30:19 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|MSDTC;MSDTC
+2009-12-27 01:30:20 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|MSDTC|4104|Info|N/A
+2009-12-27 01:30:21 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|MSDTC|2444|Info|0;0;0;0;0;0
+2009-12-27 01:30:32 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|WmiApRpl;WmiApRpl
+2009-12-27 01:30:32 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1001|Info|WmiApRpl;WmiApRpl
+2009-12-27 01:30:32 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|WmiApRpl;WmiApRpl
+2009-12-27 01:30:39 UTC+0000|appevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|WinMgmt|63|Warning|HiPerfCooker_v1;Root\WMI
+2009-12-27 01:30:40 UTC+0000|appevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|WinMgmt|63|Warning|CmdTriggerConsumer;Root\cimv2
+2009-12-27 01:30:40 UTC+0000|appevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|WinMgmt|63|Warning|CmdTriggerConsumer;Root\cimv2
+2009-12-27 01:30:41 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|ContentIndex;ContentIndex
+2009-12-27 01:30:42 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|ContentFilter;ContentFilter
+2009-12-27 01:30:42 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|LoadPerf|1000|Info|ISAPISearch;ISAPISearch
+2009-12-27 01:34:00 UTC+0000|appevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|WinMgmt|5603|Warning|Rsop Planning Mode Provider;root\RSOP
+2009-12-27 01:34:00 UTC+0000|appevent.evt|CH-D5FC5408B47B|S-1-5-18 (Local System)|WinMgmt|5603|Warning|Rsop Planning Mode Provider;root\RSOP
+2009-12-27 01:34:03 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|COM+|4156|Info|First attemp to CoCreateInstance(CLSID_ComSystemAppEventData) failed!
+2009-12-27 01:34:03 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|COM+|4156|Info|Remove old EventClass(CLSID_ComSystemAppEventData) from event system!.
+2009-12-27 01:34:03 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|COM+|4156|Info|Added EventClass(CLSID_ComSystemAppEventData) to event system!.
+2009-12-27 01:34:03 UTC+0000|appevent.evt|CH-D5FC5408B47B|N/A|COM+|4156|Info|RegisterComSystemAppEventData() succeeded!  Will re-try CoCreateInstance(CLSID_ComSystemAppEventData)
+2009-12-27 01:34:16 UTC+0000|appevent.evt||N/A|WmdmPm|100|Info|

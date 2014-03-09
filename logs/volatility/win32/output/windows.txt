@@ -1,0 +1,2397 @@
+**************************************************
+Window context: 0\WinSta0\Default
+
+Window Handle: #1000c at 0xbbe206e8, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: Yes
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #10004 at 0xbbe006e8, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: Yes
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #10024 at 0xbbe026c0, Name: SAS window
+ClassAtom: 0xc078, Class: SAS window class
+SuperClassAtom: 0xc078, SuperClass: SAS window class
+pti: 0xe16db9c8, Tid: 640 at 0x814c98c8
+ppi: 0xe16dca00, Process: winlogon.exe, Pid: 636
+Visible: No
+Left: 4, Top: 30, Bottom: 119, Right: 30
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x10253e6
+
+Window Handle: #70030 at 0xbbe02c30, Name: Winlogon generic control dialog
+ClassAtom: 0x8002, Class: -
+SuperClassAtom: 0x8002, SuperClass: -
+pti: 0xe16db9c8, Tid: 640 at 0x814c98c8
+ppi: 0xe16dca00, Process: winlogon.exe, Pid: 636
+Visible: No
+Left: 108, Top: 152, Bottom: 108, Right: 152
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_CONTROLPARENT,WS_EX_LEFT
+Window procedure: 0x7e423d3a
+
+Window Handle: #70048 at 0xbbe02c68, Name: 
+ClassAtom: 0xc062, Class: 6.0.2600.6028!Static
+SuperClassAtom: 0xc019, SuperClass: Static
+pti: 0xe16db9c8, Tid: 640 at 0x814c98c8
+ppi: 0xe16dca00, Process: winlogon.exe, Pid: 636
+Visible: Yes
+Left: 138, Top: 185, Bottom: 153, Right: 201
+Style Flags: WS_MINIMIZEBOX,WS_CHILD,WS_GROUP,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_NOPARENTNOTIFY
+Window procedure: 0x773f65fc
+
+Window Handle: #10026 at 0xbbe00720, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe16db9c8, Tid: 640 at 0x814c98c8
+ppi: 0xe16dca00, Process: winlogon.exe, Pid: 636
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+Window Handle: #10006 at 0xbbe00818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10008 at 0xbbe00940, Name: 
+ClassAtom: 0x8006, Class: -
+SuperClassAtom: 0x8006, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 1, Top: 1, Bottom: 99, Right: 99
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0xbf8c07cf
+
+Window Handle: #1000a at 0xbbe00a88, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #10028 at 0xbbe00850, Name: 
+ClassAtom: 0xc085, Class: WinscardSessionChangeWndClass
+SuperClassAtom: 0xc085, SuperClass: WinscardSessionChangeWndClass
+pti: 0xe16db9c8, Tid: 640 at 0x814c98c8
+ppi: 0xe16dca00, Process: winlogon.exe, Pid: 636
+Visible: No
+Left: 3, Top: 29, Bottom: 120, Right: 31
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x723d1423
+
+Window Handle: #1000e at 0xbbe20818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10010 at 0xbbe20940, Name: 
+ClassAtom: 0x8006, Class: -
+SuperClassAtom: 0x8006, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 1, Top: 1, Bottom: 99, Right: 99
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0xbf8c07cf
+
+Window Handle: #10012 at 0xbbe20850, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #10016 at 0xbbe30818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10018 at 0xbbe30940, Name: 
+ClassAtom: 0x8006, Class: -
+SuperClassAtom: 0x8006, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 1, Top: 1, Bottom: 99, Right: 99
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0xbf8c07cf
+
+Window Handle: #1001a at 0xbbe30a88, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #30052 at 0xbbe3a268, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #40032 at 0xbbe3a4b8, Name: OLEChannelWnd
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #10084 at 0xbbe3b658, Name: 
+ClassAtom: 0xc0a1, Class: CLIPBRDWNDCLASS
+SuperClassAtom: 0xc0a1, SuperClass: CLIPBRDWNDCLASS
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752fa9d
+
+Window Handle: #100a2 at 0xbbe3c7f0, Name: 
+ClassAtom: 0xc0a1, Class: CLIPBRDWNDCLASS
+SuperClassAtom: 0xc0a1, SuperClass: CLIPBRDWNDCLASS
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752fa9d
+
+Window Handle: #2006c at 0xbbe43108, Name: CicMarshalWndICH
+ClassAtom: 0xc0ae, Class: CicMarshalWndClass
+SuperClassAtom: 0xc0ae, SuperClass: CicMarshalWndClass
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7474021e
+
+Window Handle: #20066 at 0xbbe48190, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77512126
+
+Window Handle: #100aa at 0xbbe48920, Name: CicMarshalWndEGH
+ClassAtom: 0xc0ae, Class: CicMarshalWndClass
+SuperClassAtom: 0xc0ae, SuperClass: CicMarshalWndClass
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7474021e
+
+Window Handle: #100ac at 0xbbe48ac8, Name: 
+ClassAtom: 0xc0a1, Class: CLIPBRDWNDCLASS
+SuperClassAtom: 0xc0a1, SuperClass: CLIPBRDWNDCLASS
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752fa9d
+
+Window Handle: #100be at 0xbbe499f0, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe17e29f0, Tid: 240 at 0x813312b0
+ppi: 0xe1c605c8, Process: vmtoolsd.exe, Pid: 200
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #100c0 at 0xbbe49bc8, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77512126
+
+Window Handle: #10140 at 0xbbe51f08, Name: OLEChannelWnd
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe1845e10, Tid: 616 at 0x814ded10
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #20120 at 0xbbe51c28, Name: CicMarshalWndMNG
+ClassAtom: 0xc0ae, Class: CicMarshalWndClass
+SuperClassAtom: 0xc0ae, SuperClass: CicMarshalWndClass
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7474021e
+
+Window Handle: #200c8 at 0xbbe51b68, Name: C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe
+ClassAtom: 0xc0ed, Class: ConsoleWindowClass
+SuperClassAtom: 0xc0ed, SuperClass: ConsoleWindowClass
+pti: 0xe17ecb70, Tid: 516 at 0x813248b8
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 28, Top: 47, Bottom: 668, Right: 347
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_CLIENTEDGE,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT,WS_EX_APPWINDOW,WS_EX_ACCEPTFILES
+Window procedure: 0x75b61d4e
+
+Window Handle: #7013c at 0xbbe34ab0, Name: 
+ClassAtom: 0xc0a1, Class: CLIPBRDWNDCLASS
+SuperClassAtom: 0xc0a1, SuperClass: CLIPBRDWNDCLASS
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752fa9d
+
+Window Handle: #2018c at 0xbbe5a670, Name: CicMarshalWndAIO
+ClassAtom: 0xc0ae, Class: CicMarshalWndClass
+SuperClassAtom: 0xc0ae, SuperClass: CicMarshalWndClass
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7474021e
+
+Window Handle: #3017e at 0xbbe5bad0, Name: CicMarshalWndMHH
+ClassAtom: 0xc0ae, Class: CicMarshalWndClass
+SuperClassAtom: 0xc0ae, SuperClass: CicMarshalWndClass
+pti: 0xe17908d0, Tid: 1916 at 0x814a9950
+ppi: 0xe17c21b8, Process: ctfmon.exe, Pid: 1912
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7474021e
+
+Window Handle: #40126 at 0xbbe30850, Name: 
+ClassAtom: 0xc104, Class: UserEventWindow
+SuperClassAtom: 0xc104, SuperClass: UserEventWindow
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 1, Top: 1, Bottom: 1, Right: 1
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_STATICEDGE
+Window procedure: 0x7c9e7734
+
+Window Handle: #10014 at 0xbbe30658, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: Yes
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #10090 at 0xbbe3be48, Name: Program Manager
+ClassAtom: 0xc0b1, Class: Progman
+SuperClassAtom: 0xc0b1, SuperClass: Progman
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7c9e7a54
+
+Window Handle: #1009a at 0xbbe3be80, Name: 
+ClassAtom: 0xc0cf, Class: SHELLDLL_DefView
+SuperClassAtom: 0xc0cf, SuperClass: SHELLDLL_DefView
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 0, Top: 0, Bottom: 1114, Right: 597
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7c9f2ee2
+
+Window Handle: #1009c at 0xbbe3c548, Name: FolderView
+ClassAtom: 0xc052, Class: 6.0.2600.6028!SysListView32
+SuperClassAtom: 0xc03f, SuperClass: SysListView32
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 0, Top: 0, Bottom: 1114, Right: 597
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77420c9d
+
+Window Handle: #100b2 at 0xbbe3c5f8, Name: 
+ClassAtom: 0xc0e2, Class: VMDragDetectWndClass
+SuperClassAtom: 0xc0e2, SuperClass: VMDragDetectWndClass
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: Yes
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x4165c0
+
+Window Handle: #3004e at 0xbbe39f20, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+Window Handle: #100a4 at 0xbbe3c8c8, Name: M
+ClassAtom: 0xc079, Class: MSCTFIME UI
+SuperClassAtom: 0xc079, SuperClass: MSCTFIME UI
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x755d912a
+
+Window Handle: #100a0 at 0xbbe3c720, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 47, Top: 66, Bottom: 877, Right: 471
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77450371
+
+Window Handle: #100c2 at 0xbbe49f30, Name: GDI+ Window
+ClassAtom: 0xc0ea, Class: GDI+ Hook Window Class
+SuperClassAtom: 0xc0ea, SuperClass: GDI+ Hook Window Class
+pti: 0xe1948008, Tid: 492 at 0x81326b30
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: No
+Left: -32000, Top: -32000, Bottom: -32000, Right: -32000
+Style Flags: WS_MINIMIZE,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x4ec6830e
+
+Window Handle: #100c4 at 0xbbe4a090, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe1948008, Tid: 492 at 0x81326b30
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+Window Handle: #20064 at 0xbbe42b78, Name: 
+ClassAtom: 0xc0dc, Class: CicLoaderWndClass
+SuperClassAtom: 0xc0dc, SuperClass: CicLoaderWndClass
+pti: 0xe17908d0, Tid: 1916 at 0x814a9950
+ppi: 0xe17c21b8, Process: ctfmon.exe, Pid: 1912
+Visible: No
+Left: 3, Top: 22, Bottom: 109, Right: 24
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_DISABLED,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x401edd
+
+Window Handle: #20058 at 0xbbe42cc8, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe17908d0, Tid: 1916 at 0x814a9950
+ppi: 0xe17c21b8, Process: ctfmon.exe, Pid: 1912
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+Window Handle: #3004c at 0xbbe39e40, Name: 
+ClassAtom: 0xc020, Class: DDEMLMom
+SuperClassAtom: 0xc020, SuperClass: DDEMLMom
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e4242a8
+
+Window Handle: #30050 at 0xbbe3a118, Name: 
+ClassAtom: 0xc01f, Class: DDEMLEvent
+SuperClassAtom: 0xc01f, SuperClass: DDEMLEvent
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf870c21
+
+Window Handle: #30054 at 0xbbe3a3c0, Name: 
+ClassAtom: 0xc095, Class: WorkerW
+SuperClassAtom: 0xc095, SuperClass: WorkerW
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 3, Top: 22, Bottom: 109, Right: 24
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x7e2a5b1b
+
+Window Handle: #1007e at 0xbbe3b2e8, Name: 
+ClassAtom: 0xc095, Class: WorkerW
+SuperClassAtom: 0xc095, SuperClass: WorkerW
+pti: 0xe181e120, Tid: 1852 at 0x81803b18
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 3, Top: 22, Bottom: 109, Right: 24
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x7c9f43d6
+
+Window Handle: #2005a at 0xbbe42ec0, Name: 
+ClassAtom: 0xc0af, Class: CTrayIconWndClass
+SuperClassAtom: 0xc0af, SuperClass: CTrayIconWndClass
+pti: 0xe17908d0, Tid: 1916 at 0x814a9950
+ppi: 0xe17c21b8, Process: ctfmon.exe, Pid: 1912
+Visible: No
+Left: 3, Top: 22, Bottom: 109, Right: 24
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_DISABLED,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x5fc226ce
+
+Window Handle: #30062 at 0xbbe48428, Name: VMwareUserControlTitle
+ClassAtom: 0xc0e0, Class: VMwareUserControlClass
+SuperClassAtom: 0xc0e0, SuperClass: VMwareUserControlClass
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x4087b0
+
+Window Handle: #100ae at 0xbbe48ba0, Name: 
+ClassAtom: 0xc0e1, Class: DragDetWndClass
+SuperClassAtom: 0xc0e1, SuperClass: DragDetWndClass
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x417070
+
+Window Handle: #500fe at 0xbbe50de0, Name: MS_WebcheckMonitor
+ClassAtom: 0xc0f6, Class: MS_WebcheckMonitor
+SuperClassAtom: 0xc0f6, SuperClass: MS_WebcheckMonitor
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 26, Top: 45, Bottom: 854, Right: 448
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x42e41390
+
+Window Handle: #100b4 at 0xbbe490f8, Name: UnitySetTopWindowGroupWindow
+ClassAtom: 0xc0e5, Class: UnitySetTopWindowGroupClass
+SuperClassAtom: 0xc0e5, SuperClass: UnitySetTopWindowGroupClass
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 70, Top: 89, Bottom: 174, Right: 89
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #100b6 at 0xbbe49298, Name: GuestHostIntegrationWindow
+ClassAtom: 0xc0e6, Class: GuestHostIntegrationClass
+SuperClassAtom: 0xc0e6, SuperClass: GuestHostIntegrationClass
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 92, Top: 111, Bottom: 196, Right: 111
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x42b7d0
+
+Window Handle: #100b8 at 0xbbe493f0, Name: 
+ClassAtom: 0xc095, Class: WorkerW
+SuperClassAtom: 0xc095, SuperClass: WorkerW
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 3, Top: 22, Bottom: 109, Right: 24
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x7cabae5b
+
+Window Handle: #100bc at 0xbbe49708, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe175dc20, Tid: 1880 at 0x814a7698
+ppi: 0xe1811d58, Process: VMwareTray.exe, Pid: 1876
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+Window Handle: #100ba at 0xbbe49530, Name: 
+ClassAtom: 0xc0e8, Class: VMwareTrayIcon
+SuperClassAtom: 0xc0e8, SuperClass: VMwareTrayIcon
+pti: 0xe175dc20, Tid: 1880 at 0x814a7698
+ppi: 0xe1811d58, Process: VMwareTray.exe, Pid: 1876
+Visible: No
+Left: 1, Top: 1, Bottom: 1, Right: 1
+Style Flags: WS_BORDER,WS_SYSMENU,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x4017c0
+
+Window Handle: #100cc at 0xbbe4b328, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+Window Handle: #100ca at 0xbbe4a600, Name: Microsoft Security Essentials
+ClassAtom: 0xc0f0, Class: msseces_class
+SuperClassAtom: 0xc0f0, SuperClass: msseces_class
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: No
+Left: 161, Top: 42, Bottom: 953, Right: 575
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_CLIPCHILDREN,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_CONTROLPARENT,WS_EX_LEFT,WS_EX_APPWINDOW
+Window procedure: 0x1220ff0
+
+Window Handle: #100d2 at 0xbbe4b638, Name: Banner Tab
+ClassAtom: 0xc0f2, Class: ATL:010B0D88
+SuperClassAtom: 0xc0f2, SuperClass: ATL:010B0D88
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: Yes
+Left: 161, Top: 42, Bottom: 161, Right: 42
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_CONTROLPARENT,WS_EX_LEFT
+Window procedure: 0x1220fc0
+
+Window Handle: #100e0 at 0xbbe4bcc0, Name: Additional help options
+ClassAtom: 0xc0f3, Class: ATL:BUTTON
+SuperClassAtom: 0xc0f3, SuperClass: ATL:BUTTON
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: Yes
+Left: 127, Top: 47, Bottom: 141, Right: 47
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #100de at 0xbbe4bbe0, Name: Help
+ClassAtom: 0xc0f3, Class: ATL:BUTTON
+SuperClassAtom: 0xc0f3, SuperClass: ATL:BUTTON
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: Yes
+Left: 75, Top: 47, Bottom: 127, Right: 47
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #100dc at 0xbbe4baf8, Name: Settings
+ClassAtom: 0xc0f3, Class: ATL:BUTTON
+SuperClassAtom: 0xc0f3, SuperClass: ATL:BUTTON
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: Yes
+Left: 508, Top: 56, Bottom: 618, Right: 90
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #100da at 0xbbe4ba18, Name: History
+ClassAtom: 0xc0f3, Class: ATL:BUTTON
+SuperClassAtom: 0xc0f3, SuperClass: ATL:BUTTON
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: Yes
+Left: 395, Top: 56, Bottom: 505, Right: 90
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #100d8 at 0xbbe4b938, Name: Update
+ClassAtom: 0xc0f3, Class: ATL:BUTTON
+SuperClassAtom: 0xc0f3, SuperClass: ATL:BUTTON
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: Yes
+Left: 282, Top: 56, Bottom: 392, Right: 90
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #100d6 at 0xbbe4b670, Name: Home
+ClassAtom: 0xc0f3, Class: ATL:BUTTON
+SuperClassAtom: 0xc0f3, SuperClass: ATL:BUTTON
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: Yes
+Left: 181, Top: 47, Bottom: 279, Right: 90
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #100d0 at 0xbbe4b558, Name: Computer status - At risk
+ClassAtom: 0xc0f2, Class: ATL:010B0D88
+SuperClassAtom: 0xc0f2, SuperClass: ATL:010B0D88
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: Yes
+Left: 161, Top: 42, Bottom: 161, Right: 42
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_CONTROLPARENT,WS_EX_LEFT
+Window procedure: 0x1220fd0
+
+Window Handle: #100ce at 0xbbe4a638, Name: 
+ClassAtom: 0xc0f1, Class: ATL:SysAnimate32
+SuperClassAtom: 0xc0f1, SuperClass: ATL:SysAnimate32
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: No
+Left: 161, Top: 42, Bottom: 161, Right: 42
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_CONTROLPARENT,WS_EX_LEFT
+Window procedure: 0x1220fe0
+
+Window Handle: #100d4 at 0xbbe4b708, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: No
+Left: 135, Top: 154, Bottom: 965, Right: 559
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77450371
+
+Window Handle: #200f6 at 0xbbe4be60, Name: 
+ClassAtom: 0xc0f5, Class: MSSCESSENUpgradeWindow
+SuperClassAtom: 0xc0f5, SuperClass: MSSCESSENUpgradeWindow
+pti: 0xe1848eb0, Tid: 1904 at 0x814d2b18
+ppi: 0xe17cbe68, Process: msseces.exe, Pid: 1900
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x1220f50
+
+Window Handle: #2010c at 0xbbe51118, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe1845e10, Tid: 616 at 0x814ded10
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+Window Handle: #20104 at 0xbbe50f98, Name: Power Meter
+ClassAtom: 0xc0fb, Class: SystemTray_Main
+SuperClassAtom: 0xc0fb, SuperClass: SystemTray_Main
+pti: 0xe1845e10, Tid: 616 at 0x814ded10
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 368, Top: 131, Bottom: 746, Right: 485
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_SYSMENU,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_CONTROLPARENT,WS_EX_LEFT,WS_EX_CONTEXTHELP
+Window procedure: 0x76281321
+
+Window Handle: #10118 at 0xbbe51aa8, Name: 
+ClassAtom: 0xc062, Class: 6.0.2600.6028!Static
+SuperClassAtom: 0xc019, SuperClass: Static
+pti: 0xe1845e10, Tid: 616 at 0x814ded10
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 385, Top: 178, Bottom: 729, Right: 467
+Style Flags: WS_MINIMIZEBOX,WS_CHILD,WS_GROUP,WS_OVERLAPPED
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_NOPARENTNOTIFY
+Window procedure: 0x773f65fc
+
+Window Handle: #10116 at 0xbbe519b0, Name: Show details for each &battery.
+ClassAtom: 0xc061, Class: 6.0.2600.6028!Button
+SuperClassAtom: 0xc017, SuperClass: Button
+pti: 0xe1845e10, Tid: 616 at 0x814ded10
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 571, Top: 141, Bottom: 751, Right: 154
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_CHILD,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_NOPARENTNOTIFY
+Window procedure: 0x773f8ebf
+
+Window Handle: #10114 at 0xbbe518b0, Name: &Always show icon on the taskbar.
+ClassAtom: 0xc061, Class: 6.0.2600.6028!Button
+SuperClassAtom: 0xc017, SuperClass: Button
+pti: 0xe1845e10, Tid: 616 at 0x814ded10
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 377, Top: 141, Bottom: 557, Right: 157
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_CHILD,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_NOPARENTNOTIFY
+Window procedure: 0x773f8ebf
+
+Window Handle: #10112 at 0xbbe50fd0, Name: Power status
+ClassAtom: 0xc061, Class: 6.0.2600.6028!Button
+SuperClassAtom: 0xc017, SuperClass: Button
+pti: 0xe1845e10, Tid: 616 at 0x814ded10
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 382, Top: 164, Bottom: 733, Right: 471
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_NOPARENTNOTIFY
+Window procedure: 0x773f8ebf
+
+Window Handle: #4013e at 0xbbe51e28, Name: Connections Tray
+ClassAtom: 0xc0fc, Class: Connections Tray
+SuperClassAtom: 0xc0fc, SuperClass: Connections Tray
+pti: 0xe1845e10, Tid: 616 at 0x814ded10
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 70, Top: 89, Bottom: 898, Right: 492
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x76401bbb
+
+Window Handle: #1015e at 0xbbe53138, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe1cccda8, Tid: 2032 at 0x812ce960
+ppi: 0xe1cc7b28, Process: wscntfy.exe, Pid: 2028
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+Window Handle: #30134 at 0xbbe52d50, Name: 
+ClassAtom: 0xc100, Class: SecNotify
+SuperClassAtom: 0xc100, SuperClass: SecNotify
+pti: 0xe1cccda8, Tid: 2032 at 0x812ce960
+ppi: 0xe1cc7b28, Process: wscntfy.exe, Pid: 2028
+Visible: No
+Left: 114, Top: 133, Bottom: 942, Right: 536
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x1002308
+
+Window Handle: #30106 at 0xbbe552f0, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe1c8f008, Tid: 3376 at 0x8131d940
+ppi: 0xe18021e8, Process: TPAutoConnect.e, Pid: 3372
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x4394a9
+
+Window Handle: #200fc at 0xbbe55108, Name: HiddenTPAutoConnectWindow
+ClassAtom: 0xc10f, Class: Afx:400000:b:10011:6:2201e1
+SuperClassAtom: 0xc10f, SuperClass: Afx:400000:b:10011:6:2201e1
+pti: 0xe1c8f008, Tid: 3376 at 0x8131d940
+ppi: 0xe18021e8, Process: TPAutoConnect.e, Pid: 3372
+Visible: No
+Left: 50, Top: 88, Bottom: 874, Right: 468
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_CLIENTEDGE,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x439458
+
+Window Handle: #2016c at 0xbbe57df8, Name: 
+ClassAtom: 0xc066, Class: 6.0.2600.6028!ComboLBox
+SuperClassAtom: 0xc01e, SuperClass: ComboLBox
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 1, Top: 23, Bottom: 543, Right: 246
+Style Flags: WS_BORDER,WS_CHILD,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773f0d78
+
+Window Handle: #3015a at 0xbbe583c0, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77450371
+
+Window Handle: #40226 at 0xbbe5b8f8, Name: C:\WINDOWS\system32\cmd.exe
+ClassAtom: 0xc0ed, Class: ConsoleWindowClass
+SuperClassAtom: 0xc0ed, SuperClass: ConsoleWindowClass
+pti: 0xe17ecb70, Tid: 516 at 0x813248b8
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: Yes
+Left: 373, Top: 218, Bottom: 1013, Right: 518
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_VSCROLL,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_CLIENTEDGE,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT,WS_EX_APPWINDOW,WS_EX_ACCEPTFILES
+Window procedure: 0x75b61d4e
+
+Window Handle: #7004a at 0xbbe55c60, Name: Shylock4FDA5E7E8E682870E993F97AD26BA6B2
+ClassAtom: 0xc115, Class: CabinetWClass
+SuperClassAtom: 0xc115, SuperClass: CabinetWClass
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 155, Top: 44, Bottom: 807, Right: 430
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_CLIPCHILDREN,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x75fa4580
+
+Window Handle: #2017c at 0xbbe589a8, Name: 
+ClassAtom: 0xc0cf, Class: SHELLDLL_DefView
+SuperClassAtom: 0xc0cf, SuperClass: SHELLDLL_DefView
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 155, Top: 126, Bottom: 807, Right: 430
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7c9f2ee2
+
+Window Handle: #20192 at 0xbbe589e0, Name: FolderView
+ClassAtom: 0xc052, Class: 6.0.2600.6028!SysListView32
+SuperClassAtom: 0xc03f, SuperClass: SysListView32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 157, Top: 128, Bottom: 805, Right: 428
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_CLIENTEDGE,WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77420c9d
+
+Window Handle: #20188 at 0xbbe58a90, Name: 
+ClassAtom: 0xc053, Class: 6.0.2600.6028!SysHeader32
+SuperClassAtom: 0xc040, SuperClass: SysHeader32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 157, Top: 128, Bottom: 157, Right: 128
+Style Flags: WS_CHILD,WS_OVERLAPPED
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7741330e
+
+Window Handle: #20174 at 0xbbe588f8, Name: 
+ClassAtom: 0xc051, Class: 6.0.2600.6028!msctls_statusbar32
+SuperClassAtom: 0xc03e, SuperClass: msctls_statusbar32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 155, Top: 427, Bottom: 983, Right: 447
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773de526
+
+Window Handle: #20176 at 0xbbe58848, Name: 
+ClassAtom: 0xc095, Class: WorkerW
+SuperClassAtom: 0xc095, SuperClass: WorkerW
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 155, Top: 44, Bottom: 155, Right: 44
+Style Flags: WS_CHILD,WS_OVERLAPPED
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x75fa2a3d
+
+Window Handle: #4013a at 0xbbe55c98, Name: 
+ClassAtom: 0xc095, Class: WorkerW
+SuperClassAtom: 0xc095, SuperClass: WorkerW
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 155, Top: 44, Bottom: 807, Right: 126
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x75fc38c0
+
+Window Handle: #50138 at 0xbbe577b8, Name: 
+ClassAtom: 0xc04f, Class: 6.0.2600.6028!ReBarWindow32
+SuperClassAtom: 0xc03c, SuperClass: ReBarWindow32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 157, Top: 46, Bottom: 805, Right: 124
+Style Flags: WS_BORDER,WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x774568bf
+
+Window Handle: #50152 at 0xbbe578e0, Name: 
+ClassAtom: 0xc04e, Class: 6.0.2600.6028!ToolbarWindow32
+SuperClassAtom: 0xc03b, SuperClass: ToolbarWindow32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 157, Top: 47, Bottom: 761, Right: 66
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #2011a at 0xbbe57b38, Name: 
+ClassAtom: 0xc095, Class: WorkerW
+SuperClassAtom: 0xc095, SuperClass: WorkerW
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 767, Top: 46, Bottom: 805, Right: 68
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x75fd6290
+
+Window Handle: #2011c at 0xbbe57be8, Name: 
+ClassAtom: 0xc04e, Class: 6.0.2600.6028!ToolbarWindow32
+SuperClassAtom: 0xc03b, SuperClass: ToolbarWindow32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 157, Top: 70, Bottom: 801, Right: 100
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77444bf6
+
+Window Handle: #2017a at 0xbbe57868, Name: 
+ClassAtom: 0xc05d, Class: 6.0.2600.6028!ComboBoxEx32
+SuperClassAtom: 0xc04a, SuperClass: ComboBoxEx32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 204, Top: 102, Bottom: 801, Right: 124
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x75fd4b10
+
+Window Handle: #2016e at 0xbbe57d48, Name: 
+ClassAtom: 0xc065, Class: 6.0.2600.6028!Combobox
+SuperClassAtom: 0xc01c, SuperClass: ComboBox
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 204, Top: 102, Bottom: 748, Right: 124
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x75fd348b
+
+Window Handle: #2016a at 0xbbe57d80, Name: 
+ClassAtom: 0xc063, Class: 6.0.2600.6028!Edit
+SuperClassAtom: 0xc018, SuperClass: Edit
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 227, Top: 107, Bottom: 730, Right: 121
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x75fd2499
+
+Window Handle: #20168 at 0xbbe57cd0, Name: 
+ClassAtom: 0xc04e, Class: 6.0.2600.6028!ToolbarWindow32
+SuperClassAtom: 0xc03b, SuperClass: ToolbarWindow32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 750, Top: 100, Bottom: 801, Right: 126
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77444bf6
+
+Window Handle: #30186 at 0xbbe347a0, Name: 
+ClassAtom: 0xc095, Class: WorkerW
+SuperClassAtom: 0xc095, SuperClass: WorkerW
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7ca28fea
+
+Window Handle: #2018e at 0xbbe58bb8, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 113, Top: 132, Bottom: 943, Right: 537
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77450371
+
+Window Handle: #3018a at 0xbbe34688, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77450371
+
+Window Handle: #4014e at 0xbbe55dd0, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+Window Handle: #3014c at 0xbbe55ea0, Name: M
+ClassAtom: 0xc079, Class: MSCTFIME UI
+SuperClassAtom: 0xc079, SuperClass: MSCTFIME UI
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x755d912a
+
+Window Handle: #1009e at 0xbbe3c670, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe18e38e0, Tid: 1756 at 0x81928508
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x77450371
+
+Window Handle: #4006a at 0xbbe43008, Name: TF_FloatingLangBar_WndTitle
+ClassAtom: 0xc0b0, Class: CiceroUIWndFrame
+SuperClassAtom: 0xc0b0, SuperClass: CiceroUIWndFrame
+pti: 0xe17908d0, Tid: 1916 at 0x814a9950
+ppi: 0xe17c21b8, Process: ctfmon.exe, Pid: 1912
+Visible: No
+Left: 1060, Top: 0, Bottom: 1060, Right: 6
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x5fc2cc65
+
+Window Handle: #50056 at 0xbbe43278, Name: CiceroUIWndFrame
+ClassAtom: 0xc0b0, Class: CiceroUIWndFrame
+SuperClassAtom: 0xc0b0, SuperClass: CiceroUIWndFrame
+pti: 0xe17908d0, Tid: 1916 at 0x814a9950
+ppi: 0xe17c21b8, Process: ctfmon.exe, Pid: 1912
+Visible: No
+Left: 201, Top: 201, Bottom: 399, Right: 399
+Style Flags: WS_BORDER,WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x5fc2cc65
+
+Window Handle: #100b0 at 0xbbe48d10, Name: 
+ClassAtom: 0xc0e2, Class: VMDragDetectWndClass
+SuperClassAtom: 0xc0e2, SuperClass: VMDragDetectWndClass
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x4165c0
+
+Window Handle: #100a6 at 0xbbe487b8, Name: 
+ClassAtom: 0xc0e1, Class: DragDetWndClass
+SuperClassAtom: 0xc0e1, SuperClass: DragDetWndClass
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 0, Top: 0, Bottom: 15, Right: 15
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x417070
+
+Window Handle: #40068 at 0xbbe48530, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x7e46c95b
+
+Window Handle: #100a8 at 0xbbe48868, Name: M
+ClassAtom: 0xc079, Class: MSCTFIME UI
+SuperClassAtom: 0xc079, SuperClass: MSCTFIME UI
+pti: 0xe17fd728, Tid: 1892 at 0x8189cd28
+ppi: 0xe1d05370, Process: VMwareUser.exe, Pid: 1888
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x755d912a
+
+Window Handle: #50136 at 0xbbe57a68, Name: SysFader
+ClassAtom: 0xc117, Class: SysFader
+SuperClassAtom: 0xc117, SuperClass: SysFader
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0xbf80d2bd
+
+Window Handle: #20166 at 0xbbe58180, Name: 
+ClassAtom: 0xc11b, Class: Auto-Suggest Dropdown
+SuperClassAtom: 0xc11b, SuperClass: Auto-Suggest Dropdown
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 1, Top: 1, Bottom: 99, Right: 99
+Style Flags: WS_BORDER,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_NOPARENTNOTIFY,WS_EX_TOPMOST
+Window procedure: 0x75f8b421
+
+Window Handle: #20164 at 0xbbe58230, Name: Internet Explorer
+ClassAtom: 0xc052, Class: 6.0.2600.6028!SysListView32
+SuperClassAtom: 0xc03f, SuperClass: SysListView32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 1, Top: 1, Bottom: 30161, Right: 99
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x75f8aeb5
+
+Window Handle: #30162 at 0xbbe58268, Name: 
+ClassAtom: 0xc053, Class: 6.0.2600.6028!SysHeader32
+SuperClassAtom: 0xc040, SuperClass: SysHeader32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 1, Top: 1, Bottom: 30161, Right: 1
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7741330e
+
+Window Handle: #20178 at 0xbbe58658, Name: 
+ClassAtom: 0xc067, Class: 6.0.2600.6028!ScrollBar
+SuperClassAtom: 0xc01b, SuperClass: ScrollBar
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 83, Top: 83, Bottom: 99, Right: 99
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #20172 at 0xbbe581b8, Name: 
+ClassAtom: 0xc067, Class: 6.0.2600.6028!ScrollBar
+SuperClassAtom: 0xc01b, SuperClass: ScrollBar
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 83, Top: 1, Bottom: 99, Right: 83
+Style Flags: WS_CHILD,WS_OVERLAPPED
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7744ad31
+
+Window Handle: #6012e at 0xbbe5dee0, Name: SysFader
+ClassAtom: 0xc117, Class: SysFader
+SuperClassAtom: 0xc117, SuperClass: SysFader
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0xbf80d2bd
+
+Window Handle: #40092 at 0xbbe3bfe8, Name: 
+ClassAtom: 0xc0b2, Class: BaseBar
+SuperClassAtom: 0xc0b2, SuperClass: BaseBar
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 5, Top: 229, Bottom: 5, Right: 229
+Style Flags: WS_DLGFRAME,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x7ca28ddd
+
+Window Handle: #40094 at 0xbbe3c020, Name: 
+ClassAtom: 0xc0b3, Class: MenuSite
+SuperClassAtom: 0xc0b3, SuperClass: MenuSite
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 26, Top: 229, Bottom: 26, Right: 229
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7ca28ddd
+
+Window Handle: #f012c at 0xbbe5de30, Name: 
+ClassAtom: 0xc04e, Class: 6.0.2600.6028!ToolbarWindow32
+SuperClassAtom: 0xc03b, SuperClass: ToolbarWindow32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 26, Top: -43, Bottom: 26, Right: -43
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #40096 at 0xbbe3c158, Name: 
+ClassAtom: 0xc05f, Class: 6.0.2600.6028!SysPager
+SuperClassAtom: 0xc04c, SuperClass: SysPager
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 26, Top: 229, Bottom: 26, Right: 229
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7744c620
+
+Window Handle: #40098 at 0xbbe534d8, Name: 
+ClassAtom: 0xc04e, Class: 6.0.2600.6028!ToolbarWindow32
+SuperClassAtom: 0xc03b, SuperClass: ToolbarWindow32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 26, Top: 229, Bottom: 26, Right: 325
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #30034 at 0xbbe3a628, Name: 
+ClassAtom: 0xc096, Class: Shell_TrayWnd
+SuperClassAtom: 0xc096, SuperClass: Shell_TrayWnd
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 2, Top: 601, Bottom: 1112, Right: 625
+Style Flags: WS_BORDER,WS_THICKFRAME,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x1001b1d
+
+Window Handle: #1007c at 0xbbe3b1f0, Name: 
+ClassAtom: 0xc04f, Class: 6.0.2600.6028!ReBarWindow32
+SuperClassAtom: 0xc03c, SuperClass: ReBarWindow32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 59, Top: 601, Bottom: 960, Right: 625
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x774568bf
+
+Window Handle: #10080 at 0xbbe3b398, Name: Quick Launch
+ClassAtom: 0xc04e, Class: 6.0.2600.6028!ToolbarWindow32
+SuperClassAtom: 0xc03b, SuperClass: ToolbarWindow32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 68, Top: 602, Bottom: 204, Right: 624
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #10082 at 0xbbe3b500, Name: Running Applications
+ClassAtom: 0xc09f, Class: MSTaskSwWClass
+SuperClassAtom: 0xc09f, SuperClass: MSTaskSwWClass
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 217, Top: 601, Bottom: 927, Right: 623
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x1001b1d
+
+Window Handle: #10086 at 0xbbe3b538, Name: Running Applications
+ClassAtom: 0xc04e, Class: 6.0.2600.6028!ToolbarWindow32
+SuperClassAtom: 0xc03b, SuperClass: ToolbarWindow32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 217, Top: 601, Bottom: 927, Right: 623
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #1008a at 0xbbe3b228, Name: TF_FloatingLangBar_WndTitle
+ClassAtom: 0xc0b0, Class: CiceroUIWndFrame
+SuperClassAtom: 0xc0b0, SuperClass: CiceroUIWndFrame
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 940, Top: 601, Bottom: 956, Right: 625
+Style Flags: WS_TABSTOP,WS_CHILD,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x5fc2cc65
+
+Window Handle: #3003a at 0xbbe3aa98, Name: 
+ClassAtom: 0xc09c, Class: TrayNotifyWnd
+SuperClassAtom: 0xc09c, SuperClass: TrayNotifyWnd
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 961, Top: 602, Bottom: 1111, Right: 624
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_STATICEDGE
+Window procedure: 0x1001b1d
+
+Window Handle: #30044 at 0xbbe3ad58, Name: 
+ClassAtom: 0xc061, Class: 6.0.2600.6028!Button
+SuperClassAtom: 0xc017, SuperClass: Button
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 961, Top: 603, Bottom: 961, Right: 623
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #30040 at 0xbbe3abf8, Name: 
+ClassAtom: 0xc05f, Class: 6.0.2600.6028!SysPager
+SuperClassAtom: 0xc04c, SuperClass: SysPager
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 962, Top: 604, Bottom: 1052, Right: 622
+Style Flags: WS_TABSTOP,WS_CHILD,WS_CLIPCHILDREN,WS_MAXIMIZEBOX,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7744c620
+
+Window Handle: #30042 at 0xbbe3ac30, Name: Notification Area
+ClassAtom: 0xc04e, Class: 6.0.2600.6028!ToolbarWindow32
+SuperClassAtom: 0xc03b, SuperClass: ToolbarWindow32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 962, Top: 604, Bottom: 1052, Right: 622
+Style Flags: WS_CHILD,WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x773e2096
+
+Window Handle: #3003e at 0xbbe3aad0, Name: 8:26 PM
+ClassAtom: 0xc09d, Class: TrayClockWClass
+SuperClassAtom: 0xc09d, SuperClass: TrayClockWClass
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 1052, Top: 603, Bottom: 1110, Right: 623
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x1001b1d
+
+Window Handle: #3003c at 0xbbe3a660, Name: Start
+ClassAtom: 0xc061, Class: 6.0.2600.6028!Button
+SuperClassAtom: 0xc017, SuperClass: Button
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 2, Top: 601, Bottom: 54, Right: 623
+Style Flags: WS_CHILD,WS_OVERLAPPED,WS_VISIBLE,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x10068ae
+
+Window Handle: #10078 at 0xbbe3afc8, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x77450371
+
+Window Handle: #30046 at 0xbbe3ae20, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x77450371
+
+Window Handle: #1007a at 0xbbe3b140, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x77450371
+
+Window Handle: #10088 at 0xbbe3b7d8, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x77450371
+
+Window Handle: #1008c at 0xbbe3bc08, Name: CiceroUIWndFrame
+ClassAtom: 0xc0b0, Class: CiceroUIWndFrame
+SuperClassAtom: 0xc0b0, SuperClass: CiceroUIWndFrame
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 201, Top: 201, Bottom: 399, Right: 399
+Style Flags: WS_BORDER,WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x5fc2cc65
+
+Window Handle: #1008e at 0xbbe3bd30, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x77450371
+
+Window Handle: #40194 at 0xbbe5b848, Name: 
+ClassAtom: 0xc095, Class: WorkerW
+SuperClassAtom: 0xc095, SuperClass: WorkerW
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x7ca28fea
+
+Window Handle: #30036 at 0xbbe3a6f8, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x7e46c95b
+
+Window Handle: #30038 at 0xbbe3a7c8, Name: M
+ClassAtom: 0xc079, Class: MSCTFIME UI
+SuperClassAtom: 0xc079, SuperClass: MSCTFIME UI
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x755d912a
+
+Window Handle: #20190 at 0xbbe58b08, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe1c63780, Tid: 3712 at 0x81321998
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: No
+Left: 245, Top: 180, Bottom: 506, Right: 268
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_TRANSPARENT,WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x77450371
+
+Window Handle: #10076 at 0xbbe30720, Name: 
+ClassAtom: 0xc050, Class: 6.0.2600.6028!tooltips_class32
+SuperClassAtom: 0xc03d, SuperClass: tooltips_class32
+pti: 0xe18eac60, Tid: 1832 at 0x8160bcd8
+ppi: 0xe18bd008, Process: explorer.exe, Pid: 1752
+Visible: Yes
+Left: 669, Top: 515, Bottom: 987, Right: 613
+Style Flags: WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_TOPMOST
+Window procedure: 0x77450371
+
+**************************************************
+Window context: 0\WinSta0\Disconnect
+
+Window Handle: #1000c at 0xbbe20658, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: Yes
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+**************************************************
+Window context: 0\WinSta0\Winlogon
+
+Window Handle: #1000c at 0xbbe206e8, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: Yes
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #10004 at 0xbbe00658, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1707670, Tid: 652 at 0x816fe648
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: Yes
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_VISIBLE,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #10024 at 0xbbe026c0, Name: SAS window
+ClassAtom: 0xc078, Class: SAS window class
+SuperClassAtom: 0xc078, SuperClass: SAS window class
+pti: 0xe16db9c8, Tid: 640 at 0x814c98c8
+ppi: 0xe16dca00, Process: winlogon.exe, Pid: 636
+Visible: No
+Left: 4, Top: 30, Bottom: 119, Right: 30
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x10253e6
+
+Window Handle: #70030 at 0xbbe02c30, Name: Winlogon generic control dialog
+ClassAtom: 0x8002, Class: -
+SuperClassAtom: 0x8002, SuperClass: -
+pti: 0xe16db9c8, Tid: 640 at 0x814c98c8
+ppi: 0xe16dca00, Process: winlogon.exe, Pid: 636
+Visible: No
+Left: 108, Top: 152, Bottom: 108, Right: 152
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_CONTROLPARENT,WS_EX_LEFT
+Window procedure: 0x7e423d3a
+
+Window Handle: #70048 at 0xbbe02c68, Name: 
+ClassAtom: 0xc062, Class: 6.0.2600.6028!Static
+SuperClassAtom: 0xc019, SuperClass: Static
+pti: 0xe16db9c8, Tid: 640 at 0x814c98c8
+ppi: 0xe16dca00, Process: winlogon.exe, Pid: 636
+Visible: Yes
+Left: 138, Top: 185, Bottom: 153, Right: 201
+Style Flags: WS_MINIMIZEBOX,WS_CHILD,WS_GROUP,WS_OVERLAPPED,WS_VISIBLE
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT,WS_EX_NOPARENTNOTIFY
+Window procedure: 0x773f65fc
+
+Window Handle: #10026 at 0xbbe00720, Name: Default IME
+ClassAtom: 0xc026, Class: IME
+SuperClassAtom: 0xc026, SuperClass: IME
+pti: 0xe16db9c8, Tid: 640 at 0x814c98c8
+ppi: 0xe16dca00, Process: winlogon.exe, Pid: 636
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7e46c95b
+
+**************************************************
+Window context: 0\SAWinSta\SADesktop
+
+Window Handle: #10020 at 0xbc130818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10022 at 0xbc130940, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #100c6 at 0xbc1411c0, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe191eb18, Tid: 428 at 0x813292a8
+ppi: 0xe15b0bf0, Process: VMUpgradeHelper, Pid: 424
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77512126
+
+Window Handle: #10128 at 0xbc1412f8, Name: OLEChannelWnd
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe177e670, Tid: 816 at 0x813268b8
+ppi: 0xe15b0bf0, Process: VMUpgradeHelper, Pid: 424
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #10146 at 0xbc130850, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe1d21690, Tid: 1136 at 0x813153b0
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #1001e at 0xbc1306e8, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #2011e at 0xbc1480c0, Name: 
+ClassAtom: 0xc109, Class: Tapi32WndClass
+SuperClassAtom: 0xc109, SuperClass: Tapi32WndClass
+pti: 0xe1867360, Tid: 2448 at 0x812a6138
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 0, Top: 573, Bottom: 0, Right: 573
+Style Flags: WS_MINIMIZE,WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x76eb3839
+
+Window Handle: #10074 at 0xbc13db18, Name: SYSTEM AGENT COM WINDOW
+ClassAtom: 0xc092, Class: SAGEWINDOWCLASS
+SuperClassAtom: 0xc092, SuperClass: SAGEWINDOWCLASS
+pti: 0xe1f570f8, Tid: 1496 at 0x8136b470
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 26, Top: 59, Bottom: 854, Right: 472
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x7730b0c9
+
+Window Handle: #20156 at 0xbc146f28, Name: BadApplicationNotificationWindow
+ClassAtom: 0xc0fe, Class: BadApplicationNotificationWindowClass
+SuperClassAtom: 0xc0fe, SuperClass: BadApplicationNotificationWindowClass
+pti: 0xe17b0ac8, Tid: 1848 at 0x812ca3c8
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 3, Top: 22, Bottom: 109, Right: 24
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x776e798c
+
+Window Handle: #20124 at 0xbc148258, Name: ModemDeviceChange
+ClassAtom: 0xc10b, Class: MdmDevChg
+SuperClassAtom: 0xc10b, SuperClass: MdmDevChg
+pti: 0xe1d03008, Tid: 2512 at 0x812a58c0
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 136, Top: 155, Bottom: 964, Right: 558
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x720015f5
+
+Window Handle: #20122 at 0xbc130720, Name: 
+ClassAtom: 0xc10c, Class: HidPhoneNotifClass
+SuperClassAtom: 0xc10c, SuperClass: HidPhoneNotifClass
+pti: 0xe1d2b118, Tid: 2536 at 0x812a0da8
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 25, Top: 44, Bottom: 855, Right: 449
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x57d63f0c
+
+Window Handle: #1002c at 0xbc1b0818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #1002e at 0xbc1b0850, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #2002a at 0xbc1b06e8, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #1005e at 0xbc230818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10060 at 0xbc230850, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #1005c at 0xbc2306e8, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #10070 at 0xbc570818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10072 at 0xbc570850, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #2006e at 0xbc570658, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+**************************************************
+Window context: 0\Service-0x0-3e7$\Default
+
+Window Handle: #10020 at 0xbc130818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10022 at 0xbc130940, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #100c6 at 0xbc1411c0, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe191eb18, Tid: 428 at 0x813292a8
+ppi: 0xe15b0bf0, Process: VMUpgradeHelper, Pid: 424
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77512126
+
+Window Handle: #10128 at 0xbc1412f8, Name: OLEChannelWnd
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe177e670, Tid: 816 at 0x813268b8
+ppi: 0xe15b0bf0, Process: VMUpgradeHelper, Pid: 424
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #10146 at 0xbc130850, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe1d21690, Tid: 1136 at 0x813153b0
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #1001e at 0xbc130658, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #2011e at 0xbc1480c0, Name: 
+ClassAtom: 0xc109, Class: Tapi32WndClass
+SuperClassAtom: 0xc109, SuperClass: Tapi32WndClass
+pti: 0xe1867360, Tid: 2448 at 0x812a6138
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 0, Top: 573, Bottom: 0, Right: 573
+Style Flags: WS_MINIMIZE,WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x76eb3839
+
+Window Handle: #10074 at 0xbc13db18, Name: SYSTEM AGENT COM WINDOW
+ClassAtom: 0xc092, Class: SAGEWINDOWCLASS
+SuperClassAtom: 0xc092, SuperClass: SAGEWINDOWCLASS
+pti: 0xe1f570f8, Tid: 1496 at 0x8136b470
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 26, Top: 59, Bottom: 854, Right: 472
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x7730b0c9
+
+Window Handle: #20156 at 0xbc146f28, Name: BadApplicationNotificationWindow
+ClassAtom: 0xc0fe, Class: BadApplicationNotificationWindowClass
+SuperClassAtom: 0xc0fe, SuperClass: BadApplicationNotificationWindowClass
+pti: 0xe17b0ac8, Tid: 1848 at 0x812ca3c8
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 3, Top: 22, Bottom: 109, Right: 24
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x776e798c
+
+Window Handle: #20124 at 0xbc148258, Name: ModemDeviceChange
+ClassAtom: 0xc10b, Class: MdmDevChg
+SuperClassAtom: 0xc10b, SuperClass: MdmDevChg
+pti: 0xe1d03008, Tid: 2512 at 0x812a58c0
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 136, Top: 155, Bottom: 964, Right: 558
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x720015f5
+
+Window Handle: #20122 at 0xbc130720, Name: 
+ClassAtom: 0xc10c, Class: HidPhoneNotifClass
+SuperClassAtom: 0xc10c, SuperClass: HidPhoneNotifClass
+pti: 0xe1d2b118, Tid: 2536 at 0x812a0da8
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 25, Top: 44, Bottom: 855, Right: 449
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x57d63f0c
+
+**************************************************
+Window context: 0\Service-0x0-3e4$\Default
+
+Window Handle: #10020 at 0xbc130818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10022 at 0xbc130940, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #100c6 at 0xbc1411c0, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe191eb18, Tid: 428 at 0x813292a8
+ppi: 0xe15b0bf0, Process: VMUpgradeHelper, Pid: 424
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77512126
+
+Window Handle: #10128 at 0xbc1412f8, Name: OLEChannelWnd
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe177e670, Tid: 816 at 0x813268b8
+ppi: 0xe15b0bf0, Process: VMUpgradeHelper, Pid: 424
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #10146 at 0xbc130850, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe1d21690, Tid: 1136 at 0x813153b0
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #1001e at 0xbc1306e8, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #2011e at 0xbc1480c0, Name: 
+ClassAtom: 0xc109, Class: Tapi32WndClass
+SuperClassAtom: 0xc109, SuperClass: Tapi32WndClass
+pti: 0xe1867360, Tid: 2448 at 0x812a6138
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 0, Top: 573, Bottom: 0, Right: 573
+Style Flags: WS_MINIMIZE,WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x76eb3839
+
+Window Handle: #10074 at 0xbc13db18, Name: SYSTEM AGENT COM WINDOW
+ClassAtom: 0xc092, Class: SAGEWINDOWCLASS
+SuperClassAtom: 0xc092, SuperClass: SAGEWINDOWCLASS
+pti: 0xe1f570f8, Tid: 1496 at 0x8136b470
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 26, Top: 59, Bottom: 854, Right: 472
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x7730b0c9
+
+Window Handle: #20156 at 0xbc146f28, Name: BadApplicationNotificationWindow
+ClassAtom: 0xc0fe, Class: BadApplicationNotificationWindowClass
+SuperClassAtom: 0xc0fe, SuperClass: BadApplicationNotificationWindowClass
+pti: 0xe17b0ac8, Tid: 1848 at 0x812ca3c8
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 3, Top: 22, Bottom: 109, Right: 24
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x776e798c
+
+Window Handle: #20124 at 0xbc148258, Name: ModemDeviceChange
+ClassAtom: 0xc10b, Class: MdmDevChg
+SuperClassAtom: 0xc10b, SuperClass: MdmDevChg
+pti: 0xe1d03008, Tid: 2512 at 0x812a58c0
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 136, Top: 155, Bottom: 964, Right: 558
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x720015f5
+
+Window Handle: #20122 at 0xbc130720, Name: 
+ClassAtom: 0xc10c, Class: HidPhoneNotifClass
+SuperClassAtom: 0xc10c, SuperClass: HidPhoneNotifClass
+pti: 0xe1d2b118, Tid: 2536 at 0x812a0da8
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 25, Top: 44, Bottom: 855, Right: 449
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x57d63f0c
+
+Window Handle: #1002c at 0xbc1b0818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #1002e at 0xbc1b0850, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #2002a at 0xbc1b0658, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+**************************************************
+Window context: 0\Service-0x0-3e5$\Default
+
+Window Handle: #10020 at 0xbc130818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10022 at 0xbc130940, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #100c6 at 0xbc1411c0, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe191eb18, Tid: 428 at 0x813292a8
+ppi: 0xe15b0bf0, Process: VMUpgradeHelper, Pid: 424
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x77512126
+
+Window Handle: #10128 at 0xbc1412f8, Name: OLEChannelWnd
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe177e670, Tid: 816 at 0x813268b8
+ppi: 0xe15b0bf0, Process: VMUpgradeHelper, Pid: 424
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #10146 at 0xbc130850, Name: OleMainThreadWndName
+ClassAtom: 0xc038, Class: OleMainThreadWndClass
+SuperClassAtom: 0xc038, SuperClass: OleMainThreadWndClass
+pti: 0xe1d21690, Tid: 1136 at 0x813153b0
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 0, Top: 0, Bottom: 0, Right: 0
+Style Flags: WS_DISABLED,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0x7752b096
+
+Window Handle: #1001e at 0xbc1306e8, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #2011e at 0xbc1480c0, Name: 
+ClassAtom: 0xc109, Class: Tapi32WndClass
+SuperClassAtom: 0xc109, SuperClass: Tapi32WndClass
+pti: 0xe1867360, Tid: 2448 at 0x812a6138
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 0, Top: 573, Bottom: 0, Right: 573
+Style Flags: WS_MINIMIZE,WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x76eb3839
+
+Window Handle: #10074 at 0xbc13db18, Name: SYSTEM AGENT COM WINDOW
+ClassAtom: 0xc092, Class: SAGEWINDOWCLASS
+SuperClassAtom: 0xc092, SuperClass: SAGEWINDOWCLASS
+pti: 0xe1f570f8, Tid: 1496 at 0x8136b470
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 26, Top: 59, Bottom: 854, Right: 472
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x7730b0c9
+
+Window Handle: #20156 at 0xbc146f28, Name: BadApplicationNotificationWindow
+ClassAtom: 0xc0fe, Class: BadApplicationNotificationWindowClass
+SuperClassAtom: 0xc0fe, SuperClass: BadApplicationNotificationWindowClass
+pti: 0xe17b0ac8, Tid: 1848 at 0x812ca3c8
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 3, Top: 22, Bottom: 109, Right: 24
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x776e798c
+
+Window Handle: #20124 at 0xbc148258, Name: ModemDeviceChange
+ClassAtom: 0xc10b, Class: MdmDevChg
+SuperClassAtom: 0xc10b, SuperClass: MdmDevChg
+pti: 0xe1d03008, Tid: 2512 at 0x812a58c0
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 136, Top: 155, Bottom: 964, Right: 558
+Style Flags: WS_MINIMIZEBOX,WS_TABSTOP,WS_DLGFRAME,WS_BORDER,WS_THICKFRAME,WS_CAPTION,WS_SYSMENU,WS_MAXIMIZEBOX,WS_GROUP,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x720015f5
+
+Window Handle: #20122 at 0xbc130720, Name: 
+ClassAtom: 0xc10c, Class: HidPhoneNotifClass
+SuperClassAtom: 0xc10c, SuperClass: HidPhoneNotifClass
+pti: 0xe1d2b118, Tid: 2536 at 0x812a0da8
+ppi: 0xe19ffb08, Process: svchost.exe, Pid: 1076
+Visible: No
+Left: 25, Top: 44, Bottom: 855, Right: 449
+Style Flags: WS_DLGFRAME,WS_BORDER,WS_CAPTION,WS_OVERLAPPED,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0x57d63f0c
+
+Window Handle: #1002c at 0xbc1b0818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #1002e at 0xbc1b0850, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #2002a at 0xbc1b06e8, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+
+Window Handle: #1005e at 0xbc230818, Name: 
+ClassAtom: 0xc035, Class: Message
+SuperClassAtom: 0xc035, SuperClass: Message
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 100, Right: 100
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf80d2bd
+
+Window Handle: #10060 at 0xbc230850, Name: 
+ClassAtom: 0x8000, Class: -
+SuperClassAtom: 0x8000, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 3, Top: 3, Bottom: 97, Right: 97
+Style Flags: WS_BORDER,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_TOOLWINDOW,WS_EX_RIGHTSCROLLBAR,WS_EX_DLGMODALFRAME,WS_EX_WINDOWEDGE,WS_EX_LEFT
+Window procedure: 0xbf872532
+
+Window Handle: #1005c at 0xbc230658, Name: 
+ClassAtom: 0x8001, Class: -
+SuperClassAtom: 0x8001, SuperClass: -
+pti: 0xe1744eb0, Tid: 700 at 0x8149b240
+ppi: 0xe1653948, Process: csrss.exe, Pid: 612
+Visible: No
+Left: 0, Top: 0, Bottom: 1114, Right: 627
+Style Flags: WS_CLIPCHILDREN,WS_OVERLAPPED,WS_POPUP,WS_CLIPSIBLINGS
+ExStyle Flags: WS_EX_LTRREADING,WS_EX_RIGHTSCROLLBAR,WS_EX_LEFT
+Window procedure: 0xbf89e1d1
+

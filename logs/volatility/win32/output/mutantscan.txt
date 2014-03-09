@@ -1,0 +1,257 @@
+Offset(P)  #Ptr #Hnd Signal Thread           CID Name
+---------- ---- ---- ------ ---------- --------- ----
+0x01494e28    2    1      1 0x00000000           TapiSrv_Perf_Library_Lock_PID_c8
+0x014a1428    1    1      1 0x00000000           
+0x014a1550    5    4      1 0x00000000           TpVcW32ListMutex
+0x014a17c0    1    1      1 0x00000000           
+0x014a1800    1    1      1 0x00000000           
+0x014a1db0    1    1      1 0x00000000           
+0x014a1df0    1    1      1 0x00000000           
+0x014a2be0    1    1      1 0x00000000           
+0x014a2c20    1    1      1 0x00000000           
+0x014a2c60    1    1      1 0x00000000           
+0x014a2cd0    1    1      1 0x00000000           
+0x014a93c8    1    1      1 0x00000000           
+0x014ae598    1    1      1 0x00000000           
+0x014b1a78    1    1      1 0x00000000           
+0x014b7510    1    1      1 0x00000000           
+0x014bbdc0    1    1      1 0x00000000           
+0x014bf190    1    1      1 0x00000000           
+0x014bf2d8    1    1      1 0x00000000           
+0x014bf340    1    1      1 0x00000000           
+0x014c1430    1    1      1 0x00000000           
+0x014c1470    1    1      1 0x00000000           
+0x014c8d68    1    1      1 0x00000000           
+0x014ca6b8    2    1      1 0x00000000           Spooler_Perf_Library_Lock_PID_c8
+0x014cd090    1    1      1 0x00000000           
+0x014cd748    1    1      1 0x00000000           
+0x014cdc18    1    1      1 0x00000000           
+0x014cdc58    1    1      1 0x00000000           
+0x014cdcc8    1    1      1 0x00000000           
+0x014d3ba8    1    1      1 0x00000000           
+0x014d69b0    1    1      1 0x00000000           
+0x014d7328    3    2      1 0x00000000           ThinPrint-L
+0x014d8088    1    1      1 0x00000000           
+0x014d8210    2    1      1 0x00000000           MTX_919863BFD426AA00979BDF55477F92A7_00000754
+0x014d9d38    2    1      1 0x00000000           RemoteAccess_Perf_Library_Lock_PID_c8
+0x014e2180    2    1      1 0x00000000           RAS_MO_02
+0x014e26f0    2    1      1 0x00000000           746bbf3569adEncrypt
+0x014e5ca0    1    1      1 0x00000000           
+0x014e5ed8    2    1      1 0x00000000           MSDTC_Perf_Library_Lock_PID_c8
+0x014f4fe0    2    1      1 0x00000000           MSCTF.Shared.MUTEX.INO
+0x014fa030    2    1      0 0x812ce960 2028:2032 wscntfy_mtx
+0x01501988    1    1      1 0x00000000           
+0x01508578    2    1      1 0x00000000           PerfDisk_Perf_Library_Lock_PID_c8
+0x015119f0    1    1      1 0x00000000           
+0x01515648    1    1      1 0x00000000           
+0x0151ab70    2    1      1 0x00000000           MASTER_919863BFD426AA00979BDF55477F92A7
+0x0151c550    2    1      1 0x00000000           PerfNet_Perf_Library_Lock_PID_c8
+0x0151fbf8    3    2      1 0x00000000           HGFSMUTEX0000000000010444
+0x015203a0    1    1      1 0x00000000           
+0x01520410    1    1      1 0x00000000           
+0x01520480    1    1      1 0x00000000           
+0x01522380    2    1      1 0x00000000           MTX_919863BFD426AA00979BDF55477F92A7_00000EAC
+0x01524de0    2    1      1 0x00000000           RSVP_Perf_Library_Lock_PID_c8
+0x0152cd10    6    5      1 0x00000000           MSCTF.Shared.MUTEX.ICH
+0x015673e0    1    1      1 0x00000000           
+0x01569358    1    1      1 0x00000000           
+0x0156a500    1    1      1 0x00000000           
+0x0156aa20    1    1      1 0x00000000           
+0x0156b3f0    1    1      1 0x00000000           
+0x01572fe0    1    1      1 0x00000000           
+0x01581ad8    1    1      1 0x00000000           
+0x015860c8    1    1      1 0x00000000           
+0x01588510    3    2      1 0x00000000           c:!documents and settings!administrator!local settings!history!history.ie5!
+0x0158a798    2    1      1 0x00000000           PerfOS_Perf_Library_Lock_PID_c8
+0x015a0030    2    1      1 0x00000000           {A3BD3259-3E4F-428a-84C8-F0463A9D3EB5}
+0x01672148    1    1      1 0x00000000           
+0x01672188    1    1      1 0x00000000           
+0x0169cf60   16   15      1 0x00000000           SHIMLIB_LOG_MUTEX
+0x016a5dc8    3    2      1 0x00000000           MSCTF.Shared.MUTEX.AIO
+0x016a6758    1    1      1 0x00000000           
+0x016aacb0    1    1      1 0x00000000           
+0x016ab118    1    1      1 0x00000000           
+0x016cf610    1    1      1 0x00000000           
+0x016cfb30    1    1      1 0x00000000           
+0x016d3758    1    1      1 0x00000000           
+0x016de218    1    1      1 0x00000000           
+0x016de680    1    1      1 0x00000000           
+0x016df3e0    1    1      1 0x00000000           
+0x016df6e0    1    1      1 0x00000000           
+0x016df750    1    1      1 0x00000000           
+0x016e2b10    1    1      1 0x00000000           
+0x016e2b50    1    1      1 0x00000000           
+0x016e2b90    1    1      1 0x00000000           
+0x0173cac8    5    4      1 0x00000000           RasPbFile
+0x0173cb08    1    1      1 0x00000000           
+0x0173cde8    1    1      1 0x00000000           
+0x0173ce58    1    1      1 0x00000000           
+0x0173cec8    1    1      1 0x00000000           
+0x0174d5a0    2    1      1 0x00000000           WininetConnectionMutex
+0x01759958    2    1      1 0x00000000           PerfProc_Perf_Library_Lock_PID_c8
+0x0176b2e0    1    1      1 0x00000000           
+0x0176b350    1    1      1 0x00000000           
+0x0176b3c0    1    1      1 0x00000000           
+0x0176b430    1    1      1 0x00000000           
+0x0176b7b8    1    1      1 0x00000000           
+0x0177d020    1    1      1 0x00000000           
+0x0177d9d8    2    1      1 0x00000000           WPA_LICSTORE_MUTEX
+0x0177da28    2    1      1 0x00000000           WPA_HWID_MUTEX
+0x0177da78    2    1      1 0x00000000           WPA_LT_MUTEX
+0x0177dac8    2    1      1 0x00000000           WPA_RT_MUTEX
+0x0177db18    2    1      1 0x00000000           WPA_PR_MUTEX
+0x0177f030    2    1      1 0x00000000           RAS_MO_01
+0x017aa3d0    1    1      1 0x00000000           
+0x017b0998    1    1      1 0x00000000           
+0x017ba1d0    1    1      1 0x00000000           
+0x017bca20    1    1      1 0x00000000           
+0x017bca88    1    1      1 0x00000000           
+0x017bec88    2    1      1 0x00000000           WiaDebugFileMut
+0x017c16f0    2    1      1 0x00000000           0CADFD67AF62496dB34264F000F5624A
+0x017c2fe0    2    1      1 0x00000000           MSCTF.Shared.MUTEX.IOC
+0x017c3d68    2    1      1 0x00000000           msgina: InteractiveLogonRequestMutex
+0x017c51f8    2    1      1 0x00000000           msgina: InteractiveLogonMutex
+0x017c6348    1    1      1 0x00000000           
+0x017c63b8    1    1      1 0x00000000           
+0x017c6428    1    1      1 0x00000000           
+0x017c6c58    1    1      1 0x00000000           
+0x017c83a8    2    1      1 0x00000000           MTX_919863BFD426AA00979BDF55477F92A7_000007EC
+0x01804af8    2    1      1 0x00000000           VMwareGuestDnDDataMutex
+0x01807030    8    7      1 0x00000000           CTF.Layouts.MutexDefaultS-1-5-21-1957994488-1326574676-839522115-500
+0x018070c8    8    7      1 0x00000000           CTF.TMD.MutexDefaultS-1-5-21-1957994488-1326574676-839522115-500
+0x01808158    8    7      1 0x00000000           CTF.LBES.MutexDefaultS-1-5-21-1957994488-1326574676-839522115-500
+0x0180bbf0    2    1      1 0x00000000           c:!documents and settings!localservice!cookies!
+0x0180d640    1    1      1 0x00000000           
+0x01813108    3    2      1 0x00000000           MSCTF.Shared.MUTEX.MNG
+0x01816548    1    1      1 0x00000000           
+0x01819138    2    1      0 0x814d2b18 1900:1904 {C9A34C77-4D69-45EC-A07D-83242376045D}BCF43643-A118-4432-AEDE-D861FCBCFCDE
+0x0181afe0    1    1      1 0x00000000           
+0x0181ca30    1    1      1 0x00000000           
+0x0181cc48    1    1      1 0x00000000           
+0x01820de8    1    1      1 0x00000000           
+0x018212d0    8    7      1 0x00000000           CTF.TimListCache.FMPDefaultS-1-5-21-1957994488-1326574676-839522115-500MUTEX.DefaultS-1-5-21-1957994488-1326574676-839522115-500
+0x01821988    1    1      1 0x00000000           
+0x01823760    1    1      1 0x00000000           
+0x01823a00    1    1      1 0x00000000           
+0x0183f148    1    1      1 0x00000000           
+0x018414c8    1    1      1 0x00000000           
+0x01844e90    1    1      1 0x00000000           
+0x018533a8    1    1      1 0x00000000           
+0x01856ce0    2    1      1 0x00000000           MSCTF.Shared.MUTEX.EJN
+0x01858350    2    1      1 0x00000000           MTX_919863BFD426AA00979BDF55477F92A7_0000076C
+0x0185b2f0    4    3      1 0x00000000           _!MSFTHISTORY!_
+0x0185c568    1    1      1 0x00000000           
+0x0185d420    1    1      1 0x00000000           
+0x0185dd48    1    1      1 0x00000000           
+0x0185fcd8    1    1      1 0x00000000           
+0x018636b0    1    1      1 0x00000000           
+0x01866868    2    1      1 0x00000000           _SHuassist.mtx
+0x018668b8    2    1      1 0x00000000           ZonesLockedCacheCounterMutex
+0x01867948    2    1      1 0x00000000           SingleSesMutex
+0x01868198   17   16      1 0x00000000           ShimCacheMutex
+0x0186a9c8    1    1      1 0x00000000           
+0x01873e90    1    1      1 0x00000000           
+0x01875e98    2    1      1 0x00000000           DBWinMutex
+0x01876630    1    1      1 0x00000000           
+0x0187aee0    1    1      1 0x00000000           
+0x0187c1d8    2    1      1 0x00000000           ContentIndex_Perf_Library_Lock_PID_c8
+0x0187d0c0    2    1      1 0x00000000           userenv: user policy mutex
+0x0189d440    2    1      1 0x00000000           MTX_919863BFD426AA00979BDF55477F92A7
+0x0189df48    1    1      1 0x00000000           
+0x018a5090    2    1      1 0x00000000           PnP_Init_Mutex
+0x018a6020    1    1      1 0x00000000           
+0x018a6df0    1    1      1 0x00000000           
+0x018a6e60    1    1      1 0x00000000           
+0x018a6ed0    1    1      1 0x00000000           
+0x018a6f40    1    1      1 0x00000000           
+0x018a6fb0    1    1      1 0x00000000           
+0x018b9358    1    1      1 0x00000000           
+0x018b9398    1    1      1 0x00000000           
+0x018b96a8    1    1      1 0x00000000           
+0x018b9728    1    1      1 0x00000000           
+0x018fe3c0    3    2      1 0x00000000           SRDataStore
+0x019080f8    1    1      1 0x00000000           
+0x01908220    3    2      1 0x00000000           c:!documents and settings!administrator!cookies!
+0x01914a30    1    1      1 0x00000000           
+0x019160c0    2    1      1 0x00000000           userenv: User Registry policy mutex
+0x019185b8    1    1      1 0x00000000           
+0x019198d8    2    1      1 0x00000000           StiTraceMutexSti_Trace.log
+0x0191a3a0    2    1      1 0x00000000           238FAD3109D3473aB4764B20B3731840
+0x0191ce00    2    1      1 0x00000000           MSCTF.Shared.MUTEX.MLH
+0x0191fad8    1    1      1 0x00000000           
+0x01923bd8    2    1      1 0x00000000           MSCTF.Shared.MUTEX.EJD
+0x01923d60    2    1      1 0x00000000           MTX_919863BFD426AA00979BDF55477F92A7_00000760
+0x0192e760    2    1      1 0x00000000           ISAPISearch_Perf_Library_Lock_PID_c8
+0x01993da0    1    1      1 0x00000000           
+0x01994660    1    1      1 0x00000000           
+0x01996800    2    1      1 0x00000000           MTX_919863BFD426AA00979BDF55477F92A7_00000778
+0x0199a100    2    1      1 0x00000000           userenv: machine policy mutex
+0x019a3928    1    1      1 0x00000000           
+0x019a6928    1    1      1 0x00000000           
+0x019a8838    2    1      1 0x00000000           c:!documents and settings!localservice!local settings!history!history.ie5!
+0x019a8fe0    2    1      1 0x00000000           MSCTF.GCompartListMUTEX.DefaultS-1-5-21-1957994488-1326574676-839522115-500
+0x019ade00    1    1      1 0x00000000           
+0x019f6670    1    1      1 0x00000000           
+0x01a02968    1    1      1 0x00000000           
+0x01a04818    2    1      1 0x00000000           WindowsUpdateTracingMutex
+0x01a0a208    3    2      1 0x00000000           WininetProxyRegistryMutex
+0x01a0a9e8    2    1      1 0x00000000           TermService_Perf_Library_Lock_PID_c8
+0x01a0b3e0    2    1      1 0x00000000           ExplorerIsShellMutex
+0x01a0b520    1    1      1 0x00000000           
+0x01a0cda8    1    1      1 0x00000000           
+0x01a78320    2    1      1 0x00000000           MTX_919863BFD426AA00979BDF55477F92A7_00000D2C
+0x01a783a8    1    1      1 0x00000000           
+0x01a7c580    1    1      1 0x00000000           
+0x01a7ee38    2    1      1 0x00000000           userenv: Machine Registry policy mutex
+0x01a80078    3    2      1 0x00000000           MSCTF.Shared.MUTEX.ADH
+0x01a82fe0    1    1      1 0x00000000           
+0x01a83788    1    1      1 0x00000000           
+0x01a84c10    1    1      1 0x00000000           
+0x01a981d8    1    1      1 0x00000000           
+0x01a9d108    1    1      1 0x00000000           
+0x01a9f7a0    1    1      1 0x00000000           
+0x01aa4e10    2    1      1 0x00000000           Tcpip_Perf_Library_Lock_PID_c8
+0x01aae0c8    2    1      1 0x00000000           c:!documents and settings!localservice!local settings!temporary internet files!content.ie5!
+0x01ab15f8    1    1      1 0x00000000           
+0x01ab1638    1    1      1 0x00000000           
+0x01ab1678    1    1      1 0x00000000           
+0x01ad51f0    1    1      1 0x00000000           
+0x01ad92f0    3    2      1 0x00000000           c:!documents and settings!administrator!local settings!temporary internet files!content.ie5!
+0x01add790    1    1      1 0x00000000           
+0x01aee128    1    1      1 0x00000000           
+0x01aee248    1    1      1 0x00000000           
+0x01af0158    1    1      1 0x00000000           
+0x01af2f38    2    1      1 0x00000000           ZonesCounterMutex
+0x01af3030    2    1      1 0x00000000           ContentFilter_Perf_Library_Lock_PID_c8
+0x01af3898    1    1      1 0x00000000           
+0x01af6d28    1    1      1 0x00000000           
+0x01af71a8    1    1      1 0x00000000           
+0x01b01f50    2    1      1 0x00000000           CtfmonInstMutexDefaultS-1-5-21-1957994488-1326574676-839522115-500
+0x01b03148    1    1      1 0x00000000           
+0x01b04d48    1    1      1 0x00000000           
+0x01b09c90    1    1      1 0x00000000           
+0x01b09df0    1    1      1 0x00000000           
+0x01b0c318    1    1      1 0x00000000           
+0x01b1c650    2    1      1 0x00000000           winlogon: Logon UserProfileMapping Mutex
+0x01b1c770    2    1      1 0x00000000           VMToolsHookQueueLock
+0x01b1cc80    2    1      1 0x00000000           WmiApRpl_Perf_Library_Lock_PID_c8
+0x01b1dc38    2    1      1 0x00000000           MSCTF.Shared.MUTEX.MPH
+0x01b222b8    1    1      1 0x00000000           
+0x01b24cf0    1    1      1 0x00000000           
+0x01b2d238    1    1      1 0x00000000           
+0x01b2ea90    1    1      1 0x00000000           
+0x01b2eb10    1    1      1 0x00000000           
+0x01b2f110    8    7      1 0x00000000           CTF.Asm.MutexDefaultS-1-5-21-1957994488-1326574676-839522115-500
+0x01b2f160    8    7      1 0x00000000           CTF.Compart.MutexDefaultS-1-5-21-1957994488-1326574676-839522115-500
+0x01b2fda8    1    1      1 0x00000000           
+0x01b314f8    2    1      1 0x00000000           ZonesCacheCounterMutex
+0x01b31548    3    2      1 0x00000000           ZoneAttributeCacheCounterMutex
+0x01b32510    3    2      1 0x00000000           WininetStartupMutex
+0x01b3c6b0    1    1      1 0x00000000           
+0x01b3c708    1    1      1 0x00000000           
+0x01b3ca30    2    1      1 0x00000000           PSched_Perf_Library_Lock_PID_c8
+0x01b3f7d8    2    1      1 0x00000000           VMwareGuestCopyPasteMutex
+0x01b3fc10    2    1      1 0x00000000           4FCC0DEFE22C4f138FB9D5AF25FD9398
+0x01b453a0    1    1      1 0x00000000           
+0x01b456c8    1    1      1 0x00000000           
+0x01b49ea0    2    1      1 0x00000000           MSCTF.Shared.MUTEX.MIL

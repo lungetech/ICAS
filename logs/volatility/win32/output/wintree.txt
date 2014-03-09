@@ -1,0 +1,237 @@
+**************************************************
+Window context: 0\WinSta0\Default
+
+#1000c (visible) csrss.exe:612 -
+#10004 (visible) csrss.exe:612 -
+.SAS window  winlogon.exe:636 SAS window class
+.Winlogon generic control dialog  winlogon.exe:636 -
+..#70048 (visible) winlogon.exe:636 6.0.2600.6028!Static
+.Default IME  winlogon.exe:636 IME
+#10006  csrss.exe:612 Message
+.#10008  csrss.exe:612 -
+.#1000a  csrss.exe:612 -
+.#10028  winlogon.exe:636 WinscardSessionChangeWndClass
+#1000e  csrss.exe:612 Message
+.#10010  csrss.exe:612 -
+.#10012  csrss.exe:612 -
+#10016  csrss.exe:612 Message
+.#10018  csrss.exe:612 -
+.#1001a  csrss.exe:612 -
+.OleMainThreadWndName  explorer.exe:1752 OleMainThreadWndClass
+.OLEChannelWnd  explorer.exe:1752 OleMainThreadWndClass
+.#10084  explorer.exe:1752 CLIPBRDWNDCLASS
+.#100a2  explorer.exe:1752 CLIPBRDWNDCLASS
+.CicMarshalWndICH  explorer.exe:1752 CicMarshalWndClass
+.OleMainThreadWndName  VMwareUser.exe:1888 OleMainThreadWndClass
+.CicMarshalWndEGH  VMwareUser.exe:1888 CicMarshalWndClass
+.#100ac  VMwareUser.exe:1888 CLIPBRDWNDCLASS
+.OleMainThreadWndName  vmtoolsd.exe:200 OleMainThreadWndClass
+.OleMainThreadWndName  msseces.exe:1900 OleMainThreadWndClass
+.OLEChannelWnd  explorer.exe:1752 OleMainThreadWndClass
+.CicMarshalWndMNG  explorer.exe:1752 CicMarshalWndClass
+.C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe  csrss.exe:612 ConsoleWindowClass
+.#7013c  explorer.exe:1752 CLIPBRDWNDCLASS
+.CicMarshalWndAIO  explorer.exe:1752 CicMarshalWndClass
+.CicMarshalWndMHH  ctfmon.exe:1912 CicMarshalWndClass
+.#40126  explorer.exe:1752 UserEventWindow
+#10014 (visible) csrss.exe:612 -
+.Program Manager (visible) explorer.exe:1752 Progman
+..#1009a (visible) explorer.exe:1752 SHELLDLL_DefView
+...FolderView (visible) explorer.exe:1752 6.0.2600.6028!SysListView32
+....#100b2 (visible) VMwareUser.exe:1888 VMDragDetectWndClass
+.Default IME  explorer.exe:1752 IME
+.M  explorer.exe:1752 MSCTFIME UI
+.#100a0  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.GDI+ Window  msseces.exe:1900 GDI+ Hook Window Class
+.Default IME  msseces.exe:1900 IME
+.#20064  ctfmon.exe:1912 CicLoaderWndClass
+.Default IME  ctfmon.exe:1912 IME
+.#3004c  explorer.exe:1752 DDEMLMom
+.#30050  explorer.exe:1752 DDEMLEvent
+.#30054  explorer.exe:1752 WorkerW
+.#1007e  explorer.exe:1752 WorkerW
+.#2005a  ctfmon.exe:1912 CTrayIconWndClass
+.VMwareUserControlTitle  VMwareUser.exe:1888 VMwareUserControlClass
+.#100ae  VMwareUser.exe:1888 DragDetWndClass
+.MS_WebcheckMonitor  explorer.exe:1752 MS_WebcheckMonitor
+.UnitySetTopWindowGroupWindow  VMwareUser.exe:1888 UnitySetTopWindowGroupClass
+.GuestHostIntegrationWindow  VMwareUser.exe:1888 GuestHostIntegrationClass
+.#100b8  VMwareUser.exe:1888 WorkerW
+.Default IME  VMwareTray.exe:1876 IME
+.#100ba  VMwareTray.exe:1876 VMwareTrayIcon
+.Default IME  msseces.exe:1900 IME
+.Microsoft Security Essentials  msseces.exe:1900 msseces_class
+..Banner Tab (visible) msseces.exe:1900 ATL:010B0D88
+...Additional help options (visible) msseces.exe:1900 ATL:BUTTON
+...Help (visible) msseces.exe:1900 ATL:BUTTON
+...Settings (visible) msseces.exe:1900 ATL:BUTTON
+...History (visible) msseces.exe:1900 ATL:BUTTON
+...Update (visible) msseces.exe:1900 ATL:BUTTON
+...Home (visible) msseces.exe:1900 ATL:BUTTON
+..Computer status - At risk (visible) msseces.exe:1900 ATL:010B0D88
+..#100ce  msseces.exe:1900 ATL:SysAnimate32
+.#100d4  msseces.exe:1900 6.0.2600.6028!tooltips_class32
+.#200f6  msseces.exe:1900 MSSCESSENUpgradeWindow
+.Default IME  explorer.exe:1752 IME
+.Power Meter  explorer.exe:1752 SystemTray_Main
+..#10118  explorer.exe:1752 6.0.2600.6028!Static
+..Show details for each &battery. (visible) explorer.exe:1752 6.0.2600.6028!Button
+..&Always show icon on the taskbar. (visible) explorer.exe:1752 6.0.2600.6028!Button
+..Power status (visible) explorer.exe:1752 6.0.2600.6028!Button
+.Connections Tray  explorer.exe:1752 Connections Tray
+.Default IME  wscntfy.exe:2028 IME
+.#30134  wscntfy.exe:2028 SecNotify
+.Default IME  TPAutoConnect.e:3372 IME
+.HiddenTPAutoConnectWindow  TPAutoConnect.e:3372 Afx:400000:b:10011:6:2201e1
+.#2016c  explorer.exe:1752 6.0.2600.6028!ComboLBox
+.#3015a  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.C:\WINDOWS\system32\cmd.exe (visible) csrss.exe:612 ConsoleWindowClass
+.Shylock4FDA5E7E8E682870E993F97AD26BA6B2 (visible) explorer.exe:1752 CabinetWClass
+..#2017c (visible) explorer.exe:1752 SHELLDLL_DefView
+...FolderView (visible) explorer.exe:1752 6.0.2600.6028!SysListView32
+....#20188  explorer.exe:1752 6.0.2600.6028!SysHeader32
+..#20174  explorer.exe:1752 6.0.2600.6028!msctls_statusbar32
+..#20176  explorer.exe:1752 WorkerW
+..#4013a (visible) explorer.exe:1752 WorkerW
+...#50138 (visible) explorer.exe:1752 6.0.2600.6028!ReBarWindow32
+....#50152 (visible) explorer.exe:1752 6.0.2600.6028!ToolbarWindow32
+....#2011a (visible) explorer.exe:1752 WorkerW
+....#2011c (visible) explorer.exe:1752 6.0.2600.6028!ToolbarWindow32
+....#2017a (visible) explorer.exe:1752 6.0.2600.6028!ComboBoxEx32
+.....#2016e (visible) explorer.exe:1752 6.0.2600.6028!Combobox
+......#2016a (visible) explorer.exe:1752 6.0.2600.6028!Edit
+.....#20168 (visible) explorer.exe:1752 6.0.2600.6028!ToolbarWindow32
+.#30186  explorer.exe:1752 WorkerW
+.#2018e  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.#3018a  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.Default IME  explorer.exe:1752 IME
+.M  explorer.exe:1752 MSCTFIME UI
+.#1009e  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.TF_FloatingLangBar_WndTitle  ctfmon.exe:1912 CiceroUIWndFrame
+.CiceroUIWndFrame  ctfmon.exe:1912 CiceroUIWndFrame
+.#100b0  VMwareUser.exe:1888 VMDragDetectWndClass
+.#100a6  VMwareUser.exe:1888 DragDetWndClass
+.Default IME  VMwareUser.exe:1888 IME
+.M  VMwareUser.exe:1888 MSCTFIME UI
+.SysFader  explorer.exe:1752 SysFader
+.#20166  explorer.exe:1752 Auto-Suggest Dropdown
+..Internet Explorer (visible) explorer.exe:1752 6.0.2600.6028!SysListView32
+...#30162 (visible) explorer.exe:1752 6.0.2600.6028!SysHeader32
+..#20178 (visible) explorer.exe:1752 6.0.2600.6028!ScrollBar
+..#20172  explorer.exe:1752 6.0.2600.6028!ScrollBar
+.SysFader  explorer.exe:1752 SysFader
+.#40092  explorer.exe:1752 BaseBar
+..#40094 (visible) explorer.exe:1752 MenuSite
+...#f012c (visible) explorer.exe:1752 6.0.2600.6028!ToolbarWindow32
+...#40096 (visible) explorer.exe:1752 6.0.2600.6028!SysPager
+....#40098 (visible) explorer.exe:1752 6.0.2600.6028!ToolbarWindow32
+.#30034 (visible) explorer.exe:1752 Shell_TrayWnd
+..#1007c (visible) explorer.exe:1752 6.0.2600.6028!ReBarWindow32
+...Quick Launch (visible) explorer.exe:1752 6.0.2600.6028!ToolbarWindow32
+...Running Applications (visible) explorer.exe:1752 MSTaskSwWClass
+....Running Applications (visible) explorer.exe:1752 6.0.2600.6028!ToolbarWindow32
+...TF_FloatingLangBar_WndTitle (visible) explorer.exe:1752 CiceroUIWndFrame
+..#3003a (visible) explorer.exe:1752 TrayNotifyWnd
+...#30044 (visible) explorer.exe:1752 6.0.2600.6028!Button
+...#30040 (visible) explorer.exe:1752 6.0.2600.6028!SysPager
+....Notification Area (visible) explorer.exe:1752 6.0.2600.6028!ToolbarWindow32
+...8:26 PM (visible) explorer.exe:1752 TrayClockWClass
+..Start (visible) explorer.exe:1752 6.0.2600.6028!Button
+.#10078  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.#30046  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.#1007a  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.#10088  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.CiceroUIWndFrame  explorer.exe:1752 CiceroUIWndFrame
+.#1008e  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.#40194  explorer.exe:1752 WorkerW
+.Default IME  explorer.exe:1752 IME
+.M  explorer.exe:1752 MSCTFIME UI
+.#20190  explorer.exe:1752 6.0.2600.6028!tooltips_class32
+.#10076 (visible) explorer.exe:1752 6.0.2600.6028!tooltips_class32
+**************************************************
+Window context: 0\WinSta0\Disconnect
+
+#1000c (visible) csrss.exe:612 -
+**************************************************
+Window context: 0\WinSta0\Winlogon
+
+#1000c (visible) csrss.exe:612 -
+#10004 (visible) csrss.exe:612 -
+.SAS window  winlogon.exe:636 SAS window class
+.Winlogon generic control dialog  winlogon.exe:636 -
+..#70048 (visible) winlogon.exe:636 6.0.2600.6028!Static
+.Default IME  winlogon.exe:636 IME
+**************************************************
+Window context: 0\SAWinSta\SADesktop
+
+#10020  csrss.exe:612 Message
+.#10022  csrss.exe:612 -
+.OleMainThreadWndName  VMUpgradeHelper:424 OleMainThreadWndClass
+.OLEChannelWnd  VMUpgradeHelper:424 OleMainThreadWndClass
+.OleMainThreadWndName  svchost.exe:1076 OleMainThreadWndClass
+#1001e  csrss.exe:612 -
+.#2011e  svchost.exe:1076 Tapi32WndClass
+.SYSTEM AGENT COM WINDOW  svchost.exe:1076 SAGEWINDOWCLASS
+.BadApplicationNotificationWindow  svchost.exe:1076 BadApplicationNotificationWindowClass
+.ModemDeviceChange  svchost.exe:1076 MdmDevChg
+.#20122  svchost.exe:1076 HidPhoneNotifClass
+#1002c  csrss.exe:612 Message
+.#1002e  csrss.exe:612 -
+#2002a  csrss.exe:612 -
+#1005e  csrss.exe:612 Message
+.#10060  csrss.exe:612 -
+#1005c  csrss.exe:612 -
+#10070  csrss.exe:612 Message
+.#10072  csrss.exe:612 -
+#2006e  csrss.exe:612 -
+**************************************************
+Window context: 0\Service-0x0-3e7$\Default
+
+#10020  csrss.exe:612 Message
+.#10022  csrss.exe:612 -
+.OleMainThreadWndName  VMUpgradeHelper:424 OleMainThreadWndClass
+.OLEChannelWnd  VMUpgradeHelper:424 OleMainThreadWndClass
+.OleMainThreadWndName  svchost.exe:1076 OleMainThreadWndClass
+#1001e  csrss.exe:612 -
+.#2011e  svchost.exe:1076 Tapi32WndClass
+.SYSTEM AGENT COM WINDOW  svchost.exe:1076 SAGEWINDOWCLASS
+.BadApplicationNotificationWindow  svchost.exe:1076 BadApplicationNotificationWindowClass
+.ModemDeviceChange  svchost.exe:1076 MdmDevChg
+.#20122  svchost.exe:1076 HidPhoneNotifClass
+**************************************************
+Window context: 0\Service-0x0-3e4$\Default
+
+#10020  csrss.exe:612 Message
+.#10022  csrss.exe:612 -
+.OleMainThreadWndName  VMUpgradeHelper:424 OleMainThreadWndClass
+.OLEChannelWnd  VMUpgradeHelper:424 OleMainThreadWndClass
+.OleMainThreadWndName  svchost.exe:1076 OleMainThreadWndClass
+#1001e  csrss.exe:612 -
+.#2011e  svchost.exe:1076 Tapi32WndClass
+.SYSTEM AGENT COM WINDOW  svchost.exe:1076 SAGEWINDOWCLASS
+.BadApplicationNotificationWindow  svchost.exe:1076 BadApplicationNotificationWindowClass
+.ModemDeviceChange  svchost.exe:1076 MdmDevChg
+.#20122  svchost.exe:1076 HidPhoneNotifClass
+#1002c  csrss.exe:612 Message
+.#1002e  csrss.exe:612 -
+#2002a  csrss.exe:612 -
+**************************************************
+Window context: 0\Service-0x0-3e5$\Default
+
+#10020  csrss.exe:612 Message
+.#10022  csrss.exe:612 -
+.OleMainThreadWndName  VMUpgradeHelper:424 OleMainThreadWndClass
+.OLEChannelWnd  VMUpgradeHelper:424 OleMainThreadWndClass
+.OleMainThreadWndName  svchost.exe:1076 OleMainThreadWndClass
+#1001e  csrss.exe:612 -
+.#2011e  svchost.exe:1076 Tapi32WndClass
+.SYSTEM AGENT COM WINDOW  svchost.exe:1076 SAGEWINDOWCLASS
+.BadApplicationNotificationWindow  svchost.exe:1076 BadApplicationNotificationWindowClass
+.ModemDeviceChange  svchost.exe:1076 MdmDevChg
+.#20122  svchost.exe:1076 HidPhoneNotifClass
+#1002c  csrss.exe:612 Message
+.#1002e  csrss.exe:612 -
+#2002a  csrss.exe:612 -
+#1005e  csrss.exe:612 Message
+.#10060  csrss.exe:612 -
+#1005c  csrss.exe:612 -

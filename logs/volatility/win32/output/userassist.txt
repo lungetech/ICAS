@@ -1,0 +1,352 @@
+----------------------------
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT
+Key name: Count
+Last updated: 2011-09-30 00:24:29 UTC+0000
+
+Subkeys:
+
+Values:
+
+REG_BINARY    UEME_CTLSESSION : 
+0x00000000  54 df 63 0e 0b 00 00 00                           T.c.....
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Accessories\Tour Windows XP.lnk : 
+ID:             1
+Count:          11
+Last updated:   2009-12-27 01:37:30 UTC+0000
+0x00000000  01 00 00 00 10 00 00 00 96 a1 42 27 95 86 ca 01   ..........B'....
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Accessories\System Tools\Files and Settings Transfer Wizard.lnk : 
+ID:             1
+Count:          10
+Last updated:   2009-12-27 01:37:30 UTC+0000
+0x00000000  01 00 00 00 0f 00 00 00 96 a1 42 27 95 86 ca 01   ..........B'....
+
+REG_BINARY    UEME_CTLCUACount:ctor : 
+ID:             1
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  01 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL    : 
+ID:             1
+Count:          3
+Last updated:   2009-12-27 02:57:29 UTC+0000
+0x00000000  01 00 00 00 08 00 00 00 d0 ba dd 53 a0 86 ca 01   ...........S....
+
+REG_BINARY    UEME_RUNPIDL:C:\Documents and Settings\All Users\Start Menu\Windows Update.lnk : 
+ID:             1
+Count:          3
+Last updated:   2009-12-27 02:57:29 UTC+0000
+0x00000000  01 00 00 00 08 00 00 00 d0 ba dd 53 a0 86 ca 01   ...........S....
+
+REG_BINARY    UEME_RUNPATH    : 
+ID:             11
+Count:          34
+Last updated:   2011-09-30 00:24:29 UTC+0000
+0x00000000  0b 00 00 00 27 00 00 00 70 f4 9a 51 07 7f cc 01   ....'...p..Q....
+
+REG_BINARY    UEME_RUNPATH:C:\WINDOWS\system32\wupdmgr.exe : 
+ID:             1
+Count:          3
+Last updated:   2009-12-27 02:57:29 UTC+0000
+0x00000000  01 00 00 00 08 00 00 00 d0 ba dd 53 a0 86 ca 01   ...........S....
+
+REG_BINARY    UEME_RUNPATH:C:\Program Files\Internet Explorer\iexplore.exe : 
+ID:             1
+Count:          1
+Last updated:   2009-12-27 01:45:15 UTC+0000
+0x00000000  01 00 00 00 06 00 00 00 80 61 f3 3c 96 86 ca 01   .........a.<....
+
+REG_BINARY    UEME_UIQCUT     : 
+ID:             10
+Count:          31
+Last updated:   2011-02-08 02:01:48 UTC+0000
+0x00000000  0a 00 00 00 24 00 00 00 70 d4 dc 24 34 c7 cb 01   ....$...p..$4...
+
+REG_BINARY    UEME_UISCUT     : 
+ID:             10
+Count:          14
+Last updated:   2011-02-08 01:57:56 UTC+0000
+0x00000000  0a 00 00 00 13 00 00 00 e0 81 95 9a 33 c7 cb 01   ............3...
+
+REG_BINARY    UEME_RUNPATH:C:\Documents and Settings\Administrator\Desktop\Firefox Setup 3.5.6.exe : 
+ID:             1
+Count:          1
+Last updated:   2009-12-27 01:47:18 UTC+0000
+0x00000000  01 00 00 00 06 00 00 00 e0 67 da 85 96 86 ca 01   .........g......
+
+REG_BINARY    UEME_RUNCPL     : 
+ID:             11
+Count:          5
+Last updated:   2011-09-26 01:34:30 UTC+0000
+0x00000000  0b 00 00 00 0a 00 00 00 70 28 80 6f ec 7b cc 01   ........p(.o.{..
+
+REG_BINARY    UEME_RUNCPL:desk.cpl : 
+ID:             1
+Count:          1
+Last updated:   2009-12-27 01:48:02 UTC+0000
+0x00000000  01 00 00 00 06 00 00 00 20 af 5b a0 96 86 ca 01   ..........[.....
+
+REG_BINARY    UEME_RUNCPL:SYSDM.CPL : 
+ID:             11
+Count:          1
+Last updated:   2011-09-26 01:32:19 UTC+0000
+0x00000000  0b 00 00 00 06 00 00 00 70 4a 01 22 ec 7b cc 01   ........pJ.".{..
+
+REG_BINARY    UEME_RUNPATH:C:\Documents and Settings\Administrator\My Documents\My Dropbox\TrueCrypt Setup 6.2a.exe : 
+ID:             1
+Count:          1
+Last updated:   2009-12-27 02:00:18 UTC+0000
+0x00000000  01 00 00 00 06 00 00 00 e0 f0 2d 57 98 86 ca 01   ..........-W....
+
+REG_BINARY    UEME_RUNPATH:C:\Documents and Settings\Administrator\Desktop\Quicken_Home_Business_2008.exe : 
+ID:             1
+Count:          1
+Last updated:   2009-12-27 02:06:09 UTC+0000
+0x00000000  01 00 00 00 06 00 00 00 c0 c8 f9 27 99 86 ca 01   ...........'....
+
+REG_BINARY    UEME_RUNPATH:C:\Program Files\Mozilla Firefox\firefox.exe : 
+ID:             2
+Count:          3
+Last updated:   2009-12-29 02:09:47 UTC+0000
+0x00000000  02 00 00 00 08 00 00 00 d0 d4 b3 fe 2b 88 ca 01   ............+...
+
+REG_BINARY    UEME_RUNPATH:O:\Keepass\KeePass.exe : 
+ID:             2
+Count:          2
+Last updated:   2009-12-29 02:10:12 UTC+0000
+0x00000000  02 00 00 00 07 00 00 00 d0 29 b4 0d 2c 88 ca 01   .........)..,...
+
+REG_BINARY    UEME_RUNPATH:C:\Documents and Settings\Administrator\My Documents\Downloads\mssefullinstall-x86fre-en-us-xp.exe : 
+ID:             1
+Count:          2
+Last updated:   2009-12-27 02:56:11 UTC+0000
+0x00000000  01 00 00 00 07 00 00 00 e0 e8 64 25 a0 86 ca 01   ..........d%....
+
+REG_BINARY    UEME_RUNPATH:Mozilla Firefox.lnk : 
+ID:             2
+Count:          2
+Last updated:   2009-12-29 02:09:47 UTC+0000
+0x00000000  02 00 00 00 07 00 00 00 10 78 9e fe 2b 88 ca 01   .........x..+...
+
+REG_BINARY    UEME_RUNPATH:TrueCrypt.lnk : 
+ID:             2
+Count:          1
+Last updated:   2009-12-29 02:08:30 UTC+0000
+0x00000000  02 00 00 00 06 00 00 00 60 56 f3 d0 2b 88 ca 01   ........`V..+...
+
+REG_BINARY    UEME_RUNPATH:C:\Program Files\TrueCrypt\TrueCrypt.exe : 
+ID:             2
+Count:          1
+Last updated:   2009-12-29 02:08:31 UTC+0000
+0x00000000  02 00 00 00 06 00 00 00 50 0c 61 d1 2b 88 ca 01   ........P.a.+...
+
+REG_BINARY    UEME_RUNPATH:Quicken Home & Business 2008.lnk : 
+ID:             2
+Count:          1
+Last updated:   2009-12-29 02:08:55 UTC+0000
+0x00000000  02 00 00 00 06 00 00 00 a0 0b fe df 2b 88 ca 01   ............+...
+
+REG_BINARY    UEME_RUNPATH:C:\Program Files\Quicken\qw.exe : 
+ID:             2
+Count:          1
+Last updated:   2009-12-29 02:08:55 UTC+0000
+0x00000000  02 00 00 00 06 00 00 00 20 89 32 e0 2b 88 ca 01   ..........2.+...
+
+REG_BINARY    UEME_RUNCPL:NCPA.CPL : 
+ID:             6
+Count:          1
+Last updated:   2010-06-29 00:17:12 UTC+0000
+0x00000000  06 00 00 00 06 00 00 00 f0 38 e9 6b 20 17 cb 01   .........8.k....
+
+REG_BINARY    UEME_RUNPATH:C:\WINDOWS\system32\cmd.exe : 
+ID:             11
+Count:          4
+Last updated:   2011-09-30 00:20:44 UTC+0000
+0x00000000  0b 00 00 00 09 00 00 00 50 55 9f cb 06 7f cc 01   ........PU......
+
+REG_BINARY    UEME_RUNPATH:::{450D8FBA-AD25-11D0-98A8-0800361B1103} : 
+ID:             6
+Count:          1
+Last updated:   2010-06-29 00:32:53 UTC+0000
+0x00000000  06 00 00 00 06 00 00 00 e0 49 bf 9c 22 17 cb 01   .........I.."...
+
+REG_BINARY    UEME_RUNPATH:C:\Documents and Settings\Administrator\Desktop\ShowMyPC3050.exe : 
+ID:             6
+Count:          2
+Last updated:   2010-06-29 01:15:18 UTC+0000
+0x00000000  06 00 00 00 07 00 00 00 00 c8 51 89 28 17 cb 01   ..........Q.(...
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Windows Movie Maker.lnk : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Remote Assistance.lnk : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Outlook Express.lnk : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Microsoft Security Essentials.lnk : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Internet Explorer.lnk : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\TrueCrypt : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Startup : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Mozilla Firefox : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Games : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Dropbox : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Accessories : 
+ID:             9
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  09 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNCPL:"C:\WINDOWS\system32\main.cpl",Mouse : 
+ID:             9
+Count:          1
+Last updated:   2010-09-03 00:59:50 UTC+0000
+0x00000000  09 00 00 00 06 00 00 00 e0 2d 7d 4f 03 4b cb 01   .........-}O.K..
+
+REG_BINARY    UEME_RUNPATH:C:\Documents and Settings\Administrator\Desktop\ShowMyPC3055.exe : 
+ID:             10
+Count:          5
+Last updated:   2011-02-08 01:49:35 UTC+0000
+0x00000000  0a 00 00 00 0a 00 00 00 90 ac 40 70 32 c7 cb 01   ..........@p2...
+
+REG_BINARY    UEME_RUNPATH:C:\Documents and Settings\Administrator\Desktop\SyncBack_Setup\SyncBack_Setup.exe : 
+ID:             10
+Count:          1
+Last updated:   2010-10-07 00:12:03 UTC+0000
+0x00000000  0a 00 00 00 06 00 00 00 a0 99 9f 44 b4 65 cb 01   ...........D.e..
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\2BrightSparks : 
+ID:             10
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  0a 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\2BrightSparks\SyncBack : 
+ID:             10
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  0a 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNCPL:"C:\WINDOWS\system32\nusrmgr.cpl",User Accounts : 
+ID:             11
+Count:          1
+Last updated:   2011-09-26 01:32:29 UTC+0000
+0x00000000  0b 00 00 00 06 00 00 00 60 cd 97 27 ec 7b cc 01   ........`..'.{..
+
+REG_BINARY    UEME_RUNCPL:"C:\WINDOWS\system32\appwiz.cpl",Add or Remove Programs : 
+ID:             11
+Count:          1
+Last updated:   2011-09-26 01:34:30 UTC+0000
+0x00000000  0b 00 00 00 06 00 00 00 70 99 82 6f ec 7b cc 01   ........p..o.{..
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Quicken 2008\Quicken 2008.lnk : 
+ID:             11
+Count:          0
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  0b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Quicken 2008\What's New In Quicken 2008.lnk : 
+ID:             11
+Count:          0
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  0b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Quicken 2008\Billminder.lnk : 
+ID:             11
+Count:          0
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  0b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPIDL:%csidl2%\Quicken 2008\Quicken Online Backup.lnk : 
+ID:             11
+Count:          0
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  0b 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_RUNPATH:C:\Documents and Settings\Administrator\Desktop\Shylock4FDA5E7E8E682870E993F97AD26BA6B2\4FDA5E7E8E682870E993F97AD26BA6B2.exe : 
+ID:             11
+Count:          1
+Last updated:   2011-09-30 00:24:29 UTC+0000
+0x00000000  0b 00 00 00 06 00 00 00 70 f4 9a 51 07 7f cc 01   ........p..Q....
+----------------------------
+Registry: \Device\HarddiskVolume1\Documents and Settings\Administrator\NTUSER.DAT
+Key name: Count
+Last updated: 2011-09-26 01:32:46 UTC+0000
+
+Subkeys:
+
+Values:
+
+REG_BINARY    UEME_CTLSESSION : 
+0x00000000  61 df 63 0e 08 00 00 00                           a.c.....
+
+REG_BINARY    UEME_CTLCUACount:ctor : 
+ID:             1
+Count:          2
+Last updated:   1970-01-01 00:00:00 UTC+0000
+0x00000000  01 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00   ................
+
+REG_BINARY    UEME_UITOOLBAR  : 
+ID:             1
+Count:          7
+Last updated:   2009-12-29 02:12:54 UTC+0000
+0x00000000  01 00 00 00 0c 00 00 00 e0 05 30 6e 2c 88 ca 01   ..........0n,...
+
+REG_BINARY    UEME_UITOOLBAR:0x1,130 : 
+ID:             1
+Count:          6
+Last updated:   2009-12-29 02:12:54 UTC+0000
+0x00000000  01 00 00 00 0b 00 00 00 e0 05 30 6e 2c 88 ca 01   ..........0n,...
+
+REG_BINARY    UEME_UITOOLBAR:0x4,7031 : 
+ID:             1
+Count:          1
+Last updated:   2009-12-27 02:59:02 UTC+0000
+0x00000000  01 00 00 00 06 00 00 00 b0 25 7e 8b a0 86 ca 01   .........%~.....

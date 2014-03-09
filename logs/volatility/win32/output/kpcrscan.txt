@@ -1,0 +1,10 @@
+**************************************************
+Offset (V)                    : 0xffdff000
+Offset (P)                    : 0x40000
+KdVersionBlock                : 0x80545b38
+IDT                           : 0x8003f400
+GDT                           : 0x8003f000
+CurrentThread                 : 0x813312b0 TID 240 (vmtoolsd.exe:200)
+IdleThread                    : 0x805527c0 TID 0 (-:0)
+Details                       : CPU 0 (GenuineIntel @ 2653 MHz)
+CR3/DTB                       : 0x319000

@@ -1,0 +1,32 @@
+Process(V) ImageBase  Name                 Result
+---------- ---------- -------------------- ------
+0x819cc830 ---------- System               Error: PEB at 0x0 is paged
+0x818efda0 0x48580000 smss.exe             Error: ImageBaseAddress at 0x48580000 is paged
+0x81616ab8 0x4a680000 csrss.exe            OK: executable.612.exe
+0x814c9b40 0x01000000 winlogon.exe         OK: executable.636.exe
+0x81794d08 0x01000000 services.exe         Error: ImageBaseAddress at 0x1000000 is paged
+0x814a2cd0 0x01000000 lsass.exe            OK: executable.692.exe
+0x815c2630 0x00400000 vmacthlp.exe         Error: ImageBaseAddress at 0x400000 is paged
+0x81470020 0x01000000 svchost.exe          OK: executable.868.exe
+0x818b5248 0x01000000 svchost.exe          OK: executable.944.exe
+0x813a0458 0x01000000 MsMpEng.exe          OK: executable.1040.exe
+0x816b7020 0x01000000 svchost.exe          OK: executable.1076.exe
+0x817f7548 0x01000000 svchost.exe          Error: ImageBaseAddress at 0x1000000 is paged
+0x8169a1d0 0x01000000 svchost.exe          OK: executable.1336.exe
+0x813685e0 0x01000000 spoolsv.exe          OK: executable.1516.exe
+0x818f5cd0 0x01000000 explorer.exe         OK: executable.1752.exe
+0x815c9638 0x01000000 svchost.exe          Error: ImageBaseAddress at 0x1000000 is paged
+0x8192d7f0 0x00400000 VMwareTray.exe       OK: executable.1876.exe
+0x818f6458 0x00400000 VMwareUser.exe       OK: executable.1888.exe
+0x8164a020 0x01000000 msseces.exe          OK: executable.1900.exe
+0x81717370 0x00400000 ctfmon.exe           OK: executable.1912.exe
+0x813a5b28 0x01000000 svchost.exe          OK: executable.2000.exe
+0x81336638 0x00400000 vmtoolsd.exe         OK: executable.200.exe
+0x81329b28 0x00400000 VMUpgradeHelper      OK: executable.424.exe
+0x812d6020 0x01000000 wscntfy.exe          OK: executable.2028.exe
+0x812c1718 0x00400000 TPAutoConnSvc.e      Error: ImageBaseAddress at 0x400000 is paged
+0x812b03e0 0x01000000 alg.exe              OK: executable.2272.exe
+0x81324020 0x00400000 TPAutoConnect.e      OK: executable.3372.exe
+0x814e7b38 0x01000000 msiexec.exe          OK: executable.2396.exe
+0x814db608 0x4ad00000 cmd.exe              OK: executable.3756.exe
+0x812f59a8 ---------- cmd.exe              Error: PEB at 0x7ffd5000 is paged

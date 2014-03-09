@@ -1,0 +1,4 @@
+Parsed data sent to internet.txt
+Parsed data sent to appevent.txt
+Parsed data sent to sysevent.txt
+Parsed data sent to secevent.txt

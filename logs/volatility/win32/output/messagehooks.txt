@@ -1,0 +1,119 @@
+Offset(V)  Sess   Desktop              Thread                         Filter               Flags                Function   Module
+---------- ------ -------------------- ------------------------------ -------------------- -------------------- ---------- ------
+0xbbe3e6e8 0      WinSta0\Default      <any>                          WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      <any>                          WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      <any>                          WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      3280 (explorer.exe 1752)       WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      3280 (explorer.exe 1752)       WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      3280 (explorer.exe 1752)       WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      532 (vmtoolsd.exe 200)         WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      532 (vmtoolsd.exe 200)         WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      532 (vmtoolsd.exe 200)         WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      2340 (spoolsv.exe 1516)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      2340 (spoolsv.exe 1516)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      2340 (spoolsv.exe 1516)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      3760 (cmd.exe 3756)            WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      3760 (cmd.exe 3756)            WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      3760 (cmd.exe 3756)            WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1528 (spoolsv.exe 1516)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1528 (spoolsv.exe 1516)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1528 (spoolsv.exe 1516)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      3712 (explorer.exe 1752)       WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      3712 (explorer.exe 1752)       WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      3712 (explorer.exe 1752)       WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1532 (spoolsv.exe 1516)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1532 (spoolsv.exe 1516)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1532 (spoolsv.exe 1516)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      3424 (spoolsv.exe 1516)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      3424 (spoolsv.exe 1516)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      3424 (spoolsv.exe 1516)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      3384 (spoolsv.exe 1516)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      3384 (spoolsv.exe 1516)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      3384 (spoolsv.exe 1516)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      3376 (TPAutoConnect.e 3372)    WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      3376 (TPAutoConnect.e 3372)    WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      3376 (TPAutoConnect.e 3372)    WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      2080 (explorer.exe 1752)       WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      2080 (explorer.exe 1752)       WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      2080 (explorer.exe 1752)       WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      2108 (VMwareUser.exe 1888)     WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      2108 (VMwareUser.exe 1888)     WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      2108 (VMwareUser.exe 1888)     WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      2084 (VMwareUser.exe 1888)     WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      2084 (VMwareUser.exe 1888)     WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      2084 (VMwareUser.exe 1888)     WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      2052 (VMwareUser.exe 1888)     WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      2052 (VMwareUser.exe 1888)     WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      2052 (VMwareUser.exe 1888)     WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1824 (explorer.exe 1752)       WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1824 (explorer.exe 1752)       WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1824 (explorer.exe 1752)       WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1112 (explorer.exe 1752)       WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1112 (explorer.exe 1752)       WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1112 (explorer.exe 1752)       WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      2032 (wscntfy.exe 2028)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      2032 (wscntfy.exe 2028)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      2032 (wscntfy.exe 2028)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      616 (explorer.exe 1752)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      616 (explorer.exe 1752)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      616 (explorer.exe 1752)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      560 (msseces.exe 1900)         WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      560 (msseces.exe 1900)         WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      560 (msseces.exe 1900)         WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      516 (csrss.exe 612)            WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      516 (csrss.exe 612)            WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      516 (csrss.exe 612)            WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      492 (msseces.exe 1900)         WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      492 (msseces.exe 1900)         WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      492 (msseces.exe 1900)         WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      392 (VMwareUser.exe 1888)      WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      392 (VMwareUser.exe 1888)      WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      392 (VMwareUser.exe 1888)      WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      240 (vmtoolsd.exe 200)         WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      240 (vmtoolsd.exe 200)         WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      240 (vmtoolsd.exe 200)         WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      272 (VMwareUser.exe 1888)      WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      272 (VMwareUser.exe 1888)      WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      272 (VMwareUser.exe 1888)      WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      180 (vmtoolsd.exe 200)         WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      180 (vmtoolsd.exe 200)         WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      180 (vmtoolsd.exe 200)         WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1880 (VMwareTray.exe 1876)     WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1880 (VMwareTray.exe 1876)     WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1880 (VMwareTray.exe 1876)     WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1904 (msseces.exe 1900)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1904 (msseces.exe 1900)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1904 (msseces.exe 1900)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1892 (VMwareUser.exe 1888)     WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1892 (VMwareUser.exe 1888)     WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1892 (VMwareUser.exe 1888)     WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1916 (ctfmon.exe 1912)         WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1916 (ctfmon.exe 1912)         WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1916 (ctfmon.exe 1912)         WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      652 (csrss.exe 612)            WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      652 (csrss.exe 612)            WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      652 (csrss.exe 612)            WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      648 (csrss.exe 612)            WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      648 (csrss.exe 612)            WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      648 (csrss.exe 612)            WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1840 (explorer.exe 1752)       WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1840 (explorer.exe 1752)       WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1840 (explorer.exe 1752)       WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1852 (explorer.exe 1752)       WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1852 (explorer.exe 1752)       WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1852 (explorer.exe 1752)       WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1832 (explorer.exe 1752)       WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1832 (explorer.exe 1752)       WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1832 (explorer.exe 1752)       WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1756 (explorer.exe 1752)       WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1756 (explorer.exe 1752)       WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1756 (explorer.exe 1752)       WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1540 (spoolsv.exe 1516)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1540 (spoolsv.exe 1516)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1540 (spoolsv.exe 1516)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1524 (spoolsv.exe 1516)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1524 (spoolsv.exe 1516)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1524 (spoolsv.exe 1516)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6e8 0      WinSta0\Default      1520 (spoolsv.exe 1516)        WH_GETMESSAGE        HF_GLOBAL            0x00011351 C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e720 0      WinSta0\Default      1520 (spoolsv.exe 1516)        WH_CBT               HF_ANSI, HF_GLOBAL   0x00010e2e C:\WINDOWS\system32\MSCTF.dll
+0xbbe3e6b0 0      WinSta0\Default      1520 (spoolsv.exe 1516)        WH_SHELL             HF_ANSI, HF_GLOBAL   0x000112b6 C:\WINDOWS\system32\MSCTF.dll

@@ -1,0 +1,596 @@
+Pid      Process          Value  Privilege                            Attributes               Description
+-------- ---------------- ------ ------------------------------------ ------------------------ -----------
+       4 System                7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+       4 System                2 SeCreateTokenPrivilege               Present                  Create a token object
+       4 System                9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+       4 System               15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+       4 System                4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+       4 System                3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+       4 System                5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+       4 System               14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+       4 System               16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+       4 System               20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+       4 System               21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+       4 System                8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+       4 System               22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+       4 System               23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+       4 System               17 SeBackupPrivilege                    Present                  Backup files and directories
+       4 System               18 SeRestorePrivilege                   Present                  Restore files and directories
+       4 System               19 SeShutdownPrivilege                  Present                  Shut down the system
+       4 System               10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+       4 System               13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+       4 System               12 SeSystemtimePrivilege                Present                  Change the system time
+       4 System               25 SeUndockPrivilege                    Present                  Remove computer from docking station
+       4 System               28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+       4 System               29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+       4 System               30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     384 smss.exe              7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+     384 smss.exe              2 SeCreateTokenPrivilege               Present                  Create a token object
+     384 smss.exe              9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+     384 smss.exe             15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+     384 smss.exe              4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+     384 smss.exe              3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     384 smss.exe              5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     384 smss.exe             14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+     384 smss.exe             16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+     384 smss.exe             20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+     384 smss.exe             21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+     384 smss.exe              8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+     384 smss.exe             22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+     384 smss.exe             23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     384 smss.exe             17 SeBackupPrivilege                    Present                  Backup files and directories
+     384 smss.exe             18 SeRestorePrivilege                   Present                  Restore files and directories
+     384 smss.exe             19 SeShutdownPrivilege                  Present                  Shut down the system
+     384 smss.exe             10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+     384 smss.exe             13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+     384 smss.exe             12 SeSystemtimePrivilege                Present                  Change the system time
+     384 smss.exe             25 SeUndockPrivilege                    Present                  Remove computer from docking station
+     384 smss.exe             28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+     384 smss.exe             29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     384 smss.exe             30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     612 csrss.exe             7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+     612 csrss.exe             2 SeCreateTokenPrivilege               Present                  Create a token object
+     612 csrss.exe             9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+     612 csrss.exe            15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+     612 csrss.exe             4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+     612 csrss.exe             3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     612 csrss.exe             5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     612 csrss.exe            14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+     612 csrss.exe            16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+     612 csrss.exe            20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+     612 csrss.exe            21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+     612 csrss.exe             8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+     612 csrss.exe            22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+     612 csrss.exe            23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     612 csrss.exe            17 SeBackupPrivilege                    Present                  Backup files and directories
+     612 csrss.exe            18 SeRestorePrivilege                   Present                  Restore files and directories
+     612 csrss.exe            19 SeShutdownPrivilege                  Present                  Shut down the system
+     612 csrss.exe            10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+     612 csrss.exe            13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+     612 csrss.exe            12 SeSystemtimePrivilege                Present                  Change the system time
+     612 csrss.exe            25 SeUndockPrivilege                    Present                  Remove computer from docking station
+     612 csrss.exe            28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+     612 csrss.exe            29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     612 csrss.exe            30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     636 winlogon.exe          7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+     636 winlogon.exe          2 SeCreateTokenPrivilege               Present                  Create a token object
+     636 winlogon.exe          9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+     636 winlogon.exe         15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+     636 winlogon.exe          4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+     636 winlogon.exe          3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     636 winlogon.exe          5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     636 winlogon.exe         14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+     636 winlogon.exe         16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+     636 winlogon.exe         20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+     636 winlogon.exe         21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+     636 winlogon.exe          8 SeSecurityPrivilege                  Present,Enabled          Manage auditing and security log
+     636 winlogon.exe         22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+     636 winlogon.exe         23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     636 winlogon.exe         17 SeBackupPrivilege                    Present                  Backup files and directories
+     636 winlogon.exe         18 SeRestorePrivilege                   Present                  Restore files and directories
+     636 winlogon.exe         19 SeShutdownPrivilege                  Present                  Shut down the system
+     636 winlogon.exe         10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+     636 winlogon.exe         13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+     636 winlogon.exe         12 SeSystemtimePrivilege                Present                  Change the system time
+     636 winlogon.exe         25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+     636 winlogon.exe         28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+     636 winlogon.exe         29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     636 winlogon.exe         30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     680 services.exe          7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+     680 services.exe          2 SeCreateTokenPrivilege               Present                  Create a token object
+     680 services.exe          9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+     680 services.exe         15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+     680 services.exe          4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+     680 services.exe          3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     680 services.exe          5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     680 services.exe         14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+     680 services.exe         16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+     680 services.exe         20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+     680 services.exe         21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+     680 services.exe          8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+     680 services.exe         22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+     680 services.exe         23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     680 services.exe         17 SeBackupPrivilege                    Present                  Backup files and directories
+     680 services.exe         18 SeRestorePrivilege                   Present                  Restore files and directories
+     680 services.exe         19 SeShutdownPrivilege                  Present                  Shut down the system
+     680 services.exe         10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+     680 services.exe         13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+     680 services.exe         12 SeSystemtimePrivilege                Present                  Change the system time
+     680 services.exe         25 SeUndockPrivilege                    Present                  Remove computer from docking station
+     680 services.exe         28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+     680 services.exe         29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     680 services.exe         30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     692 lsass.exe             7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+     692 lsass.exe             2 SeCreateTokenPrivilege               Present,Enabled          Create a token object
+     692 lsass.exe             9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+     692 lsass.exe            15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+     692 lsass.exe             4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+     692 lsass.exe             3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     692 lsass.exe             5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     692 lsass.exe            14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+     692 lsass.exe            16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+     692 lsass.exe            20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+     692 lsass.exe            21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+     692 lsass.exe             8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+     692 lsass.exe            22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+     692 lsass.exe            23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     692 lsass.exe            17 SeBackupPrivilege                    Present                  Backup files and directories
+     692 lsass.exe            18 SeRestorePrivilege                   Present                  Restore files and directories
+     692 lsass.exe            19 SeShutdownPrivilege                  Present                  Shut down the system
+     692 lsass.exe            10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+     692 lsass.exe            13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+     692 lsass.exe            12 SeSystemtimePrivilege                Present                  Change the system time
+     692 lsass.exe            25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+     692 lsass.exe            28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+     692 lsass.exe            29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     692 lsass.exe            30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     852 vmacthlp.exe          7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+     852 vmacthlp.exe          2 SeCreateTokenPrivilege               Present                  Create a token object
+     852 vmacthlp.exe          9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+     852 vmacthlp.exe         15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+     852 vmacthlp.exe          4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+     852 vmacthlp.exe          3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     852 vmacthlp.exe          5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     852 vmacthlp.exe         14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+     852 vmacthlp.exe         16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+     852 vmacthlp.exe         20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+     852 vmacthlp.exe         21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+     852 vmacthlp.exe          8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+     852 vmacthlp.exe         22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+     852 vmacthlp.exe         23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     852 vmacthlp.exe         17 SeBackupPrivilege                    Present                  Backup files and directories
+     852 vmacthlp.exe         18 SeRestorePrivilege                   Present                  Restore files and directories
+     852 vmacthlp.exe         19 SeShutdownPrivilege                  Present                  Shut down the system
+     852 vmacthlp.exe         10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+     852 vmacthlp.exe         13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+     852 vmacthlp.exe         12 SeSystemtimePrivilege                Present                  Change the system time
+     852 vmacthlp.exe         25 SeUndockPrivilege                    Present                  Remove computer from docking station
+     852 vmacthlp.exe         28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+     852 vmacthlp.exe         29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     852 vmacthlp.exe         30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     868 svchost.exe           7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+     868 svchost.exe           2 SeCreateTokenPrivilege               Present                  Create a token object
+     868 svchost.exe           9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+     868 svchost.exe          15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+     868 svchost.exe           4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+     868 svchost.exe           3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     868 svchost.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     868 svchost.exe          14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+     868 svchost.exe          16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+     868 svchost.exe          20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+     868 svchost.exe          21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+     868 svchost.exe           8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+     868 svchost.exe          22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+     868 svchost.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     868 svchost.exe          17 SeBackupPrivilege                    Present                  Backup files and directories
+     868 svchost.exe          18 SeRestorePrivilege                   Present                  Restore files and directories
+     868 svchost.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+     868 svchost.exe          10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+     868 svchost.exe          13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+     868 svchost.exe          12 SeSystemtimePrivilege                Present                  Change the system time
+     868 svchost.exe          25 SeUndockPrivilege                    Present                  Remove computer from docking station
+     868 svchost.exe          28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+     868 svchost.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     868 svchost.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     944 svchost.exe          21 SeAuditPrivilege                     Present                  Generate security audits
+     944 svchost.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     944 svchost.exe           3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     944 svchost.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     944 svchost.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+     944 svchost.exe          25 SeUndockPrivilege                    Present                  Remove computer from docking station
+     944 svchost.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     944 svchost.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1040 MsMpEng.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1040 MsMpEng.exe          10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+    1040 MsMpEng.exe          19 SeShutdownPrivilege                  Present,Enabled          Shut down the system
+    1040 MsMpEng.exe          18 SeRestorePrivilege                   Present,Enabled          Restore files and directories
+    1040 MsMpEng.exe          17 SeBackupPrivilege                    Present,Enabled          Backup files and directories
+    1040 MsMpEng.exe           3 SeAssignPrimaryTokenPrivilege        Present,Enabled          Replace a process-level token
+    1040 MsMpEng.exe           5 SeIncreaseQuotaPrivilege             Present,Enabled          Increase quotas
+    1040 MsMpEng.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1040 MsMpEng.exe           8 SeSecurityPrivilege                  Present,Enabled          Manage auditing and security log
+    1040 MsMpEng.exe          20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+    1076 svchost.exe           7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+    1076 svchost.exe           2 SeCreateTokenPrivilege               Present,Enabled          Create a token object
+    1076 svchost.exe           9 SeTakeOwnershipPrivilege             Present,Enabled          Take ownership of files/objects
+    1076 svchost.exe          15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+    1076 svchost.exe           4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+    1076 svchost.exe           3 SeAssignPrimaryTokenPrivilege        Present,Enabled          Replace a process-level token
+    1076 svchost.exe           5 SeIncreaseQuotaPrivilege             Present,Enabled          Increase quotas
+    1076 svchost.exe          14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+    1076 svchost.exe          16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+    1076 svchost.exe          20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+    1076 svchost.exe          21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+    1076 svchost.exe           8 SeSecurityPrivilege                  Present,Enabled          Manage auditing and security log
+    1076 svchost.exe          22 SeSystemEnvironmentPrivilege         Present,Enabled          Edit firmware environment values
+    1076 svchost.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1076 svchost.exe          17 SeBackupPrivilege                    Present,Enabled          Backup files and directories
+    1076 svchost.exe          18 SeRestorePrivilege                   Present,Enabled          Restore files and directories
+    1076 svchost.exe          19 SeShutdownPrivilege                  Present,Enabled          Shut down the system
+    1076 svchost.exe          10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+    1076 svchost.exe          13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+    1076 svchost.exe          12 SeSystemtimePrivilege                Present,Enabled          Change the system time
+    1076 svchost.exe          25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+    1076 svchost.exe          28 SeManageVolumePrivilege              Present,Enabled          Manage the files on a volume
+    1076 svchost.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1076 svchost.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1200 svchost.exe          21 SeAuditPrivilege                     Present                  Generate security audits
+    1200 svchost.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    1200 svchost.exe           3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+    1200 svchost.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1200 svchost.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+    1200 svchost.exe          25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    1200 svchost.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1200 svchost.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1336 svchost.exe          21 SeAuditPrivilege                     Present                  Generate security audits
+    1336 svchost.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    1336 svchost.exe           3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+    1336 svchost.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1336 svchost.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+    1336 svchost.exe          25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    1336 svchost.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1336 svchost.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1516 spoolsv.exe           7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+    1516 spoolsv.exe           2 SeCreateTokenPrivilege               Present                  Create a token object
+    1516 spoolsv.exe           9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    1516 spoolsv.exe          15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+    1516 spoolsv.exe           4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+    1516 spoolsv.exe           3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+    1516 spoolsv.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    1516 spoolsv.exe          14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+    1516 spoolsv.exe          16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+    1516 spoolsv.exe          20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+    1516 spoolsv.exe          21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+    1516 spoolsv.exe           8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    1516 spoolsv.exe          22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    1516 spoolsv.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1516 spoolsv.exe          17 SeBackupPrivilege                    Present                  Backup files and directories
+    1516 spoolsv.exe          18 SeRestorePrivilege                   Present                  Restore files and directories
+    1516 spoolsv.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+    1516 spoolsv.exe          10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+    1516 spoolsv.exe          13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+    1516 spoolsv.exe          12 SeSystemtimePrivilege                Present                  Change the system time
+    1516 spoolsv.exe          25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+    1516 spoolsv.exe          28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    1516 spoolsv.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1516 spoolsv.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1752 explorer.exe         23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1752 explorer.exe          8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    1752 explorer.exe         17 SeBackupPrivilege                    Present                  Backup files and directories
+    1752 explorer.exe         18 SeRestorePrivilege                   Present                  Restore files and directories
+    1752 explorer.exe         12 SeSystemtimePrivilege                Present                  Change the system time
+    1752 explorer.exe         19 SeShutdownPrivilege                  Present                  Shut down the system
+    1752 explorer.exe         24 SeRemoteShutdownPrivilege            Present                  Force shutdown from a remote system
+    1752 explorer.exe          9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    1752 explorer.exe         20 SeDebugPrivilege                     Present,Enabled          Debug programs
+    1752 explorer.exe         22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    1752 explorer.exe         11 SeSystemProfilePrivilege             Present                  Profile system performance
+    1752 explorer.exe         13 SeProfileSingleProcessPrivilege      Present                  Profile a single process
+    1752 explorer.exe         14 SeIncreaseBasePriorityPrivilege      Present                  Increase scheduling priority
+    1752 explorer.exe         10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+    1752 explorer.exe         15 SeCreatePagefilePrivilege            Present                  Create a pagefile
+    1752 explorer.exe          5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    1752 explorer.exe         25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+    1752 explorer.exe         28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    1752 explorer.exe         29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1752 explorer.exe         30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1812 svchost.exe          21 SeAuditPrivilege                     Present                  Generate security audits
+    1812 svchost.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    1812 svchost.exe           3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+    1812 svchost.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1812 svchost.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+    1812 svchost.exe          25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    1812 svchost.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1812 svchost.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1876 VMwareTray.exe       23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1876 VMwareTray.exe        8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    1876 VMwareTray.exe       17 SeBackupPrivilege                    Present                  Backup files and directories
+    1876 VMwareTray.exe       18 SeRestorePrivilege                   Present                  Restore files and directories
+    1876 VMwareTray.exe       12 SeSystemtimePrivilege                Present                  Change the system time
+    1876 VMwareTray.exe       19 SeShutdownPrivilege                  Present                  Shut down the system
+    1876 VMwareTray.exe       24 SeRemoteShutdownPrivilege            Present                  Force shutdown from a remote system
+    1876 VMwareTray.exe        9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    1876 VMwareTray.exe       20 SeDebugPrivilege                     Present,Enabled          Debug programs
+    1876 VMwareTray.exe       22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    1876 VMwareTray.exe       11 SeSystemProfilePrivilege             Present                  Profile system performance
+    1876 VMwareTray.exe       13 SeProfileSingleProcessPrivilege      Present                  Profile a single process
+    1876 VMwareTray.exe       14 SeIncreaseBasePriorityPrivilege      Present                  Increase scheduling priority
+    1876 VMwareTray.exe       10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+    1876 VMwareTray.exe       15 SeCreatePagefilePrivilege            Present                  Create a pagefile
+    1876 VMwareTray.exe        5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    1876 VMwareTray.exe       25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    1876 VMwareTray.exe       28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    1876 VMwareTray.exe       29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1876 VMwareTray.exe       30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1888 VMwareUser.exe       23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1888 VMwareUser.exe        8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    1888 VMwareUser.exe       17 SeBackupPrivilege                    Present                  Backup files and directories
+    1888 VMwareUser.exe       18 SeRestorePrivilege                   Present                  Restore files and directories
+    1888 VMwareUser.exe       12 SeSystemtimePrivilege                Present                  Change the system time
+    1888 VMwareUser.exe       19 SeShutdownPrivilege                  Present                  Shut down the system
+    1888 VMwareUser.exe       24 SeRemoteShutdownPrivilege            Present                  Force shutdown from a remote system
+    1888 VMwareUser.exe        9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    1888 VMwareUser.exe       20 SeDebugPrivilege                     Present,Enabled          Debug programs
+    1888 VMwareUser.exe       22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    1888 VMwareUser.exe       11 SeSystemProfilePrivilege             Present                  Profile system performance
+    1888 VMwareUser.exe       13 SeProfileSingleProcessPrivilege      Present                  Profile a single process
+    1888 VMwareUser.exe       14 SeIncreaseBasePriorityPrivilege      Present                  Increase scheduling priority
+    1888 VMwareUser.exe       10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+    1888 VMwareUser.exe       15 SeCreatePagefilePrivilege            Present                  Create a pagefile
+    1888 VMwareUser.exe        5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    1888 VMwareUser.exe       25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+    1888 VMwareUser.exe       28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    1888 VMwareUser.exe       29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1888 VMwareUser.exe       30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1900 msseces.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1900 msseces.exe           8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    1900 msseces.exe          17 SeBackupPrivilege                    Present                  Backup files and directories
+    1900 msseces.exe          18 SeRestorePrivilege                   Present                  Restore files and directories
+    1900 msseces.exe          12 SeSystemtimePrivilege                Present                  Change the system time
+    1900 msseces.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+    1900 msseces.exe          24 SeRemoteShutdownPrivilege            Present                  Force shutdown from a remote system
+    1900 msseces.exe           9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    1900 msseces.exe          20 SeDebugPrivilege                     Present,Enabled          Debug programs
+    1900 msseces.exe          22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    1900 msseces.exe          11 SeSystemProfilePrivilege             Present                  Profile system performance
+    1900 msseces.exe          13 SeProfileSingleProcessPrivilege      Present                  Profile a single process
+    1900 msseces.exe          14 SeIncreaseBasePriorityPrivilege      Present                  Increase scheduling priority
+    1900 msseces.exe          10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+    1900 msseces.exe          15 SeCreatePagefilePrivilege            Present                  Create a pagefile
+    1900 msseces.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    1900 msseces.exe          25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    1900 msseces.exe          28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    1900 msseces.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1900 msseces.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    1912 ctfmon.exe           23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    1912 ctfmon.exe            8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    1912 ctfmon.exe           17 SeBackupPrivilege                    Present                  Backup files and directories
+    1912 ctfmon.exe           18 SeRestorePrivilege                   Present                  Restore files and directories
+    1912 ctfmon.exe           12 SeSystemtimePrivilege                Present                  Change the system time
+    1912 ctfmon.exe           19 SeShutdownPrivilege                  Present                  Shut down the system
+    1912 ctfmon.exe           24 SeRemoteShutdownPrivilege            Present                  Force shutdown from a remote system
+    1912 ctfmon.exe            9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    1912 ctfmon.exe           20 SeDebugPrivilege                     Present,Enabled          Debug programs
+    1912 ctfmon.exe           22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    1912 ctfmon.exe           11 SeSystemProfilePrivilege             Present                  Profile system performance
+    1912 ctfmon.exe           13 SeProfileSingleProcessPrivilege      Present                  Profile a single process
+    1912 ctfmon.exe           14 SeIncreaseBasePriorityPrivilege      Present                  Increase scheduling priority
+    1912 ctfmon.exe           10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+    1912 ctfmon.exe           15 SeCreatePagefilePrivilege            Present                  Create a pagefile
+    1912 ctfmon.exe            5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    1912 ctfmon.exe           25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    1912 ctfmon.exe           28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    1912 ctfmon.exe           29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    1912 ctfmon.exe           30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    2000 svchost.exe           7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+    2000 svchost.exe           2 SeCreateTokenPrivilege               Present                  Create a token object
+    2000 svchost.exe           9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    2000 svchost.exe          15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+    2000 svchost.exe           4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+    2000 svchost.exe           3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+    2000 svchost.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    2000 svchost.exe          14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+    2000 svchost.exe          16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+    2000 svchost.exe          20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+    2000 svchost.exe          21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+    2000 svchost.exe           8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    2000 svchost.exe          22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    2000 svchost.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    2000 svchost.exe          17 SeBackupPrivilege                    Present                  Backup files and directories
+    2000 svchost.exe          18 SeRestorePrivilege                   Present                  Restore files and directories
+    2000 svchost.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+    2000 svchost.exe          10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+    2000 svchost.exe          13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+    2000 svchost.exe          12 SeSystemtimePrivilege                Present                  Change the system time
+    2000 svchost.exe          25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+    2000 svchost.exe          28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    2000 svchost.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    2000 svchost.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     200 vmtoolsd.exe          7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+     200 vmtoolsd.exe          2 SeCreateTokenPrivilege               Present                  Create a token object
+     200 vmtoolsd.exe          9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+     200 vmtoolsd.exe         15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+     200 vmtoolsd.exe          4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+     200 vmtoolsd.exe          3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     200 vmtoolsd.exe          5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     200 vmtoolsd.exe         14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+     200 vmtoolsd.exe         16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+     200 vmtoolsd.exe         20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+     200 vmtoolsd.exe         21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+     200 vmtoolsd.exe          8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+     200 vmtoolsd.exe         22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+     200 vmtoolsd.exe         23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     200 vmtoolsd.exe         17 SeBackupPrivilege                    Present                  Backup files and directories
+     200 vmtoolsd.exe         18 SeRestorePrivilege                   Present                  Restore files and directories
+     200 vmtoolsd.exe         19 SeShutdownPrivilege                  Present                  Shut down the system
+     200 vmtoolsd.exe         10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+     200 vmtoolsd.exe         13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+     200 vmtoolsd.exe         12 SeSystemtimePrivilege                Present                  Change the system time
+     200 vmtoolsd.exe         25 SeUndockPrivilege                    Present                  Remove computer from docking station
+     200 vmtoolsd.exe         28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+     200 vmtoolsd.exe         29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     200 vmtoolsd.exe         30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+     424 VMUpgradeHelper       7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+     424 VMUpgradeHelper       2 SeCreateTokenPrivilege               Present                  Create a token object
+     424 VMUpgradeHelper       9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+     424 VMUpgradeHelper      15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+     424 VMUpgradeHelper       4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+     424 VMUpgradeHelper       3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+     424 VMUpgradeHelper       5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+     424 VMUpgradeHelper      14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+     424 VMUpgradeHelper      16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+     424 VMUpgradeHelper      20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+     424 VMUpgradeHelper      21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+     424 VMUpgradeHelper       8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+     424 VMUpgradeHelper      22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+     424 VMUpgradeHelper      23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+     424 VMUpgradeHelper      17 SeBackupPrivilege                    Present                  Backup files and directories
+     424 VMUpgradeHelper      18 SeRestorePrivilege                   Present                  Restore files and directories
+     424 VMUpgradeHelper      19 SeShutdownPrivilege                  Present                  Shut down the system
+     424 VMUpgradeHelper      10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+     424 VMUpgradeHelper      13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+     424 VMUpgradeHelper      12 SeSystemtimePrivilege                Present                  Change the system time
+     424 VMUpgradeHelper      25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+     424 VMUpgradeHelper      28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+     424 VMUpgradeHelper      29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+     424 VMUpgradeHelper      30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    2028 wscntfy.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    2028 wscntfy.exe           8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    2028 wscntfy.exe          17 SeBackupPrivilege                    Present                  Backup files and directories
+    2028 wscntfy.exe          18 SeRestorePrivilege                   Present                  Restore files and directories
+    2028 wscntfy.exe          12 SeSystemtimePrivilege                Present                  Change the system time
+    2028 wscntfy.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+    2028 wscntfy.exe          24 SeRemoteShutdownPrivilege            Present                  Force shutdown from a remote system
+    2028 wscntfy.exe           9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    2028 wscntfy.exe          20 SeDebugPrivilege                     Present,Enabled          Debug programs
+    2028 wscntfy.exe          22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    2028 wscntfy.exe          11 SeSystemProfilePrivilege             Present                  Profile system performance
+    2028 wscntfy.exe          13 SeProfileSingleProcessPrivilege      Present                  Profile a single process
+    2028 wscntfy.exe          14 SeIncreaseBasePriorityPrivilege      Present                  Increase scheduling priority
+    2028 wscntfy.exe          10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+    2028 wscntfy.exe          15 SeCreatePagefilePrivilege            Present                  Create a pagefile
+    2028 wscntfy.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    2028 wscntfy.exe          25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    2028 wscntfy.exe          28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    2028 wscntfy.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    2028 wscntfy.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    2068 TPAutoConnSvc.e       7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+    2068 TPAutoConnSvc.e       2 SeCreateTokenPrivilege               Present                  Create a token object
+    2068 TPAutoConnSvc.e       9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    2068 TPAutoConnSvc.e      15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+    2068 TPAutoConnSvc.e       4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+    2068 TPAutoConnSvc.e       3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+    2068 TPAutoConnSvc.e       5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    2068 TPAutoConnSvc.e      14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+    2068 TPAutoConnSvc.e      16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+    2068 TPAutoConnSvc.e      20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+    2068 TPAutoConnSvc.e      21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+    2068 TPAutoConnSvc.e       8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    2068 TPAutoConnSvc.e      22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    2068 TPAutoConnSvc.e      23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    2068 TPAutoConnSvc.e      17 SeBackupPrivilege                    Present                  Backup files and directories
+    2068 TPAutoConnSvc.e      18 SeRestorePrivilege                   Present                  Restore files and directories
+    2068 TPAutoConnSvc.e      19 SeShutdownPrivilege                  Present                  Shut down the system
+    2068 TPAutoConnSvc.e      10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+    2068 TPAutoConnSvc.e      13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+    2068 TPAutoConnSvc.e      12 SeSystemtimePrivilege                Present                  Change the system time
+    2068 TPAutoConnSvc.e      25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    2068 TPAutoConnSvc.e      28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    2068 TPAutoConnSvc.e      29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    2068 TPAutoConnSvc.e      30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    2272 alg.exe              21 SeAuditPrivilege                     Present                  Generate security audits
+    2272 alg.exe               5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    2272 alg.exe               3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+    2272 alg.exe              23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    2272 alg.exe              19 SeShutdownPrivilege                  Present                  Shut down the system
+    2272 alg.exe              25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    2272 alg.exe              29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    2272 alg.exe              30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    3372 TPAutoConnect.e      23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    3372 TPAutoConnect.e       8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    3372 TPAutoConnect.e      17 SeBackupPrivilege                    Present                  Backup files and directories
+    3372 TPAutoConnect.e      18 SeRestorePrivilege                   Present                  Restore files and directories
+    3372 TPAutoConnect.e      12 SeSystemtimePrivilege                Present                  Change the system time
+    3372 TPAutoConnect.e      19 SeShutdownPrivilege                  Present                  Shut down the system
+    3372 TPAutoConnect.e      24 SeRemoteShutdownPrivilege            Present                  Force shutdown from a remote system
+    3372 TPAutoConnect.e       9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    3372 TPAutoConnect.e      20 SeDebugPrivilege                     Present,Enabled          Debug programs
+    3372 TPAutoConnect.e      22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    3372 TPAutoConnect.e      11 SeSystemProfilePrivilege             Present                  Profile system performance
+    3372 TPAutoConnect.e      13 SeProfileSingleProcessPrivilege      Present                  Profile a single process
+    3372 TPAutoConnect.e      14 SeIncreaseBasePriorityPrivilege      Present                  Increase scheduling priority
+    3372 TPAutoConnect.e      10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+    3372 TPAutoConnect.e      15 SeCreatePagefilePrivilege            Present                  Create a pagefile
+    3372 TPAutoConnect.e       5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    3372 TPAutoConnect.e      25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    3372 TPAutoConnect.e      28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    3372 TPAutoConnect.e      29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    3372 TPAutoConnect.e      30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    2396 msiexec.exe           7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+    2396 msiexec.exe           2 SeCreateTokenPrivilege               Present                  Create a token object
+    2396 msiexec.exe           9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    2396 msiexec.exe          15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+    2396 msiexec.exe           4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+    2396 msiexec.exe           3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+    2396 msiexec.exe           5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    2396 msiexec.exe          14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+    2396 msiexec.exe          16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+    2396 msiexec.exe          20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+    2396 msiexec.exe          21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+    2396 msiexec.exe           8 SeSecurityPrivilege                  Present,Enabled          Manage auditing and security log
+    2396 msiexec.exe          22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    2396 msiexec.exe          23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    2396 msiexec.exe          17 SeBackupPrivilege                    Present                  Backup files and directories
+    2396 msiexec.exe          18 SeRestorePrivilege                   Present                  Restore files and directories
+    2396 msiexec.exe          19 SeShutdownPrivilege                  Present                  Shut down the system
+    2396 msiexec.exe          10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+    2396 msiexec.exe          13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+    2396 msiexec.exe          12 SeSystemtimePrivilege                Present                  Change the system time
+    2396 msiexec.exe          25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+    2396 msiexec.exe          28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    2396 msiexec.exe          29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    2396 msiexec.exe          30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    3756 cmd.exe              23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    3756 cmd.exe               8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    3756 cmd.exe              17 SeBackupPrivilege                    Present                  Backup files and directories
+    3756 cmd.exe              18 SeRestorePrivilege                   Present                  Restore files and directories
+    3756 cmd.exe              12 SeSystemtimePrivilege                Present                  Change the system time
+    3756 cmd.exe              19 SeShutdownPrivilege                  Present                  Shut down the system
+    3756 cmd.exe              24 SeRemoteShutdownPrivilege            Present                  Force shutdown from a remote system
+    3756 cmd.exe               9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    3756 cmd.exe              20 SeDebugPrivilege                     Present,Enabled          Debug programs
+    3756 cmd.exe              22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    3756 cmd.exe              11 SeSystemProfilePrivilege             Present                  Profile system performance
+    3756 cmd.exe              13 SeProfileSingleProcessPrivilege      Present                  Profile a single process
+    3756 cmd.exe              14 SeIncreaseBasePriorityPrivilege      Present                  Increase scheduling priority
+    3756 cmd.exe              10 SeLoadDriverPrivilege                Present,Enabled          Load and unload device drivers
+    3756 cmd.exe              15 SeCreatePagefilePrivilege            Present                  Create a pagefile
+    3756 cmd.exe               5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    3756 cmd.exe              25 SeUndockPrivilege                    Present,Enabled          Remove computer from docking station
+    3756 cmd.exe              28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    3756 cmd.exe              29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    3756 cmd.exe              30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
+    3128 cmd.exe               7 SeTcbPrivilege                       Present,Enabled,Default  Act as part of the operating system
+    3128 cmd.exe               2 SeCreateTokenPrivilege               Present                  Create a token object
+    3128 cmd.exe               9 SeTakeOwnershipPrivilege             Present                  Take ownership of files/objects
+    3128 cmd.exe              15 SeCreatePagefilePrivilege            Present,Enabled,Default  Create a pagefile
+    3128 cmd.exe               4 SeLockMemoryPrivilege                Present,Enabled,Default  Lock pages in memory
+    3128 cmd.exe               3 SeAssignPrimaryTokenPrivilege        Present                  Replace a process-level token
+    3128 cmd.exe               5 SeIncreaseQuotaPrivilege             Present                  Increase quotas
+    3128 cmd.exe              14 SeIncreaseBasePriorityPrivilege      Present,Enabled,Default  Increase scheduling priority
+    3128 cmd.exe              16 SeCreatePermanentPrivilege           Present,Enabled,Default  Create permanent shared objects
+    3128 cmd.exe              20 SeDebugPrivilege                     Present,Enabled,Default  Debug programs
+    3128 cmd.exe              21 SeAuditPrivilege                     Present,Enabled,Default  Generate security audits
+    3128 cmd.exe               8 SeSecurityPrivilege                  Present                  Manage auditing and security log
+    3128 cmd.exe              22 SeSystemEnvironmentPrivilege         Present                  Edit firmware environment values
+    3128 cmd.exe              23 SeChangeNotifyPrivilege              Present,Enabled,Default  Receive notifications of changes to files or directories
+    3128 cmd.exe              17 SeBackupPrivilege                    Present                  Backup files and directories
+    3128 cmd.exe              18 SeRestorePrivilege                   Present                  Restore files and directories
+    3128 cmd.exe              19 SeShutdownPrivilege                  Present                  Shut down the system
+    3128 cmd.exe              10 SeLoadDriverPrivilege                Present                  Load and unload device drivers
+    3128 cmd.exe              13 SeProfileSingleProcessPrivilege      Present,Enabled,Default  Profile a single process
+    3128 cmd.exe              12 SeSystemtimePrivilege                Present                  Change the system time
+    3128 cmd.exe              25 SeUndockPrivilege                    Present                  Remove computer from docking station
+    3128 cmd.exe              28 SeManageVolumePrivilege              Present                  Manage the files on a volume
+    3128 cmd.exe              29 SeImpersonatePrivilege               Present,Enabled,Default  Impersonate a client after authentication
+    3128 cmd.exe              30 SeCreateGlobalPrivilege              Present,Enabled,Default  Create global objects
