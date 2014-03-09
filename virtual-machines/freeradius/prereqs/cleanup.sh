@@ -1,14 +1,26 @@
-#!/bin/bash -eux
+#!/bin/sh
 
-apt-get -y remove linux-headers-$(uname -r) build-essential
-apt-get -y autoremove
-apt-get -y purge $(dpkg --list |grep '^rc' |awk '{print $2}')
-apt-get -y purge $(dpkg --list |egrep 'linux-image-[0-9]' |awk '{print $3,$2}' |sort -nr |tail -n +2 |grep -v $(uname -r) |awk '{ print $2}')
-apt-get -y clean
+if [ -x /usr/bin/apt-get ]; then
+    apt-get -y autoremove build-essential
+    apt-get -y clean
+    rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+fi
 
-rm -rf VBoxGuestAdditions_*.iso VBoxGuestAdditions_*.iso.? /var/lib/dhcp/*
+if [ -x /usr/local/sbin/portsclean ]; then
+    /usr/local/sbin/portsclean -C
+fi
 
-echo "pre-up sleep 2" >> /etc/network/interfaces
+if [ -f /etc/network/interfaces ]; then
+    echo "pre-up sleep 2" >> /etc/network/interfaces
+fi
+
+if [ -d /var/lib/dhcp ]; then
+    rm -f /var/lib/dhcp/*
+fi
+
+if [ -f /root/.history ]; then
+    cat /dev/null > /root/.history
+fi
 
 dd if=/dev/zero of=/tmp/EMPTY bs=1M
 rm -f /tmp/EMPTY
