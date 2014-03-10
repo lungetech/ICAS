@@ -15,3 +15,6 @@ wget http://www.nostarch.com/download/ppa-capture-files.zip -O pcaps/ppa-capture
 vagrant ssh -c "sudo cp /vagrant/pcaps/*.pcap /vagrant/pcaps/*.cap /vagrant/pcaps/*.dmp /opt/xplico/pol_1/sol_1/new"
 
 ```
+
+Once the VM has been setup as above, browse to http://localhost:9876/
+
