@@ -1,6 +1,7 @@
 all:
+	@echo Make targets include: build, setup, upload-pcap, and clean
 
-all:
+setup:
 	vagrant up
 	vagrant ssh -c "sudo /etc/init.d/xplico start"
 	vagrant ssh -c "sudo /opt/xplico/script/session_mng.pyc -n ICAS 'First Case'"
