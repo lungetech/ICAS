@@ -16,5 +16,4 @@ vagrant ssh -c "sudo cp /vagrant/pcaps/*.pcap /vagrant/pcaps/*.cap /vagrant/pcap
 
 ```
 
-Once the VM has been setup as above, browse to http://localhost:9876/
-
+Once the VM has been setup as above, browse to http://xplico:xplico@localhost:9876/
