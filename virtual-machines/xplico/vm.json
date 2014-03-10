@@ -1,0 +1,91 @@
+{
+  "builders": [
+    {
+      "boot_command": [
+        "<esc><wait>",
+        "<esc><wait>",
+        "<enter><wait>",
+        "/install/vmlinuz",
+        " auto",
+        " console-setup/ask_detect=false",
+        " console-setup/layoutcode=us",
+        " console-setup/modelcode=pc105",
+        " debconf/frontend=noninteractive",
+        " debian-installer=en_US",
+        " fb=false",
+        " initrd=/install/initrd.gz",
+        " kbd-chooser/method=us",
+        " keyboard-configuration/layout=USA",
+        " keyboard-configuration/variant=USA",
+        " locale=en_US",
+        " netcfg/get_domain=vm",
+        " netcfg/get_hostname=vagrant",
+        " noapic",
+        " preseed/url=http://{{ .HTTPIP }}:{{ .HTTPPort }}/install-ubuntu.cfg",
+        " -- ",
+        "<enter><wait>"
+      ],
+      "boot_wait": "10s",
+      "disk_size": 20480,
+      "guest_additions_path": "VBoxGuestAdditions_{{.Version}}.iso",
+      "guest_os_type": "Ubuntu_64",
+      "headless": false,
+      "http_directory": "prereqs",
+      "iso_checksum": "5dd72c694c3a7e06a3b4dd651ca26cfc70985004",
+      "iso_checksum_type": "sha1",
+      "iso_url": "{{user `mirror`}}/13.10/ubuntu-13.10-server-amd64.iso",
+      "shutdown_command": "echo 'vagrant' | sudo -S /sbin/shutdown -hP now",
+      "ssh_password": "vagrant",
+      "ssh_port": 22,
+      "ssh_username": "vagrant",
+      "ssh_wait_timeout": "10000s",
+      "type": "virtualbox-iso",
+      "vboxmanage": [
+        [
+          "modifyvm",
+          "{{.Name}}",
+          "--memory",
+          "512"
+        ],
+        [
+          "modifyvm",
+          "{{.Name}}",
+          "--cpus",
+          "1"
+        ]
+      ],
+      "vm_name": "{{ user `package` }}-ubuntu-13.10"
+    }
+  ],
+  "post-processors": [
+    {
+      "compression_level": 9,
+      "keep_input_artifact": false,
+      "only": [
+        "virtualbox-iso"
+      ],
+      "output": "{{ user `package`}}.box",
+      "type": "vagrant"
+    }
+  ],
+  "provisioners": [
+    {
+      "execute_command": "echo 'vagrant' | {{ .Vars }} sudo -E -S sh '{{ .Path }}'",
+      "scripts": [
+        "prereqs/grub.sh",
+        "prereqs/ssh.sh",
+        "prereqs/sudo.sh",
+        "prereqs/vagrant.sh",
+        "prereqs/virtualbox.sh",
+        "prereqs/{{ user `package`}}.sh",
+        "prereqs/cleanup.sh"
+      ],
+      "type": "shell"
+    }
+  ],
+  "variables": {
+    "package": "xplico",
+    "mirror": "http://releases.ubuntu.com"
+  }
+}
+
